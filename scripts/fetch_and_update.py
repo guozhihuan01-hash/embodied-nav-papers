@@ -18,6 +18,9 @@ KEYWORDS = [
     '"embodied AI" AND navigation',
     '"robot navigation" AND ("embodied" OR "interactive" OR "instruction")',
     '"object navigation"',
+    '"social navigation"',
+    '"point navigation"',
+    '"navigation"',
     '"semantic navigation"',
 ]
 
