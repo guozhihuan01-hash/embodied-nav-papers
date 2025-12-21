@@ -1,564 +1,812 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 554** | Last updated: **2025-12-21 09:39 UTC**
+> **Total papers: 1550** | Last updated: **2025-12-21 10:05 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/pdf/2512.16909v1) | Ju, Liang, Wang | — | 2025-12-18 |
+| [CitySeeker: How Do VLMS Explore Embodied Urban Navigation With Implicit Human Needs?](https://arxiv.org/pdf/2512.16755v1) | Wang, Liang, Gao | — | 2025-12-18 |
+| [Algorithmic Monetary Policies for Blockchain Participation Games](https://arxiv.org/pdf/2512.16514v1) | Ferraioli, Penna, Schneider | — | 2025-12-18 |
+| [YOLO11-4K: An Efficient Architecture for Real-Time Small Object Detection in 4K Panoramic Images](https://arxiv.org/pdf/2512.16493v1) | Hafeez, Garratt, Plested | — | 2025-12-18 |
+| [SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning](https://arxiv.org/pdf/2512.16461v1) | Sohn, Dillitzer, Corso | — | 2025-12-18 |
+| [E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion](https://arxiv.org/pdf/2512.16446v1) | Yalcin, O'Hara, Stamatopoulou | — | 2025-12-18 |
+| [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](https://arxiv.org/pdf/2512.16295v1) | Wu, Xie, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/numbmelon/OS-Oracle) | 2025-12-18 |
+| [LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling (Copy)](https://arxiv.org/pdf/2512.16070v1) | Wang, Li, Ding | — | 2025-12-18 |
+| [SWIFT-Nav: Stability-Aware Waypoint-Level TD3 with Fuzzy Arbitration for UAV Navigation in Cluttered Environments](https://arxiv.org/pdf/2512.16027v1) | Ji, Bamdad, Cruz | — | 2025-12-17 |
 | [Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios](https://arxiv.org/pdf/2512.16019v1) | Zhang, Tsoi, Nagib | — | 2025-12-17 |
+| [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](https://arxiv.org/pdf/2512.15940v1) | Sohn, Dillitzer, Corso | — | 2025-12-17 |
+| [City Navigation in the Wild: Exploring Emergent Navigation from Web-Scale Knowledge in MLLMs](https://arxiv.org/pdf/2512.15933v1) | Dalal, Mishra, Ahuja | — | 2025-12-17 |
+| [Prospects for quantum advantage in machine learning from the representability of functions](https://arxiv.org/pdf/2512.15661v1) | Masot-Llima, Gil-Fuster, Bravo-Prieto | — | 2025-12-17 |
+| [Deep Reinforcement Learning for EH-Enabled Cognitive-IoT Under Jamming Attacks](https://arxiv.org/pdf/2512.15558v1) | Abdolkhani, Khalek, Hamouda | — | 2025-12-17 |
+| [OMCL: Open-vocabulary Monte Carlo Localization](https://arxiv.org/pdf/2512.15557v1) | Kruzhkov, Memmesheimer, Behnke | — | 2025-12-17 |
+| [GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices](https://arxiv.org/pdf/2512.15491v1) | Namnakani, Abdrabou, Grizou | — | 2025-12-17 |
+| [Vision-based module for accurately reading linear scales in a laboratory](https://arxiv.org/pdf/2512.15327v1) | Saini, Maiti, Rai | — | 2025-12-17 |
+| [VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments](https://arxiv.org/pdf/2512.15258v1) | Wu, Zhu, Li | — | 2025-12-17 |
+| [Remote Magnetic Levitation Using Reduced Attitude Control and Parametric Field Models](https://arxiv.org/pdf/2512.15207v1) | Singh, Zughaibi, Arx | — | 2025-12-17 |
+| [MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers](https://arxiv.org/pdf/2512.15163v1) | Zong, Shen, Wang | — | 2025-12-17 |
 | [HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles](https://arxiv.org/pdf/2512.15047v1) | Wang, Feng, Fang | — | 2025-12-17 |
 | [MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/pdf/2512.14691v2) | Cai, Qiu, Ma | — | 2025-12-16 |
+| [Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations](https://arxiv.org/pdf/2512.14428v1) | Kurda, Steuernagel, Jung | — | 2025-12-16 |
+| [Synthetic Data Pipelines for Adaptive, Mission-Ready Militarized Humanoids](https://arxiv.org/pdf/2512.14411v1) | Habib, Petruzzelli | — | 2025-12-16 |
+| [Steering Alternative Realities through Local Quantum Memory Operations](https://arxiv.org/pdf/2512.14377v1) | Ma | — | 2025-12-16 |
+| [Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments](https://arxiv.org/pdf/2512.14340v1) | Karhunen, Hakala, Karjalainen | — | 2025-12-16 |
+| [Universal Structure of Nonlocal Operators for Deterministic Navigation and Geometric Locking](https://arxiv.org/pdf/2512.14302v1) | Bao, Guo, Qu | — | 2025-12-16 |
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/pdf/2512.14222v2) | Ding, Gao, Pan | — | 2025-12-16 |
+| [E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms](https://arxiv.org/pdf/2512.14046v1) | Li, Jin, Zhao | — | 2025-12-16 |
+| [Deep Learning Perspective of Scene Understanding in Autonomous Robots](https://arxiv.org/pdf/2512.14020v1) | Maham, Tashfa | — | 2025-12-16 |
+| [Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline](https://arxiv.org/pdf/2512.13974v1) | Naderi, Shojaei, Agee | — | 2025-12-16 |
+| [Group-Theoretic Reinforcement Learning of Dynamical Decoupling Sequences](https://arxiv.org/pdf/2512.13890v1) | Marrder, Sun, Holland | — | 2025-12-15 |
+| [World Models Can Leverage Human Videos for Dexterous Manipulation](https://arxiv.org/pdf/2512.13644v1) | Goswami, Bar, Fan | — | 2025-12-15 |
+| [Reinforcement Learning based 6-DoF Maneuvers for Microgravity Intravehicular Docking: A Simulation Study with Int-Ball2 in ISS-JEM](https://arxiv.org/pdf/2512.13514v1) | Arora, El-Hariry, Olivares-Mendez | — | 2025-12-15 |
+| [Evaluating the Navigation Capabilities of a Modified COAST Guidewire Robot in an Anatomical Phantom Model](https://arxiv.org/pdf/2512.13477v1) | Brumfiel, Konda, Elliott | — | 2025-12-15 |
+| [From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/pdf/2512.13438v1) | Ran, Gong, Guo | — | 2025-12-15 |
+| [End2Reg: Learning Task-Specific Segmentation for Markerless Registration in Spine Surgery](https://arxiv.org/pdf/2512.13402v1) | Pettinari, Hadramy, Wehrli | — | 2025-12-15 |
+| [SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2512.14757v1) | Kawabata, Zhang, Xiao | — | 2025-12-15 |
+| [Intrinsic-Motivation Multi-Robot Social Formation Navigation with Coordinated Exploration](https://arxiv.org/pdf/2512.13293v2) | Fu, Liu, Zhou | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/czxhunzi/CEMRRL) | 2025-12-15 |
+| [Integrating ethical, societal and environmental issues into algorithm design courses](https://arxiv.org/pdf/2512.13216v1) | Bellenguez, Brauner, Solnon | — | 2025-12-15 |
 | [Multi-directional Safe Rectangle Corridor-Based MPC for Nonholonomic Robots Navigation in Cluttered Environment](https://arxiv.org/pdf/2512.13215v1) | Qu, Li, Zhong | — | 2025-12-15 |
+| [Legitimizing, Developing, and Sustaining Feminist HCI in East Asia: Challenges and Opportunities](https://arxiv.org/pdf/2512.13000v1) | Zhang, Wan, Jiaqi | — | 2025-12-15 |
+| [Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views](https://arxiv.org/pdf/2512.12980v1) | Chen, Fu, Wu | — | 2025-12-15 |
+| [WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment](https://arxiv.org/pdf/2512.12692v1) | Dihan, Hashem, Ali | — | 2025-12-14 |
 | [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](https://arxiv.org/pdf/2512.12622v1) | Wang, Lee, Dai | — | 2025-12-14 |
+| [ceLLMate: Sandboxing Browser AI Agents](https://arxiv.org/pdf/2512.12594v1) | Meng, Feng, Shumailov | — | 2025-12-14 |
+| [Improved Directional State Transition Tensors for Accurate Aerocapture Performance Analysis](https://arxiv.org/pdf/2512.12475v1) | Calkins, McMahon, Woffinden | — | 2025-12-13 |
+| [From Co-Design to Metacognitive Laziness: Evaluating Generative AI in Vocational Education](https://arxiv.org/pdf/2512.12306v1) | Yunus, Gay, Lee | — | 2025-12-13 |
+| [Semantic Zone based 3D Map Management for Mobile Robot](https://arxiv.org/pdf/2512.12228v1) | Yun, Yoo | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/huichangs/rtabmap) | 2025-12-13 |
+| [Scalable branch-and-bound model selection with non-monotonic criteria including AIC, BIC and Mallows's $\mathit{C_p}$](https://arxiv.org/pdf/2512.12221v1) | Vanhoefer, Körner, Doresic | — | 2025-12-13 |
+| [Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion](https://arxiv.org/pdf/2512.12203v1) | Elias, Esswein, How | — | 2025-12-13 |
+| [Floorplan2Guide: LLM-Guided Floorplan Parsing for BLV Indoor Navigation](https://arxiv.org/pdf/2512.12177v1) | Ayanzadeh, Oates | — | 2025-12-13 |
+| [Random Combinatorial Libraries and Automated Nanoindentation for High-Throughput Structural Materials Discovery](https://arxiv.org/pdf/2512.12164v1) | Chawla, Penumadu, Kalinin | — | 2025-12-13 |
+| [DreamRAM: A Fine-Grained Configurable Design Space Modeling Tool for Custom 3D Die-Stacked DRAM](https://arxiv.org/pdf/2512.12106v1) | Cai, Zhou, Do | — | 2025-12-13 |
+| [CLOAK: Contrastive Guidance for Latent Diffusion-Based Data Obfuscation](https://arxiv.org/pdf/2512.12086v1) | Yang, Ardakanian | — | 2025-12-12 |
+| [Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning](https://arxiv.org/pdf/2512.12046v1) | Giammarino, Qureshi | — | 2025-12-12 |
 | [Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots](https://arxiv.org/pdf/2512.11736v1) | Zhong, Caro, Ramesh | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/IvanIZ/BenchNPIN) | 2025-12-12 |
+| [Reconstruction as a Bridge for Event-Based Visual Question Answering](https://arxiv.org/pdf/2512.11510v1) | Lou, Zhou, Zhang | — | 2025-12-12 |
+| [How AI Agents Follow the Herd of AI? Network Effects, History, and Machine Optimism](https://arxiv.org/pdf/2512.11943v1) | Liu, Li, Dou | — | 2025-12-12 |
+| [Distributed Quantum Magnetic Sensing for Infrastructure-free Geo-localization](https://arxiv.org/pdf/2512.11300v2) | Le, Guo, Liu | — | 2025-12-12 |
+| [ReactorFold: Generative discovery of nuclear reactor cores via emergent physical reasoning](https://arxiv.org/pdf/2512.15756v1) | Lee | — | 2025-12-12 |
+| [Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance](https://arxiv.org/pdf/2512.11173v1) | Lee, Mahmudova, Desingh | — | 2025-12-11 |
+| [Supporting Medicinal Chemists in Iterative Hypothesis Generation for Drug Target Identification](https://arxiv.org/pdf/2512.11105v1) | Jeon, Hwang, Li | — | 2025-12-11 |
+| [An Open Source Realtime GPU Beamformer for Row-Column and Top Orthogonal to Bottom Electrode (TOBE) Arrays](https://arxiv.org/pdf/2512.11086v1) | Palamar, Dahunsi, Henry | — | 2025-12-11 |
+| [Integrating Regional Ice Charts and Copernicus Sea Ice Products for Navigation Risk in Alaskan Waters](https://arxiv.org/pdf/2512.11083v1) | Peel, Gedikli | — | 2025-12-11 |
+| [An Open Benchmark of One Million High-Fidelity Cislunar Trajectories](https://arxiv.org/pdf/2512.11064v1) | Yeager, Higgins, Mcgill | — | 2025-12-11 |
+| [Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision](https://arxiv.org/pdf/2512.10956v1) | Zhou, Chen, Rajagopal | — | 2025-12-11 |
+| [Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit](https://arxiv.org/pdf/2512.10934v1) | Mari, Pasquet, Seinturier | — | 2025-12-11 |
+| [Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation](https://arxiv.org/pdf/2512.10925v1) | Mari, Nawaf, Drap | — | 2025-12-11 |
+| [NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation](https://arxiv.org/pdf/2512.10660v1) | Wu, Steiner, Schmidt | — | 2025-12-11 |
+| [Financial Management Challenges in Enterprises Employing Remote and Hybrid Workforces](https://arxiv.org/pdf/2512.11918v1) | Ćwiąkała, Wojak, Baran | — | 2025-12-11 |
+| [Seamless Outdoor-Indoor Pedestrian Positioning System with GNSS/UWB/IMU Fusion: A Comparison of EKF, FGO, and PF](https://arxiv.org/pdf/2512.10480v1) | Zhang, Yu, Ha | — | 2025-12-11 |
+| [Design and Implementation of a High-Precision Wind-Estimation UAV with Onboard Sensors](https://arxiv.org/pdf/2512.10428v1) | Yu, Fan, Liu | — | 2025-12-11 |
+| [Collision-Aware Density-Driven Control of Multi-Agent Systems via Control Barrier Functions](https://arxiv.org/pdf/2512.10392v1) | Seo, Lee | — | 2025-12-11 |
+| [Point to Span: Zero-Shot Moment Retrieval for Navigating Unseen Hour-Long Videos](https://arxiv.org/pdf/2512.10363v1) | Jeon, Yang, Han | — | 2025-12-11 |
 | [CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/pdf/2512.10360v1) | Wang, He, Li | — | 2025-12-11 |
+| [CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates](https://arxiv.org/pdf/2512.10342v1) | Grover, Pathak, Kumar | — | 2025-12-11 |
 | [User-Feedback-Driven Continual Adaptation for Vision-and-Language Navigation](https://arxiv.org/pdf/2512.10322v1) | Yu, Li, Mahmood | — | 2025-12-11 |
+| [Design of a six wheel suspension and a three-axis linear actuation mechanism for a laser weeding robot](https://arxiv.org/pdf/2512.10319v1) | Usama, Khan, Hasan | — | 2025-12-11 |
 | [Efficient-VLN: A Training-Efficient Vision-Language Navigation Model](https://arxiv.org/pdf/2512.10310v1) | Zheng, Huang, Li | — | 2025-12-11 |
 | [SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/pdf/2512.10046v1) | Zhuang, Ren, Ye | — | 2025-12-10 |
+| [Closing the Train-Test Gap in World Models for Gradient-Based Planning](https://arxiv.org/pdf/2512.09929v1) | Parthasarathy, Kalra, Agrawal | — | 2025-12-10 |
+| [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/pdf/2512.09920v1) | Chen, Li, Jiang | — | 2025-12-10 |
+| [YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos](https://arxiv.org/pdf/2512.09903v1) | Meegan, D'Souza, Cao | — | 2025-12-10 |
+| [Visual Heading Prediction for Autonomous Aerial Vehicles](https://arxiv.org/pdf/2512.09898v1) | Ahmari, Mohammadi, Hemmati | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Kooroshraf/UAV-UGV-Integration) | 2025-12-10 |
+| [KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering](https://arxiv.org/pdf/2512.10999v1) | Sun, Chen, Zheng | — | 2025-12-10 |
+| [Multimodal motion and behavior switching of multistable ciliary walkers](https://arxiv.org/pdf/2512.09840v1) | Mohanty, Baconnier, Schomaker | — | 2025-12-10 |
+| [High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle](https://arxiv.org/pdf/2512.09798v1) | Mamani, Fernandez, Luna | — | 2025-12-10 |
+| [BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/pdf/2512.09972v2) | Chen, Luo, Zhu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/xin8coder/BAMBO) | 2025-12-10 |
+| [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](https://arxiv.org/pdf/2512.11903v1) | Catalano, Montijano, Civera | — | 2025-12-10 |
+| [VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](https://arxiv.org/pdf/2512.09646v1) | Zhang, Foo, Beeler | — | 2025-12-10 |
 | [UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories](https://arxiv.org/pdf/2512.09607v1) | Mei, Yang, Guo | — | 2025-12-10 |
+| [Auto-BenchmarkCard: Automated Synthesis of Benchmark Documentation](https://arxiv.org/pdf/2512.09577v1) | Hofmann, Vejsbjerg, Salwala | — | 2025-12-10 |
+| [Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search](https://arxiv.org/pdf/2512.09566v2) | Ji, Yang, Xu | — | 2025-12-10 |
+| [REASAN: Learning Reactive Safe Navigation for Legged Robots](https://arxiv.org/pdf/2512.09537v1) | Yuan, Cao, Cao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/ASIG-X/REASAN) | 2025-12-10 |
+| [Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing](https://arxiv.org/pdf/2512.09463v1) | Coninck, Gamba, Doninck | — | 2025-12-10 |
+| [A Hierarchical, Model-Based System for High-Performance Humanoid Soccer](https://arxiv.org/pdf/2512.09431v1) | Wang, Zhu, Hou | — | 2025-12-10 |
+| [Characterizing Human Feedback-Based Control in Naturalistic Driving Interactions via Gaussian Process Regression with Linear Feedback](https://arxiv.org/pdf/2512.09097v1) | DiPirro, Devonport, Calderone | — | 2025-12-09 |
+| [Mental Models of Autonomy and Sentience Shape Reactions to AI](https://arxiv.org/pdf/2512.09085v1) | Pauketat, Shank, Manoli | — | 2025-12-09 |
+| [Reactive Vehicle Guidance using Dynamic Maneuvering Cue](https://arxiv.org/pdf/2512.09083v1) | Moll, Weintraub | — | 2025-12-09 |
+| [Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics](https://arxiv.org/pdf/2512.09071v1) | Trinh, Lyons | — | 2025-12-09 |
+| [ShelfAware: Real-Time Visual-Inertial Semantic Localization in Quasi-Static Environments with Low-Cost Sensors](https://arxiv.org/pdf/2512.09065v1) | Agrawal, Brawer, Naik | — | 2025-12-09 |
+| [Optimal navigation in two-dimensional regular and turbulent flows](https://arxiv.org/pdf/2512.08766v1) | Parfenyev | — | 2025-12-09 |
+| [Non Normalized Shared-Constraint Dynamic Games for Human-Robot Collaboration with Asymmetric Responsibility](https://arxiv.org/pdf/2512.08688v1) | Pustilnik, Borrelli | — | 2025-12-09 |
 | [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v1) | Xu, Liu, Luomei | — | 2025-12-09 |
+| [Inferring Causal Relationships to Improve Caching for Clients with Correlated Requests: Applications to VR](https://arxiv.org/pdf/2512.08626v1) | Bari, Veciana, Zhou | — | 2025-12-09 |
+| [NLoS Localization with Single Base Station Based on Radio Map](https://arxiv.org/pdf/2512.08608v1) | Xu, Guo, Wang | — | 2025-12-09 |
+| [RVC-NMPC: Nonlinear Model Predictive Control with Reciprocal Velocity Constraints for Mutual Collision Avoidance in Agile UAV Flight](https://arxiv.org/pdf/2512.08574v1) | Kratky, Penicka, Gupta | — | 2025-12-09 |
+| [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/pdf/2512.08492v1) | Kaliutau | — | 2025-12-09 |
+| [A Multi-Agent LLM Framework for Design Space Exploration in Autonomous Driving Systems](https://arxiv.org/pdf/2512.08476v1) | Shih, Wang, Li | — | 2025-12-09 |
+| [Time and Money Matters for Sustainability: Insights on User Preferences on Renewable Energy for Electric Vehicle Charging Stations](https://arxiv.org/pdf/2512.08437v1) | Du, Vavouris, Veisi | — | 2025-12-09 |
+| [Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296v2) | Kim, Gu, Park | — | 2025-12-09 |
+| [Empowering smart app development with SolidGPT: an edge-cloud hybrid AI agent framework](https://arxiv.org/pdf/2512.08286v1) | Hu, Wu, Qi | — | 2025-12-09 |
+| [Enabling Autonomous Navigation in a Snake Robot through Visual-Inertial Odometry and Closed-Loop Trajectory Tracking Control](https://arxiv.org/pdf/2512.11886v1) | Ali | — | 2025-12-09 |
+| [Learning Spatiotemporal Tubes for Temporal Reach-Avoid-Stay Tasks using Physics-Informed Neural Networks](https://arxiv.org/pdf/2512.08248v1) | Basu, Das, Jagtap | — | 2025-12-09 |
+| [Geometry-Aware Sparse Depth Sampling for High-Fidelity RGB-D Depth Completion in Robotic Systems](https://arxiv.org/pdf/2512.08229v1) | Salloom, Zhou, Sun | — | 2025-12-09 |
 | [Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation](https://arxiv.org/pdf/2512.08186v1) | Wei, Wan, Peng | — | 2025-12-09 |
+| [Robust Agents in Open-Ended Worlds](https://arxiv.org/pdf/2512.08139v1) | Samvelyan | — | 2025-12-09 |
+| [Evolutionary perspective of large language models on shaping research insights into healthcare disparities](https://arxiv.org/pdf/2512.08122v1) | An | — | 2025-12-08 |
+| [Bayesian Co-Navigation of a Computational Physical Model and AFM Experiment to Autonomously Survey a Combinatorial Materials Library](https://arxiv.org/pdf/2512.08084v1) | Slautin, Barakati, Liu | — | 2025-12-08 |
+| [Optimized Area Coverage in Disaster Response Utilizing Autonomous UAV Swarm Formations](https://arxiv.org/pdf/2512.08028v1) | Papakostas, Geladaris, Mastrogeorgiou | — | 2025-12-08 |
+| ["Your Privacy is Your Responsibility": Understanding How Users Collectively Navigate the Complexity of Privacy on Quora](https://arxiv.org/pdf/2512.08025v1) | Shiri, Xiong, Guo | — | 2025-12-08 |
+| [VLD: Visual Language Goal Distance for Reinforcement Learning Navigation](https://arxiv.org/pdf/2512.07976v1) | Milikic, Patel, Frey | — | 2025-12-08 |
+| [Can AI autonomously build, operate, and use the entire data stack?](https://arxiv.org/pdf/2512.07926v1) | Agarwal, Amini, Mehta | — | 2025-12-08 |
+| [Inchworm-Inspired Soft Robot with Groove-Guided Locomotion](https://arxiv.org/pdf/2512.07813v1) | Thanabalan, Bengtsson, Lafont | — | 2025-12-08 |
+| [Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes](https://arxiv.org/pdf/2512.07807v1) | Krakovsky, Fiebelman, Benaim | — | 2025-12-08 |
+| [EgoCampus: Egocentric Pedestrian Eye Gaze Model and Dataset](https://arxiv.org/pdf/2512.07668v1) | John, Kesari, DiMatteo | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/ComputerVisionRutgers/EgoCampus) | 2025-12-08 |
+| [Obstacle Avoidance of UAV in Dynamic Environments Using Direction and Velocity-Adaptive Artificial Potential Field](https://arxiv.org/pdf/2512.07609v2) | Pavle, Rajneesh, Sahoo | — | 2025-12-08 |
+| [Precise Liver Tumor Segmentation in CT Using a Hybrid Deep Learning-Radiomics Framework](https://arxiv.org/pdf/2512.07574v1) | Li, Jia, Sharipov | — | 2025-12-08 |
+| [Dictionary-Based Contrastive Learning for GNSS Jamming Detection](https://arxiv.org/pdf/2512.07512v1) | Hussain, Majal, Chughtai | — | 2025-12-08 |
+| [SemanticTours: A Conceptual Framework for Non-Linear, Knowledge Graph-Driven Data Tours](https://arxiv.org/pdf/2512.07483v1) | Fürst, Haar, El-Assady | — | 2025-12-08 |
+| [PrivORL: Differentially Private Synthetic Dataset for Offline Reinforcement Learning](https://arxiv.org/pdf/2512.07342v2) | Gong, Liu, Li | — | 2025-12-08 |
+| [Radiance-Field Reinforced Pretraining: Scaling Localization Models with Unlabeled Wireless Signals](https://arxiv.org/pdf/2512.07309v1) | Wang, Wang, Yang | — | 2025-12-08 |
+| [SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks](https://arxiv.org/pdf/2512.07266v1) | Tretter, Flögel, Vasilache | — | 2025-12-08 |
+| [The interstellar signature: A computational framework for open source interstellar tracking](https://arxiv.org/pdf/2512.07910v1) | Sahu | — | 2025-12-08 |
+| [Set-based Optimal, Robust, and Resilient Control with Applications to Autonomous Precision Landing](https://arxiv.org/pdf/2512.07043v1) | Kamath, Vinod, Elango | — | 2025-12-07 |
+| [Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge](https://arxiv.org/pdf/2512.06951v1) | Larchenko, Zarin, Karnatak | — | 2025-12-07 |
+| [A Unifying Human-Centered AI Fairness Framework](https://arxiv.org/pdf/2512.06944v1) | Rahman, Pan, Foulds | — | 2025-12-07 |
+| [Visual Function Profiles via Multi-Path Aggregation Reveal Neuron-Level Responses in the Drosophila Brain](https://arxiv.org/pdf/2512.06934v1) | Xie, Ren, Zhou | — | 2025-12-07 |
+| [Traversability Aware Autonomous Navigation for Multi-Modal Mobility Morphobot (M4)](https://arxiv.org/pdf/2512.11876v1) | Suryawanshi | — | 2025-12-07 |
+| [Large Language Models and Forensic Linguistics: Navigating Opportunities and Threats in the Age of Generative AI](https://arxiv.org/pdf/2512.06922v1) | Mikros | — | 2025-12-07 |
+| [Khalasi: Energy-Efficient Navigation for Surface Vehicles in Vortical Flow Fields](https://arxiv.org/pdf/2512.06912v2) | Gadhvi, Manjanna | — | 2025-12-07 |
+| [Model-Less Feedback Control of Space-based Continuum Manipulators using Backbone Tension Optimization](https://arxiv.org/pdf/2512.06754v1) | Rajneesh, Pavle, Sahoo | — | 2025-12-07 |
+| [Distribution-Aware Exploration for Adaptive HNSW Search](https://arxiv.org/pdf/2512.06636v1) | Zhang, Miller | — | 2025-12-07 |
+| [A New Trajectory-Oriented Approach to Enhancing Comprehensive Crowd Navigation Performance](https://arxiv.org/pdf/2512.06608v1) | Zhou, Piao, Gao | — | 2025-12-07 |
+| [The E-Rocket: Low-cost Testbed for TVC Rocket GNC Validation](https://arxiv.org/pdf/2512.06535v1) | Santos, Fonte, Martins | — | 2025-12-06 |
+| [Trajectory Optimization for Cellular-Connected UAV in Complex Environment with Partial CKM](https://arxiv.org/pdf/2512.06452v1) | Song, Lu, Zhang | — | 2025-12-06 |
+| [3DID: Direct 3D Inverse Design for Aerodynamics with Physics-Aware Optimization](https://arxiv.org/pdf/2512.08987v1) | Hao, Zhu, Yang | — | 2025-12-06 |
+| [Learning When to Switch: Adaptive Policy Selection via Reinforcement Learning](https://arxiv.org/pdf/2512.06250v1) | Tava | — | 2025-12-06 |
+| [Opinion: Learning Intuitive Physics May Require More than Visual Data](https://arxiv.org/pdf/2512.06232v1) | Su, Legris, Gureckis | — | 2025-12-06 |
+| [Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots](https://arxiv.org/pdf/2512.06207v1) | Suthar, Maity | — | 2025-12-05 |
+| [How Should We Evaluate Data Deletion in Graph-Based ANN Indexes?](https://arxiv.org/pdf/2512.06200v1) | Yamashita, Amagata, Matsui | — | 2025-12-05 |
+| [Cascaded Tightly-Coupled Observer Design for Single-Range-Aided Inertial Navigation](https://arxiv.org/pdf/2512.06198v1) | Sifour, Berkane, Tayebi | — | 2025-12-05 |
+| [Real-Time Spatiotemporal Tubes for Dynamic Unsafe Sets](https://arxiv.org/pdf/2512.06151v1) | Das, Upadhyay, Jagtap | — | 2025-12-05 |
+| [GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers](https://arxiv.org/pdf/2512.06147v1) | Hwang, Yang, Monon | — | 2025-12-05 |
+| [A Nonlinear Observer for Air-Velocity and Attitude Estimation Using Pitot and Barometric Measurements](https://arxiv.org/pdf/2512.06133v1) | Tchonkeu, Berkane, Hamel | — | 2025-12-05 |
+| [Comparative Analysis of Autonomous and Systematic Control Strategies for Hole-Doped Hubbard Clusters: Reinforcement Learning versus Physics-Guided Design](https://arxiv.org/pdf/2512.06095v1) | Dwivedi, Palandage | — | 2025-12-05 |
+| [LLM Harms: A Taxonomy and Discussion](https://arxiv.org/pdf/2512.05929v1) | Chen, Afroogh, Murali | — | 2025-12-05 |
+| [Real-time Remote Tracking and Autonomous Planning for Whale Rendezvous using Robots](https://arxiv.org/pdf/2512.05808v1) | Bhattacharya, Jadhav, Izhar | — | 2025-12-05 |
+| [DeeDeeExperiment: Building an infrastructure for integrating and managing omics data analysis results in R/Bioconductor](https://arxiv.org/pdf/2512.05731v1) | Abassi, Schwarz, Filippi | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/imbeimainz/DeeDeeExperiment) | 2025-12-05 |
+| [The Road of Adaptive AI for Precision in Cybersecurity](https://arxiv.org/pdf/2512.06048v1) | Garg | — | 2025-12-05 |
+| [From Challenge to Change: Design Principles for AI Transformations](https://arxiv.org/pdf/2512.05533v1) | Tavantzis, Lambiase, Russo | — | 2025-12-05 |
+| [Hertz-Integral-Linewidth Lasers based on Portable Solid-state Microresonators](https://arxiv.org/pdf/2512.05509v1) | Jin, Zhang, Zhang | — | 2025-12-05 |
+| [Generative Stochastic Optimal Transport: Guided Harmonic Path-Integral Diffusion](https://arxiv.org/pdf/2512.11859v1) | Chertkov | — | 2025-12-05 |
+| [Performance Evaluation of Deep Learning for Tree Branch Segmentation in Autonomous Forestry Systems](https://arxiv.org/pdf/2512.05418v1) | Lin, Xue, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/BennyLinntu/PerformanceTreeBranchSegmentation) | 2025-12-05 |
+| [Wake Vectoring for Efficient Morphing Flight](https://arxiv.org/pdf/2512.05211v1) | Mandralis, Schumacher, Gharib | — | 2025-12-04 |
+| [Rosetta Stone of Neural Mass Models](https://arxiv.org/pdf/2512.10982v1) | Castaldo, Aristides, Clusella | — | 2025-12-04 |
+| [Tokenizing Buildings: A Transformer for Layout Synthesis](https://arxiv.org/pdf/2512.04832v1) | Guevara, Rhee, Bidgoli | — | 2025-12-04 |
+| [TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](https://arxiv.org/pdf/2512.04772v1) | Martini, Ambrosio, Vilella-Cantos | — | 2025-12-04 |
+| [Hacia una moderna "republica de las ideas" via un nuevo ecosistema de comunicacion cientifica (Toward a modern "Republic of Ideas" via a new Ecosystem of Scientific Communication)](https://arxiv.org/pdf/2512.08977v1) | Lopez-Gonzalez | — | 2025-12-04 |
+| [When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering](https://arxiv.org/pdf/2512.04597v1) | Wu, Zhou, Zhao | — | 2025-12-04 |
+| [Bridging Probabilistic Inference and Behavior Trees: An Interactive Framework for Adaptive Multi-Robot Cooperation](https://arxiv.org/pdf/2512.04404v1) | Wang, Sun, Zhang | — | 2025-12-04 |
+| [Toward Enhanced Inertial Sensing via Dynamically Soft Topological States in Piezoelectric Microacoustic Metamaterials](https://arxiv.org/pdf/2512.04382v1) | Kaya, Pantuso, Galli | — | 2025-12-04 |
+| [FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination](https://arxiv.org/pdf/2512.04381v1) | He, Sun, Bai | — | 2025-12-04 |
+| [Decentralized Social Media and Artificial Intelligence in Digital Public Health Monitoring](https://arxiv.org/pdf/2512.04232v1) | Salathé, Mohanty | — | 2025-12-03 |
+| [The Loss Landscape of Powder X-Ray Diffraction-Based Structure Optimization Is Too Rough for Gradient Descent](https://arxiv.org/pdf/2512.04036v1) | Segal, Subramanian, Li | — | 2025-12-03 |
 | [MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation](https://arxiv.org/pdf/2512.03958v2) | Zhao, Lyu, Chen | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AlexTraveling/MDE-AgriVLN) | 2025-12-03 |
+| [A Modular Architecture Design for Autonomous Driving Racing in Controlled Environments](https://arxiv.org/pdf/2512.03886v1) | Fontan-Costas, Diaz-Cacho, Fernandez-Boullon | — | 2025-12-03 |
+| [Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models](https://arxiv.org/pdf/2512.03756v1) | Steiner, Wagner, Tas | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/KIT-MRT/future-motion) | 2025-12-03 |
+| [Origin-Conditional Trajectory Encoding: Measuring Urban Configurational Asymmetries through Neural Decomposition](https://arxiv.org/pdf/2512.03755v1) | Law, Yang, Chen | — | 2025-12-03 |
+| [Crossing the Sim2Real Gap Between Simulation and Ground Testing to Space Deployment of Autonomous Free-flyer Control](https://arxiv.org/pdf/2512.03736v1) | Stewart, Chapin, Leontie | — | 2025-12-03 |
 | [Context-Triggered Contingency Games for Strategic Multi-Agent Interaction](https://arxiv.org/pdf/2512.03639v1) | Schweppe, Schmuck | — | 2025-12-03 |
+| [Observation-driven correction of numerical weather prediction for marine winds](https://arxiv.org/pdf/2512.03606v1) | Peduto, Yang, Giezendanner | — | 2025-12-03 |
+| [Synthetic Cognitive Walkthrough: Aligning Large Language Model Performance with Human Cognitive Walkthrough](https://arxiv.org/pdf/2512.03568v1) | Zhong, McDonald, Hsieh | — | 2025-12-03 |
+| [CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding](https://arxiv.org/pdf/2512.03558v1) | Ung, Habault, Nishimura | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/ungquanghuy-kddi/CartoMapQA) | 2025-12-03 |
+| [Toward AI-Ready Medical Imaging Data](https://arxiv.org/pdf/2512.03541v1) | Nikolov, Amorim, Caufield | — | 2025-12-03 |
+| [EEA: Exploration-Exploitation Agent for Long Video Understanding](https://arxiv.org/pdf/2512.03500v1) | Yang, Zhu, Wang | — | 2025-12-03 |
+| [World Models for Autonomous Navigation of Terrestrial Robots from LIDAR Observations](https://arxiv.org/pdf/2512.03429v1) | Steinmetz, Rosa, Kich | — | 2025-12-03 |
+| [What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models](https://arxiv.org/pdf/2512.03422v1) | Deng, Pan, Yuan | — | 2025-12-03 |
+| [Continuous Prompts: LLM-Augmented Pipeline Processing over Unstructured Streams](https://arxiv.org/pdf/2512.03389v1) | Chen, Raghavan, Çetintemel | — | 2025-12-03 |
+| [The Homological Brain: Parity Principle and Amortized Inference](https://arxiv.org/pdf/2512.10976v1) | Li | — | 2025-12-03 |
+| [NavMapFusion: Diffusion-based Fusion of Navigation Maps for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2512.03317v1) | Monninger, Zhang, Staab | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/tmonnin/navmapfusion) | 2025-12-03 |
+| [Prior preferences in active inference agents: soft, hard, and goal shaping](https://arxiv.org/pdf/2512.03293v1) | Torresan, Kanai, Baltieri | — | 2025-12-02 |
+| [Scaling Internal-State Policy-Gradient Methods for POMDPs](https://arxiv.org/pdf/2512.03204v1) | Aberdeen, Baxter | — | 2025-12-02 |
+| [Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation](https://arxiv.org/pdf/2512.03040v2) | Xiao, Zhao, Li | — | 2025-12-02 |
+| [GNSS Array-Based Multipath Detection Employing UKF on Manifolds](https://arxiv.org/pdf/2512.02994v1) | Ahmed, Ballal, Liu | — | 2025-12-02 |
+| [SAT-MapIt: A SAT-based Modulo Scheduling Mapper for Coarse Grain Reconfigurable Architectures](https://arxiv.org/pdf/2512.02875v1) | Tirelli, Ferretti, Pozzi | — | 2025-12-02 |
+| [SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/pdf/2512.02851v3) | Zhura, Karaf, Batool | — | 2025-12-02 |
+| [From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/pdf/2512.02826v2) | Liu, Liu, Li | — | 2025-12-02 |
+| [AI-Driven Document Redaction in UK Public Authorities: Implementation Gaps, Regulatory Challenges, and the Human Oversight Imperative](https://arxiv.org/pdf/2512.02774v1) | Chen | — | 2025-12-02 |
 | [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/pdf/2512.02631v1) | Wang, Lin, Yang | — | 2025-12-02 |
+| [A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty](https://arxiv.org/pdf/2512.02544v1) | Ziheng, Dai, Ling | — | 2025-12-02 |
+| [WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling](https://arxiv.org/pdf/2512.02473v1) | Oshima, Iwasawa, Suzuki | — | 2025-12-02 |
 | [Vision to Geometry: 3D Spatial Memory for Sequential Embodied MLLM Reasoning and Exploration](https://arxiv.org/pdf/2512.02458v1) | Cai, Du, Wang | — | 2025-12-02 |
+| [Optimal Comprehensible Targeting](https://arxiv.org/pdf/2512.02424v1) | Zhang | — | 2025-12-02 |
+| [GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/pdf/2512.02423v1) | Yan, Shen, Huang | — | 2025-12-02 |
+| [Nav-$R^2$ Dual-Relation Reasoning for Generalizable Open-Vocabulary Object-Goal Navigation](https://arxiv.org/pdf/2512.02400v1) | Xiang, Zhang, Yang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AMAP-EAI/Nav-R2) | 2025-12-02 |
+| [AirSim360: A Panoramic Simulation Platform within Drone View](https://arxiv.org/pdf/2512.02009v1) | Ge, Pan, Zhang | — | 2025-12-01 |
+| [A framework for disentangling spatial and visual neural representations](https://arxiv.org/pdf/2512.01962v1) | Morimoto, Fournier, Saleem | — | 2025-12-01 |
 | [GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment](https://arxiv.org/pdf/2512.01952v1) | He, Patrikar, Kim | — | 2025-12-01 |
+| [NeuroHJR: Hamilton-Jacobi Reachability-based Obstacle Avoidance in Complex Environments with Physics-Informed Neural Networks](https://arxiv.org/pdf/2512.01897v1) | Halder, Majumder, R | — | 2025-12-01 |
+| [HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://arxiv.org/pdf/2512.01763v1) | Zhou, Chen, Xie | — | 2025-12-01 |
+| [AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/pdf/2512.01753v1) | Zhan, Ming, Li | — | 2025-12-01 |
+| [Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments](https://arxiv.org/pdf/2512.01668v1) | Yin, Liang, Guo | — | 2025-12-01 |
+| [Exploring Scavenging Strategies and Cognitive Problem-Solving in Indian Free-Ranging Dogs](https://arxiv.org/pdf/2512.01637v1) | Pal, Nandi, Gope | — | 2025-12-01 |
+| [A Platform for Evanescently Trapping Rb-87 Using Silicon Nitride Strip Waveguides Buried in Silica](https://arxiv.org/pdf/2512.01624v2) | Harding, Weidner | — | 2025-12-01 |
+| [Integrated YOLOP Perception and Lyapunov-based Control for Autonomous Mobile Robot Navigation on Track](https://arxiv.org/pdf/2512.01608v1) | Chen | — | 2025-12-01 |
 | [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](https://arxiv.org/pdf/2512.01550v1) | Liu, Xie, Luo | — | 2025-12-01 |
+| [Mathematical and numerical study of a model for navigation in stratified waters](https://arxiv.org/pdf/2512.01445v1) | Rammal, Brachet, Rousseaux | — | 2025-12-01 |
+| [Competition among seaports through Mean Field Games and real-world data](https://arxiv.org/pdf/2512.01438v1) | Lehalle, Livieri | — | 2025-12-01 |
+| [On the Tension Between Optimality and Adversarial Robustness in Policy Optimization](https://arxiv.org/pdf/2512.01228v1) | Li, Lv, Han | — | 2025-12-01 |
+| [RoboLoc: A Benchmark Dataset for Point Place Recognition and Localization in Indoor-Outdoor Integrated Environments](https://arxiv.org/pdf/2512.01194v1) | Jeon, Ryoo, Lee | — | 2025-12-01 |
+| [Autonomous Navigation and Station-Keeping on Near-Rectilinear Halo Orbits](https://arxiv.org/pdf/2512.01182v1) | Shimane, Berntorp, Cairano | — | 2025-12-01 |
+| [Beyond Greenfield: The D3 Framework for AI-Driven Productivity in Brownfield Engineering](https://arxiv.org/pdf/2512.01155v2) | Sharma | — | 2025-12-01 |
+| [Autodeleveraging: Impossibilities and Optimization](https://arxiv.org/pdf/2512.01112v2) | Chitra | — | 2025-11-30 |
+| [How do we measure privacy in text? A survey of text anonymization metrics](https://arxiv.org/pdf/2512.01109v1) | Ren, Ramesh, Yao | — | 2025-11-30 |
+| [Reinforcement Learning for Gliding Projectile Guidance and Control](https://arxiv.org/pdf/2512.01066v1) | Cahn, Thomas, Pastor | — | 2025-11-30 |
+| [Autonomous Grasping On Quadruped Robot With Task Level Interaction](https://arxiv.org/pdf/2512.01052v1) | Muhtadin, Rusydiansyah, Purnomo | — | 2025-11-30 |
+| [FOM-Nav: Frontier-Object Maps for Object Goal Navigation](https://arxiv.org/pdf/2512.01009v1) | Chabal, Chen, Ponce | — | 2025-11-30 |
+| [Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/pdf/2512.00883v1) | Wang, Yan, Zheng | — | 2025-11-30 |
+| [The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development](https://arxiv.org/pdf/2512.00867v1) | Kraishan | — | 2025-11-30 |
+| [Smol-GS: Compact Representations for Abstract 3D Gaussian Splatting](https://arxiv.org/pdf/2512.00850v1) | Wang, Vali, Solin | — | 2025-11-30 |
+| [Planar Diffractive Neural Networks Empowered Communications: A Spatial Modulation Scheme](https://arxiv.org/pdf/2512.00847v1) | Teng, Ren, Chen | — | 2025-11-30 |
+| [EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes](https://arxiv.org/pdf/2512.00771v1) | Wu, Yu, Lyu | — | 2025-11-30 |
+| [REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories](https://arxiv.org/pdf/2512.00736v1) | Thompson, Garcia-Lopez, Bisk | — | 2025-11-30 |
+| [HAVEN: Hierarchical Adversary-aware Visibility-Enabled Navigation with Cover Utilization using Deep Transformer Q-Networks](https://arxiv.org/pdf/2512.00592v1) | Chauhan, Conover, Bera | — | 2025-11-29 |
+| [Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System](https://arxiv.org/pdf/2512.00313v1) | Guan, Wang | — | 2025-11-29 |
 | [DenseScan: Advancing 3D Scene Understanding with 2D Dense Annotation](https://arxiv.org/pdf/2512.00226v1) | Wang, Zhang | — | 2025-11-28 |
+| [Functional Program Synthesis with Higher-Order Functions and Recursion Schemes](https://arxiv.org/pdf/2511.23354v1) | Fernandes | — | 2025-11-28 |
+| [The Geometry of Certainty: Recursive Topological Condensation and the Limits of Inference](https://arxiv.org/pdf/2512.00140v1) | Li | — | 2025-11-28 |
+| [Unrepeated White Rabbit Time Synchronisation over a 300 km Optical Fibre Link](https://arxiv.org/pdf/2511.23254v1) | Amies-King, Lucamarini | — | 2025-11-28 |
+| [Multi-fidelity Bayesian Optimization Framework for CFD-Based Non-Premixed Burner Design](https://arxiv.org/pdf/2511.23140v1) | Lima, Reis, Santos | — | 2025-11-28 |
+| [Adaptive Factor Graph-Based Tightly Coupled GNSS/IMU Fusion for Robust Positionin](https://arxiv.org/pdf/2511.23017v1) | Ahmadi, Olama, Välisuo | — | 2025-11-28 |
+| [Maritime Activities Observed Through Open-Access Positioning Data: Moving and Stationary Vessels in the Baltic Sea](https://arxiv.org/pdf/2511.23016v1) | Hütten | — | 2025-11-28 |
+| [LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents](https://arxiv.org/pdf/2512.04105v1) | Tan, Benyekhlef | — | 2025-11-28 |
+| [Optimal Singular Perturbation-based Model Reduction for Heterogeneous Power Systems](https://arxiv.org/pdf/2511.22728v1) | Huang, Sapkota, Singh | — | 2025-11-27 |
+| [Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation](https://arxiv.org/pdf/2511.22685v1) | Wang, Luo, Kantaros | — | 2025-11-27 |
+| [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://arxiv.org/pdf/2511.22609v1) | Wang, Lin, Liu | — | 2025-11-27 |
+| [Distributed Koopman Operator Learning for Perception and Safe Navigation](https://arxiv.org/pdf/2511.22368v1) | Azarbahram, Liu, Incremona | — | 2025-11-27 |
+| [BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands](https://arxiv.org/pdf/2511.22364v1) | Cho, Ahn, Shin | — | 2025-11-27 |
+| [A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity](https://arxiv.org/pdf/2511.22353v1) | Hang, Xiong, Xie | — | 2025-11-27 |
+| [Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation](https://arxiv.org/pdf/2511.22311v1) | Wang, Lee, Kaplan | — | 2025-11-27 |
+| [Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning](https://arxiv.org/pdf/2511.22217v1) | Chen, Li, Chen | — | 2025-11-27 |
+| [Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning](https://arxiv.org/pdf/2511.22172v1) | Wei, Ding, Hao | — | 2025-11-27 |
+| [Benchmarking In-context Experiential Learning Through Repeated Product Recommendations](https://arxiv.org/pdf/2511.22130v1) | Yang, Chen, Yen | — | 2025-11-27 |
+| [SwordRiding: A Unified Navigation Framework for Quadrotors in Unknown Complex Environments via Online Guiding Vector Fields](https://arxiv.org/pdf/2511.22043v1) | Liu, Li, Xin | — | 2025-11-27 |
+| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/pdf/2511.22018v1) | Zhu, Lin, Chen | — | 2025-11-27 |
+| [All-Optical Photonic Crystal Bolometer with Ultra-Low Heat Capacity for Scalable Thermal Imaging](https://arxiv.org/pdf/2511.22006v1) | Follet, Goldstein, Panuski | — | 2025-11-27 |
+| [Photonic Generation and Free-Space Distribution of Millimeter Waves for Portable Optical Clocks](https://arxiv.org/pdf/2511.21955v1) | Meyer, Lind, Groman | — | 2025-11-26 |
+| [Tracing How Annotators Think: Augmenting Preference Judgments with Reading Processes](https://arxiv.org/pdf/2511.21912v1) | Langis, Walker, Le | — | 2025-11-26 |
+| [PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images](https://arxiv.org/pdf/2511.21902v1) | Zhang, Xu, Wang | — | 2025-11-26 |
+| [Automated Enumeration of Reconfigurable Architectures for Thermal Management Systems in Battery Electric Vehicles](https://arxiv.org/pdf/2511.21855v1) | Jahedan, Peddada, Jennings | — | 2025-11-26 |
+| [Bang-Bang Evasion: Its Stochastic Optimality and a Terminal-Set-Based Implementation](https://arxiv.org/pdf/2511.21633v1) | Mudrik, Oshman | — | 2025-11-26 |
+| [From Prediction to Foresight: The Role of AI in Designing Responsible Futures](https://arxiv.org/pdf/2511.21570v1) | Perez-Ortiz | — | 2025-11-26 |
+| [Multi-Hypotheses Navigation in Collaborative Localization subject to Cyber Attacks](https://arxiv.org/pdf/2511.21432v2) | Karstensen, Galeazzi | — | 2025-11-26 |
+| [Prune4Web: DOM Tree Pruning Programming for Web Agent](https://arxiv.org/pdf/2511.21398v1) | Zhang, Chen, Lu | — | 2025-11-26 |
+| [Neural NMPC through Signed Distance Field Encoding for Collision Avoidance](https://arxiv.org/pdf/2511.21312v1) | Jacquet, Harms, Alexis | — | 2025-11-26 |
+| [Active Learning Driven Materials Discovery for Low Thermal Conductivity Rare-Earth Pyrochlore for Thermal Barrier Coatings](https://arxiv.org/pdf/2511.21297v1) | Chowdhury, Romero, Figueredo | — | 2025-11-26 |
 | [SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation](https://arxiv.org/pdf/2511.21135v1) | Chen, Guo, Chu | — | 2025-11-26 |
+| [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](https://arxiv.org/pdf/2511.21083v1) | Pan, Zheng, Yin | — | 2025-11-26 |
+| [LOOM: Personalized Learning Informed by Daily LLM Conversations Toward Long-Term Mastery via a Dynamic Learner Memory Graph](https://arxiv.org/pdf/2511.21037v1) | Cui, Pu, Grossman | — | 2025-11-26 |
+| [Efficient Greedy Algorithms for Feature Selection in Robot Visual Localization](https://arxiv.org/pdf/2511.20894v1) | Pandey, Mollaei, Motee | — | 2025-11-25 |
+| [Supporting Students in Navigating LLM-Generated Insecure Code](https://arxiv.org/pdf/2511.20878v1) | Park, Lim, Park | — | 2025-11-25 |
+| [Mirror, Mirror on the Wall -- Which is the Best Model of Them All?](https://arxiv.org/pdf/2512.02043v1) | Sayed, Schuldt | — | 2025-11-25 |
+| [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerline Graphs](https://arxiv.org/pdf/2511.20823v1) | Naeem, Hagerman, Alvén | — | 2025-11-25 |
 | [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](https://arxiv.org/pdf/2511.20620v1) | Liu, Li, Deng | — | 2025-11-25 |
+| [Ultralow noise microwaves with free-running frequency combs and electrical feedforward](https://arxiv.org/pdf/2511.20504v1) | Nakamura, Groman, Ji | — | 2025-11-25 |
+| [Power-Efficient Autonomous Mobile Robots](https://arxiv.org/pdf/2511.20467v1) | Liu, Shi, Shin | — | 2025-11-25 |
+| [Improved adaptive wind driven optimization algorithm for real-time path planning](https://arxiv.org/pdf/2511.20394v1) | Liu, Zain, Mao | — | 2025-11-25 |
+| [AudioScene: Integrating Object-Event Audio into 3D Scenes](https://arxiv.org/pdf/2512.07845v1) | Yuan, Wen, Shafique | — | 2025-11-25 |
+| [CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents](https://arxiv.org/pdf/2511.20216v1) | Seong, Kim, Kim | — | 2025-11-25 |
+| [The rationality of radical pair mechanism in real biological systems](https://arxiv.org/pdf/2512.05974v1) | Chen, Liu, Cai | — | 2025-11-25 |
+| [Hibikino-Musashi@Home 2025 Team Description Paper](https://arxiv.org/pdf/2511.20180v1) | Kobayashi, Isomoto, Yamao | — | 2025-11-25 |
+| [Conceptual Evaluation of Deep Visual Stereo Odometry for the MARWIN Radiation Monitoring Robot in Accelerator Tunnels](https://arxiv.org/pdf/2512.00080v1) | Dehne, Zach, Stelldinger | — | 2025-11-25 |
+| [QiMeng-Kernel: Macro-Thinking Micro-Coding Paradigm for LLM-Based High-Performance GPU Kernel Generation](https://arxiv.org/pdf/2511.20100v1) | Zhu, Peng, Guo | — | 2025-11-25 |
+| [DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination](https://arxiv.org/pdf/2511.20058v1) | Ou, Li, Zhang | — | 2025-11-25 |
+| [Arcadia: Toward a Full-Lifecycle Framework for Embodied Lifelong Learning](https://arxiv.org/pdf/2512.00076v1) | Gao, Li, Lin | — | 2025-11-25 |
+| [DeeAD: Dynamic Early Exit of Vision-Language Action for Efficient Autonomous Driving](https://arxiv.org/pdf/2511.20720v1) | HU, Huang, Guan | — | 2025-11-25 |
+| [Complex Instruction Following with Diverse Style Policies in Football Games](https://arxiv.org/pdf/2511.19885v1) | Sun, Shen, Hu | — | 2025-11-25 |
+| [Multi-Hypotheses Ego-Tracking for Resilient Navigation](https://arxiv.org/pdf/2511.19770v2) | Karstensen, Galeazzi | — | 2025-11-24 |
+| [Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering](https://arxiv.org/pdf/2511.19768v1) | Frahm, Patel, Zhang | — | 2025-11-24 |
+| [Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652v1) | Buckley, Weihrauch, Latham | — | 2025-11-24 |
+| [Optimization and Regularization Under Arbitrary Objectives](https://arxiv.org/pdf/2511.19628v1) | Lakhani, Pienaar | — | 2025-11-24 |
+| [MapFormer: Self-Supervised Learning of Cognitive Maps with Input-Dependent Positional Embeddings](https://arxiv.org/pdf/2511.19279v2) | Rambaud, Mascarenhas, Lakretz | — | 2025-11-24 |
+| [SPARTA: $χ^2$-calibrated, risk-controlled exploration-exploitation for variational quantum algorithms](https://arxiv.org/pdf/2511.19551v1) | Zubarev | — | 2025-11-24 |
+| [ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay](https://arxiv.org/pdf/2511.19033v1) | Zhang, Ding, Wu | — | 2025-11-24 |
+| [Accelerating Reinforcement Learning via Error-Related Human Brain Signals](https://arxiv.org/pdf/2511.18878v1) | Kim, Shin, Jang | — | 2025-11-24 |
+| [KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit](https://arxiv.org/pdf/2511.18868v1) | Ran, Xie, Ji | — | 2025-11-24 |
+| [AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion](https://arxiv.org/pdf/2511.18857v1) | Luo, Wang, Cai | — | 2025-11-24 |
+| [Pre-Filtering Code Suggestions using Developer Behavioral Telemetry to Optimize LLM-Assisted Programming](https://arxiv.org/pdf/2511.18849v1) | Awad, Ivanov, Tikhonova | — | 2025-11-24 |
 | [UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model](https://arxiv.org/pdf/2511.18845v1) | Huang, Tang, Zhan | — | 2025-11-24 |
+| [SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map](https://arxiv.org/pdf/2511.18756v1) | Du, Zhang, Duan | — | 2025-11-24 |
+| [On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent](https://arxiv.org/pdf/2511.18745v1) | Cornejo-Olea, Buvinic, Darbon | — | 2025-11-24 |
+| [Stable Multi-Drone GNSS Tracking System for Marine Robots](https://arxiv.org/pdf/2511.18694v1) | Wen, Meriaux, Guzmán | — | 2025-11-24 |
+| [Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement](https://arxiv.org/pdf/2511.18672v1) | Xia, Kundu, Chowdhury | — | 2025-11-24 |
+| [FHE-Agent: Automating CKKS Configuration for Practical Encrypted Inference via an LLM-Guided Agentic Framework](https://arxiv.org/pdf/2511.18653v1) | Xu, Gong, Ran | — | 2025-11-23 |
+| [A Recommender System Based on Binary Matrix Representations for Cognitive Disorders](https://arxiv.org/pdf/2511.18645v1) | Kutil, Zimmermann, Borgelt | — | 2025-11-23 |
+| [A Unified BERT-CNN-BiLSTM Framework for Simultaneous Headline Classification and Sentiment Analysis of Bangla News](https://arxiv.org/pdf/2511.18618v1) | Raquib, Akash, Ahmed | — | 2025-11-23 |
+| [Universality in Collective Intelligence on the Rubik's Cube](https://arxiv.org/pdf/2511.18609v1) | Krakauer, Kardeş, Grochow | — | 2025-11-23 |
+| [Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma](https://arxiv.org/pdf/2511.19504v1) | Sahoo, Chadha, Jain | — | 2025-11-23 |
+| [GNSS Jammer Direction Finding in Dynamic Scenarios Using an Inertial-based Multi-Antenna System](https://arxiv.org/pdf/2512.05128v1) | Heublein, Nowak, Feigl | — | 2025-11-23 |
+| [Strategic Decision Framework for Enterprise LLM Adoption](https://arxiv.org/pdf/2511.18589v1) | Trusov, Hwang, Jamal | — | 2025-11-23 |
+| [Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/pdf/2511.18525v1) | Chopra, Liang, Seneviratne | — | 2025-11-23 |
+| [Expanding the Workspace of Electromagnetic Navigation Systems Using Dynamic Feedback for Single- and Multi-agent Control](https://arxiv.org/pdf/2511.18486v1) | Zughaibi, Arx, Derungs | — | 2025-11-23 |
+| [APULSE: A Scalable Hybrid Algorithm for the RCSPP on Large-Scale Dense Graphs](https://arxiv.org/pdf/2511.18236v2) | Soares, Grilo | — | 2025-11-23 |
+| [Off-Road Navigation via Implicit Neural Representation of Terrain Traversability](https://arxiv.org/pdf/2511.18183v2) | Jia, Li, How | — | 2025-11-22 |
+| [The Workflow as Medium: A Framework for Navigating Human-AI Co-Creation](https://arxiv.org/pdf/2511.18182v1) | Ackerman | — | 2025-11-22 |
+| [Time-aware Motion Planning in Dynamic Environments with Conformal Prediction](https://arxiv.org/pdf/2511.18170v1) | Liang, Luo, Wang | — | 2025-11-22 |
+| [AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/pdf/2511.18151v1) | Bhattacharjya, Wu, Oh | — | 2025-11-22 |
+| [EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation](https://arxiv.org/pdf/2511.18112v1) | Lin, Liang, Lin | — | 2025-11-22 |
+| [Curvature-Aware Safety Restoration In LLMs Fine-Tuning](https://arxiv.org/pdf/2511.18039v1) | Bach, Nguyen-Tang, Nguyen | — | 2025-11-22 |
+| [A Targeted Quadrature Framework for Simulating Large-Scale 3D Anisotropic Electromagnetic Measurements](https://arxiv.org/pdf/2511.17999v1) | Zimmerling, Druskin, Davydycheva | — | 2025-11-22 |
+| [Unobservable Subspace Evolution and Alignment for Consistent Visual-Inertial Navigation](https://arxiv.org/pdf/2511.17992v1) | Tian, He, Hao | — | 2025-11-22 |
+| [PrefixGPT: Prefix Adder Optimization by a Generative Pre-trained Transformer](https://arxiv.org/pdf/2511.19472v2) | Ding, Ning, Schlichtmann | — | 2025-11-22 |
+| [Neural Graph Navigation for Intelligent Subgraph Matching](https://arxiv.org/pdf/2511.17939v1) | Ying, Dai, Li | — | 2025-11-22 |
 | [MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/pdf/2511.17889v1) | Huang, Li, Yang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AIGeeksGroup/MobileVLA-R1) | 2025-11-22 |
+| [Learning to Debug: LLM-Organized Knowledge Trees for Solving RTL Assertion Failures](https://arxiv.org/pdf/2511.17833v2) | Bai, Ren | — | 2025-11-21 |
+| [SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control](https://arxiv.org/pdf/2511.17798v1) | D'Orazio, Samavi, Du | — | 2025-11-21 |
+| [SAFE-SMART: Safety Analysis and Formal Evaluation using STL Metrics for Autonomous RoboTs](https://arxiv.org/pdf/2511.17781v1) | Sakano, An, Manocha | — | 2025-11-21 |
+| [LEARN: Learning End-to-End Aerial Resource-Constrained Multi-Robot Navigation](https://arxiv.org/pdf/2511.17765v1) | Chiu, Huang, Ge | — | 2025-11-21 |
+| [Vision-Guided Optic Flow Navigation for Small Lunar Missions](https://arxiv.org/pdf/2511.17720v1) | Cowan, Fanti, Williams | — | 2025-11-21 |
+| [HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation](https://arxiv.org/pdf/2511.17497v1) | Tao, Ong, Cladera | — | 2025-11-21 |
+| [Semantic and Semiotic Interplays in Text-to-Audio AI: Exploring Cognitive Dynamics and Musical Interactions](https://arxiv.org/pdf/2511.17429v1) | Coelho | — | 2025-11-21 |
+| [The Artist is Present: Traces of Artists Resigind and Spawning in Text-to-Audio AI](https://arxiv.org/pdf/2511.17404v1) | Coelho | — | 2025-11-21 |
+| [Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment](https://arxiv.org/pdf/2511.17401v1) | Zhou, Menassa, Kamat | — | 2025-11-21 |
+| [IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/pdf/2511.17384v1) | Li, Li, Dao | — | 2025-11-21 |
+| [Range-Edit: Semantic Mask Guided Outdoor LiDAR Scene Editing](https://arxiv.org/pdf/2511.17269v1) | Uppur, Kumar, Kumar | — | 2025-11-21 |
+| [Boosting Brain-inspired Path Integration Efficiency via Learning-based Replication of Continuous Attractor Neurodynamics](https://arxiv.org/pdf/2511.17687v1) | Ge, He, Mo | — | 2025-11-21 |
 | [TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/pdf/2511.17225v1) | Li, Huang, He | — | 2025-11-21 |
+| [Distributed Switching Model Predictive Control Meets Koopman Operator for Dynamic Obstacle Avoidance](https://arxiv.org/pdf/2511.17186v2) | Azarbahram, Huanca, Incremona | — | 2025-11-21 |
+| [Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition](https://arxiv.org/pdf/2511.17183v1) | Mishra, Agarwal, Lone | — | 2025-11-21 |
+| [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2511.17097v1) | Wang, Wang, Lian | — | 2025-11-21 |
+| [Distributed Cubature Kalman Filter based on MEEF with Adaptive Cauchy Kernel for State Estimation](https://arxiv.org/pdf/2511.17066v1) | Nguyen, Zhao, Hu | — | 2025-11-21 |
+| [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/pdf/2511.17052v1) | Chen, Cai, Wang | — | 2025-11-21 |
+| [MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/pdf/2511.17013v1) | Ying, Ye, Luo | — | 2025-11-21 |
+| [FLUID: Training-Free Face De-identification via Latent Identity Substitution](https://arxiv.org/pdf/2511.17005v1) | Park, Muhammad, Lee | — | 2025-11-21 |
+| [Empa: An AI-Powered Virtual Mentor for Developing Global Collaboration Skills in HPC Education](https://arxiv.org/pdf/2511.17669v1) | Ashish, Jaiswal, Vhaduri | — | 2025-11-21 |
+| [CubeletWorld: A New Abstraction for Scalable 3D Modeling](https://arxiv.org/pdf/2511.17664v1) | Samad, Nguyen, Berg | — | 2025-11-21 |
+| [WorldGen: From Text to Traversable and Interactive 3D Worlds](https://arxiv.org/pdf/2511.16825v1) | Wang, Jung, Monnier | — | 2025-11-20 |
+| [Scene Awareness While Using Multiple Navigation Aids in AR Search](https://arxiv.org/pdf/2511.16805v1) | Kumaran, Kim, Machniak | — | 2025-11-20 |
+| [Navigating the Quantum Resource Landscape of Entropy Vector Space Using Machine Learning and Optimization](https://arxiv.org/pdf/2511.16724v1) | Khumalo, Mehta, Munizzi | — | 2025-11-20 |
+| [Multi-Agent Coordination in Autonomous Vehicle Routing: A Simulation-Based Study of Communication, Memory, and Routing Loops](https://arxiv.org/pdf/2511.17656v1) | Saifullah, Palmer | — | 2025-11-20 |
 | [POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/pdf/2511.16567v2) | Mao, Luo, Huang | — | 2025-11-20 |
+| [Distinguishing thermal versus quantum annealing using probability-flux signatures across interaction networks](https://arxiv.org/pdf/2511.16457v2) | Horiike, Kawaguchi | — | 2025-11-20 |
+| [CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/pdf/2511.16349v1) | Vanherck, Moonen, Zoomers | — | 2025-11-20 |
+| [Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/pdf/2511.16282v2) | Dinya, Halász, Lőrincz | — | 2025-11-20 |
+| [Real-Time 3D Object Detection with Inference-Aligned Learning](https://arxiv.org/pdf/2511.16140v1) | Zhao, Zheng, Xia | — | 2025-11-20 |
+| [An Interpretability-Guided Framework for Responsible Synthetic Data Generation in Emotional Text](https://arxiv.org/pdf/2511.16132v1) | Martinez, Miñoza, Ibañez | — | 2025-11-20 |
+| [SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent](https://arxiv.org/pdf/2511.16108v1) | Cao, Li, Zhao | — | 2025-11-20 |
+| [Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud](https://arxiv.org/pdf/2511.16048v1) | Zhang, Huang, Xu | — | 2025-11-20 |
+| [Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?](https://arxiv.org/pdf/2511.16028v1) | Cao, Hua, Wang | — | 2025-11-20 |
+| [InfCode-C++: Intent-Guided Semantic Retrieval and AST-Structured Search for C++ Issue Resolution](https://arxiv.org/pdf/2511.16005v1) | Dong, Wang, Zhang | — | 2025-11-20 |
+| [Parametric Disjunctive Cuts for Sequences of Mixed Integer Linear Optimization Problems](https://arxiv.org/pdf/2511.15873v1) | Kelley, Kazachkov, Ralphs | — | 2025-11-19 |
+| [Navigating the Ethical and Societal Impacts of Generative AI in Higher Computing Education](https://arxiv.org/pdf/2511.15768v1) | Mak, Nakatumba-Nabende, Clear | — | 2025-11-19 |
+| [Navigating Quantum Missteps in Agent-Based Modeling: A Schelling Model Case Study](https://arxiv.org/pdf/2511.15642v2) | Barati, Croitoru, Gore | — | 2025-11-19 |
+| [Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography](https://arxiv.org/pdf/2511.15614v1) | Puppala, Hossain, Alam | — | 2025-11-19 |
+| [Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition](https://arxiv.org/pdf/2511.15597v1) | Wang, Zhao, Tao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/repo/KDF-plus) | 2025-11-19 |
+| [Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/pdf/2511.15567v1) | Lin, Hu, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/showlab/AUI) | 2025-11-19 |
+| [The CAPIRE Curriculum Graph: Structural Feature Engineering for Curriculum-Constrained Student Modelling in Higher Education](https://arxiv.org/pdf/2511.15536v1) | Paz | — | 2025-11-19 |
+| [Discovering Optimal Natural Gaits of Dissipative Systems via Virtual Energy Injection](https://arxiv.org/pdf/2511.15513v1) | Griesbauer, Calzolari, Raff | — | 2025-11-19 |
+| [WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes](https://arxiv.org/pdf/2511.15429v1) | Graviers, Ammar, Guettier | — | 2025-11-19 |
+| [Fast Post-Hoc Confidence Fusion for 3-Class Open-Set Aerial Object Detection](https://arxiv.org/pdf/2511.15343v1) | Loukovitis, Karampinis, Voulodimos | — | 2025-11-19 |
+| [Symmetry-Breaking in Multi-Agent Navigation: Winding Number-Aware MPC with a Learned Topological Strategy](https://arxiv.org/pdf/2511.15239v1) | Nakao, Kasaura, Kozuno | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/omron-sinicx/WNumMPC) | 2025-11-19 |
+| [Strong Duality and Dual Ascent Approach to Continuous-Time Chance-Constrained Stochastic Optimal Control](https://arxiv.org/pdf/2511.19451v1) | Patil, Duarte, Bisetti | — | 2025-11-19 |
+| [SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection](https://arxiv.org/pdf/2511.15153v1) | Lin, Chin, Garg | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/ChadLin9596/ScenePoint-ETK) | 2025-11-19 |
+| [Connecting the Dots: A Machine Learning Ready Dataset for Ionospheric Forecasting Models](https://arxiv.org/pdf/2511.15743v1) | Wolniewicz, Kelebek, Mestici | — | 2025-11-18 |
+| [Robust Verification of Controllers under State Uncertainty via Hamilton-Jacobi Reachability Analysis](https://arxiv.org/pdf/2511.14755v1) | Lin, Pinto, Bansal | — | 2025-11-18 |
+| [Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/pdf/2511.14711v1) | Chang, Guizani, Johnson | — | 2025-11-18 |
+| [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains](https://arxiv.org/pdf/2511.14625v1) | Ben, Xu, Li | — | 2025-11-18 |
+| [Enabling Blind and Visually Impaired Individuals to Pursue Careers in Science](https://arxiv.org/pdf/2511.17620v1) | Petitdemange, Nashed | — | 2025-11-18 |
+| [Enhancing End-to-End Autonomous Driving with Risk Semantic Distillaion from VLM](https://arxiv.org/pdf/2511.14499v1) | Qin, Wang, Zheng | — | 2025-11-18 |
+| [Dynamic Carbon Intensity Indicator (CII) Management in Stochastic Tramp Shipping Market](https://arxiv.org/pdf/2511.14471v1) | Cheng, Cheng, Bai | — | 2025-11-18 |
+| [Effective Diversification of Multi-Carousel Book Recommendation](https://arxiv.org/pdf/2511.14461v1) | Wilten, Wenniger, Hommersom | — | 2025-11-18 |
+| [Advancing Minimally Invasive Precision Surgery in Open Cavities with Robotic Flexible Endoscopy](https://arxiv.org/pdf/2511.14458v1) | Mattille, Mesot, Weisskopf | — | 2025-11-18 |
+| [PuzzlePoles: Cylindrical Fiducial Markers Based on the PuzzleBoard Pattern](https://arxiv.org/pdf/2511.19448v1) | Zach, Stelldinger | — | 2025-11-18 |
+| [Quantum Biology, Quantum Simulation and Quantum Coherent Devices](https://arxiv.org/pdf/2511.14363v1) | Chen, Dong, Yang | — | 2025-11-18 |
+| [ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries](https://arxiv.org/pdf/2511.14349v1) | Pu, Wang, Ge | — | 2025-11-18 |
+| [Going Places: Place Recognition in Artificial and Natural Systems](https://arxiv.org/pdf/2511.14341v1) | Milford, Fischer | — | 2025-11-18 |
+| [Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors](https://arxiv.org/pdf/2511.14335v2) | Danial, Asher, Klein | — | 2025-11-18 |
+| [Unified Multimodal Vessel Trajectory Prediction with Explainable Navigation Intention](https://arxiv.org/pdf/2511.14265v1) | Zhang, Li, Liu | — | 2025-11-18 |
+| [3D Ground Truth Reconstruction from Multi-Camera Annotations Using UKF](https://arxiv.org/pdf/2511.17609v1) | Ma, Fatima, Chriv | — | 2025-11-18 |
+| [FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters](https://arxiv.org/pdf/2511.14205v1) | Kim, Lee | — | 2025-11-18 |
 | [RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/pdf/2511.14161v2) | Sun, Zhang, Pang | — | 2025-11-18 |
+| [Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches](https://arxiv.org/pdf/2512.00049v1) | Kabir, Mysorewala | — | 2025-11-18 |
+| [iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion](https://arxiv.org/pdf/2511.14149v1) | Wang, Zhao, Xu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/pythongod-exe/iGaussian) | 2025-11-18 |
 | [Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation](https://arxiv.org/pdf/2511.14131v1) | Zhong, Zhang, Zhang | — | 2025-11-18 |
+| [RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment](https://arxiv.org/pdf/2511.14107v1) | Cheng, Liu, Lei | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/ZYCheng777/RTS-Mono) | 2025-11-18 |
+| [NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval](https://arxiv.org/pdf/2511.14096v1) | Li, Wang, Huang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/KennyCaty/NeuroPath) | 2025-11-18 |
+| [BIM-Discrepancy-Driven Active Sensing for Risk-Aware UAV-UGV Navigation](https://arxiv.org/pdf/2511.14037v1) | Mojtahedi, Akhavian | — | 2025-11-18 |
+| [FACA: Fair and Agile Multi-Robot Collision Avoidance in Constrained Environments with Dynamic Priorities](https://arxiv.org/pdf/2511.14024v1) | Singh, Chandra | — | 2025-11-18 |
+| [Exploring the Use of ChatGPT by Computer Science Students in Software Development: Applications, Ethical Considerations, and Insights for Engineering Education](https://arxiv.org/pdf/2511.13996v1) | Xu, Martin | — | 2025-11-17 |
+| [LIO-MARS: Non-uniform Continuous-time Trajectories for Real-time LiDAR-Inertial-Odometry](https://arxiv.org/pdf/2511.13985v1) | Quenzel, Behnke | — | 2025-11-17 |
+| [Data Whitening Improves Sparse Autoencoder Learning](https://arxiv.org/pdf/2511.13981v1) | Saraswatula, Klindt | — | 2025-11-17 |
 | [FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI](https://arxiv.org/pdf/2511.13524v1) | Peng, Pan, He | — | 2025-11-17 |
+| [PolicyBot - Reliable Question Answering over Policy Documents](https://arxiv.org/pdf/2511.13489v1) | Nagarajan, Kumar, Santhiappan | — | 2025-11-17 |
+| [Fast and Robust Simulation-Based Inference With Optimization Monte Carlo](https://arxiv.org/pdf/2511.13394v1) | Gkolemis, Diou, Gutmann | — | 2025-11-17 |
+| [Cognitive Maps in Language Models: A Mechanistic Analysis of Spatial Planning](https://arxiv.org/pdf/2511.13371v1) | Baumgartner, Spens, Burgess | — | 2025-11-17 |
+| [Basis Immunity: Isotropy as a Regularizer for Uncertainty](https://arxiv.org/pdf/2511.13334v1) | Segonne | — | 2025-11-17 |
+| [SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting](https://arxiv.org/pdf/2511.13278v2) | Li, Wang, Gan | — | 2025-11-17 |
+| [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](https://arxiv.org/pdf/2511.13269v1) | Zhang, Zhang, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/linglingxiansen/SpatialSKy) | 2025-11-17 |
+| [GeoX-Bench: Benchmarking Cross-View Geo-Localization and Pose Estimation Capabilities of Large Multimodal Models](https://arxiv.org/pdf/2511.13259v1) | Zheng, Ying, Duan | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/IntMeGroup/GeoX-Bench) | 2025-11-17 |
+| [GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry](https://arxiv.org/pdf/2511.13216v1) | Noh, Jung, Kim | — | 2025-11-17 |
 | [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](https://arxiv.org/pdf/2511.13207v1) | Peng, Zhang, Chi | — | 2025-11-17 |
+| [Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control](https://arxiv.org/pdf/2511.13188v1) | Ali, Koutsoftas, Zhang | — | 2025-11-17 |
+| [Probabilistic dynamics of small groups in crowd flows](https://arxiv.org/pdf/2511.13181v1) | Laan, Corbetta | — | 2025-11-17 |
 | [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://arxiv.org/pdf/2511.13132v1) | Li, Tang, Huang | — | 2025-11-17 |
+| [ResAlignNet: A Data-Driven Approach for INS/DVL Alignment](https://arxiv.org/pdf/2511.13096v1) | Damari, Klein | — | 2025-11-17 |
+| [Orientation-Free Neural Network-Based Bias Estimation for Low-Cost Stationary Accelerometers](https://arxiv.org/pdf/2511.13071v1) | Levin, Klein | — | 2025-11-17 |
+| [Unidirectional-Road-Network-Based Global Path Planning for Cleaning Robots in Semi-Structured Environments](https://arxiv.org/pdf/2511.13048v1) | Li, Cheng | — | 2025-11-17 |
+| [DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation](https://arxiv.org/pdf/2511.13047v1) | Gong, Lu, Gao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gongyan1/DiffPixelFormer) | 2025-11-17 |
+| [APP: A* Post-Processing Algorithm for Robots with Bidirectional Shortcut and Path Perturbation](https://arxiv.org/pdf/2511.13042v1) | Li, Cheng | — | 2025-11-17 |
+| [Cooperative ISAC for LAE: Joint Trajectory Planning, Power allocation, and Dynamic Time Division](https://arxiv.org/pdf/2511.13006v1) | Li, Ren, Pan | — | 2025-11-17 |
+| [WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance](https://arxiv.org/pdf/2511.12997v1) | Liu, Geng, Li | — | 2025-11-17 |
+| [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984v1) | Park, Cho, Kim | — | 2025-11-17 |
+| [SplatSearch: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models](https://arxiv.org/pdf/2511.12972v1) | Narasimhan, Lisondra, Wang | — | 2025-11-17 |
+| [TOPP-DWR: Time-Optimal Path Parameterization of Differential-Driven Wheeled Robots Considering Piecewise-Constant Angular Velocity Constraints](https://arxiv.org/pdf/2511.12910v1) | Li, Huang, Chen | — | 2025-11-17 |
+| [BrainNormalizer: Anatomy-Informed Pseudo-Healthy Brain Reconstruction from Tumor MRI via Edge-Guided ControlNet](https://arxiv.org/pdf/2511.12853v1) | Kwak, Lee, Wang | — | 2025-11-17 |
+| [Structured Imitation Learning of Interactive Policies through Inverse Games](https://arxiv.org/pdf/2511.12848v1) | Sun, Murphey | — | 2025-11-17 |
+| [Regime shifts and transformations in social-ecological systems: Advancing critical frontiers for safe and just futures](https://arxiv.org/pdf/2511.12798v1) | Rocha, Schil, Lindkvist | — | 2025-11-16 |
+| [DR. Nav: Semantic-Geometric Representations for Proactive Dead-End Recovery and Navigation](https://arxiv.org/pdf/2511.12778v1) | Rajagopal, Mudiyanselage, Seneviratne | — | 2025-11-16 |
+| [Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving](https://arxiv.org/pdf/2511.12751v1) | Anvar, Chen, Wang | — | 2025-11-16 |
 | [Synthesis of mass-spring networks from high-level code descriptions](https://arxiv.org/pdf/2511.17588v1) | Omidvar, Serra-Garcia | — | 2025-11-16 |
+| [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](https://arxiv.org/pdf/2511.12676v1) | Varghese, Gao, Rahman | — | 2025-11-16 |
+| [Fine-Grained Representation for Lane Topology Reasoning](https://arxiv.org/pdf/2511.12590v2) | Xu, Li, Yang | — | 2025-11-16 |
+| [Designing-with More-than-Human Through Human Augmentation](https://arxiv.org/pdf/2511.12533v1) | Hu, Huang | — | 2025-11-16 |
+| [Botany Meets Robotics in Alpine Scree Monitoring](https://arxiv.org/pdf/2511.12526v2) | Benedittis, Lorenzo, Angelini | — | 2025-11-16 |
+| [Iris: First-Class Multi-GPU Programming Experience in Triton](https://arxiv.org/pdf/2511.12500v1) | Awad, Osama, Potter | — | 2025-11-16 |
+| [Multi-agent Self-triage System with Medical Flowcharts](https://arxiv.org/pdf/2511.12439v1) | Liu, Yu, Jin | — | 2025-11-16 |
 | [RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation](https://arxiv.org/pdf/2511.12436v1) | Hao, Tang, Zhang | — | 2025-11-16 |
+| [Integration of Navigation and Remote Sensing in LEO Satellite Constellations](https://arxiv.org/pdf/2511.12430v1) | Wang, Chen, Qi | — | 2025-11-16 |
+| [Imagine in Space: Exploring the Frontier of Spatial Intelligence and Reasoning Efficiency in Vision Language Models](https://arxiv.org/pdf/2511.13782v1) | Lian, Yang, Zhu | — | 2025-11-16 |
+| [Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward](https://arxiv.org/pdf/2511.13781v1) | Usman, Zou, Zappala | — | 2025-11-16 |
+| [GRAPHTEXTACK: A Realistic Black-Box Node Injection Attack on LLM-Enhanced GNNs](https://arxiv.org/pdf/2511.12423v1) | Ma, Trivedi, Koutra | — | 2025-11-16 |
+| [More Than Irrational: Modeling Belief-Biased Agents](https://arxiv.org/pdf/2511.12359v1) | Zhu, Katt, Kaski | — | 2025-11-15 |
+| [EgoCogNav: Cognition-aware Human Egocentric Navigation](https://arxiv.org/pdf/2511.17581v1) | Qiu, Liu, Niu | — | 2025-11-15 |
+| [Reinforcement Learning for Chemical Ordering in Alloy Nanoparticles](https://arxiv.org/pdf/2511.12260v1) | Elsborg, Bhowmik | — | 2025-11-15 |
+| [SocialNav-Map: Dynamic Mapping with Human Trajectory Prediction for Zero-Shot Social Navigation](https://arxiv.org/pdf/2511.12232v2) | Zhang, Xiao, Hao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/linglingxiansen/SocialNav-Map) | 2025-11-15 |
+| [Relativistic framework for high-precision GNSS-based navigation in cislunar space](https://arxiv.org/pdf/2511.12058v1) | Turyshev, Bar-Sever, Bertiger | — | 2025-11-15 |
+| [SBAMP: Sampling Based Adaptive Motion Planning](https://arxiv.org/pdf/2511.12022v1) | Pham, Puri, Raorane | — | 2025-11-15 |
+| [ComLQ: Benchmarking Complex Logical Queries in Information Retrieval](https://arxiv.org/pdf/2511.12004v2) | Xu, Yin, Zhang | — | 2025-11-15 |
+| [Goal-Oriented Multi-Agent Reinforcement Learning for Decentralized Agent Teams](https://arxiv.org/pdf/2511.11992v1) | Du, Nguyen, Thudumu | — | 2025-11-15 |
+| [Autonomous Underwater Cognitive System for Adaptive Navigation: A SLAM-Integrated Cognitive Architecture](https://arxiv.org/pdf/2511.11845v1) | Jayarathne, Rathnayaka, Peiris | — | 2025-11-14 |
+| [Drone Swarm Energy Management](https://arxiv.org/pdf/2511.11557v1) | Zgurovsky, Kasyanov, Paliichuk | — | 2025-11-14 |
+| [DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](https://arxiv.org/pdf/2511.11552v1) | Zhu, Meng, Chen | — | 2025-11-14 |
+| [Terrain Costmap Generation via Scaled Preference Conditioning](https://arxiv.org/pdf/2511.11529v1) | Mao, Warnell, Stone | — | 2025-11-14 |
+| [PEtab-GUI: A graphical user interface to create, edit and inspect PEtab parameter estimation problems](https://arxiv.org/pdf/2511.11515v1) | Jost, Bergmann, Weindl | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PEtab-dev/PEtab-GUI) | 2025-11-14 |
+| [Multi-Phase Spacecraft Trajectory Optimization via Transformer-Based Reinforcement Learning](https://arxiv.org/pdf/2511.11402v1) | Jain, Rodriguez-Fernandez, Linares | — | 2025-11-14 |
+| [RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms](https://arxiv.org/pdf/2511.11323v1) | Kou, Gu, Zhou | — | 2025-11-14 |
+| [Simulating an Autonomous System in CARLA using ROS 2](https://arxiv.org/pdf/2511.11310v1) | Abdo, Shibu, Saeed | — | 2025-11-14 |
+| [UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios](https://arxiv.org/pdf/2511.11252v1) | Ferrag, Lakas, Debbah | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/maferrag/UAVBench) | 2025-11-14 |
+| [Refine and Align: Confidence Calibration through Multi-Agent Interaction in VQA](https://arxiv.org/pdf/2511.11169v1) | Pandey, Bardhan, Jain | — | 2025-11-14 |
 | [VISTAv2: World Imagination for Indoor Vision-and-Language Navigation](https://arxiv.org/pdf/2512.00041v1) | Huang, Jiang, Gao | — | 2025-11-14 |
+| [Autonomous Vehicle Path Planning by Searching With Differentiable Simulation](https://arxiv.org/pdf/2511.11043v2) | Nachkov, Zaech, Paudel | — | 2025-11-14 |
+| [Latent-Space Autoregressive World Model for Efficient and Robust Image-Goal Navigation](https://arxiv.org/pdf/2511.11011v1) | Zhang, Zhang, Chen | — | 2025-11-14 |
+| [Mastering Rheology: A Strategic and practical guide for empowering all users](https://arxiv.org/pdf/2511.10965v1) | Suman | — | 2025-11-14 |
+| [Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation](https://arxiv.org/pdf/2511.10874v1) | Shaoul, Chen, Mohamed | — | 2025-11-14 |
+| [Dynamically Extensible and Retractable Robotic Leg Linkages for Multi-task Execution in Search and Rescue Scenarios](https://arxiv.org/pdf/2511.10816v2) | Harris, Yager, Sylvester | — | 2025-11-13 |
+| [HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments](https://arxiv.org/pdf/2511.10810v1) | Elgedawy, Das, Seefried | — | 2025-11-13 |
+| [Seasonality in the U.S. Housing Market: Post-Pandemic Shifts and Regional Dynamics](https://arxiv.org/pdf/2511.10808v1) | Hu, Huang, Wang | — | 2025-11-13 |
+| [Brazil Data Commons: A Platform for Unifying and Integrating Brazil's Public Data](https://arxiv.org/pdf/2511.11755v1) | Cristina, Gonze, Santos | — | 2025-11-13 |
+| [Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/pdf/2511.10615v1) | Baghel, Rathore, Jena | — | 2025-11-13 |
+| [Optimizing the flight path for a scouting Uncrewed Aerial Vehicle](https://arxiv.org/pdf/2511.10598v2) | Adhikari, Khatiwada, Poudel | — | 2025-11-13 |
 | [Textual understanding boost in the WikiRace](https://arxiv.org/pdf/2511.10585v1) | Ebrahimi, Fuhrman, Nguyen | — | 2025-11-13 |
+| [Neuronal Fluctuations: Learning Rates vs Participating Neurons](https://arxiv.org/pdf/2511.10435v1) | Pareek, Kumar, Rao | — | 2025-11-13 |
+| [Navigating the Ethics of Internet Measurement: Researchers' Perspectives from a Case Study in the EU](https://arxiv.org/pdf/2511.10408v1) | Amin, Athar, Feldmann | — | 2025-11-13 |
+| [AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/pdf/2511.10395v1) | Zhai, Tao, Chen | — | 2025-11-13 |
 | [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](https://arxiv.org/pdf/2511.10376v2) | Huang, Zhao, Wang | — | 2025-11-13 |
+| [ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM](https://arxiv.org/pdf/2512.00037v1) | Shapira, Klein | — | 2025-11-13 |
+| [Equivalent Mechanical Models for Sloshing](https://arxiv.org/pdf/2511.10172v1) | Capolupo | — | 2025-11-13 |
+| [Closed Form Modelling and Identification of Banking Effects in Confined Waters](https://arxiv.org/pdf/2511.10158v1) | Mikkelsen, Enevoldsen, Jensen | — | 2025-11-13 |
+| [ChEmREF: Evaluating Language Model Readiness for Chemical Emergency Response](https://arxiv.org/pdf/2511.10027v2) | Surana, Ye, Swayamdipta | — | 2025-11-13 |
+| [Efficient Automated Diagnosis of Retinopathy of Prematurity by Customize CNN Models](https://arxiv.org/pdf/2511.10023v1) | Saeedi, Keshvari, Shoeibi | — | 2025-11-13 |
+| [PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion](https://arxiv.org/pdf/2511.09885v1) | Singh, Si, Temel | — | 2025-11-13 |
+| [AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/pdf/2511.09827v1) | Mir, Wang, Guler | — | 2025-11-13 |
+| [From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance](https://arxiv.org/pdf/2511.09820v1) | Min, Kim, Lee | — | 2025-11-12 |
+| [A Smooth Penalty-Based Feedback Law for Reactive Obstacle Avoidance with Convergence Guarantees](https://arxiv.org/pdf/2511.09799v1) | Smaili, Berkane | — | 2025-11-12 |
+| [PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model](https://arxiv.org/pdf/2511.09724v1) | Cheng, Princen, Manduchi | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-Using-Mobile-Smartphones) | 2025-11-12 |
+| [DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras](https://arxiv.org/pdf/2511.10699v1) | Shu, Seenivasan, Liu | — | 2025-11-12 |
+| [BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation](https://arxiv.org/pdf/2511.09443v1) | Shu, Soberanis-Mukul, Xu | — | 2025-11-12 |
+| [CoRL-MPPI: Enhancing MPPI With Learnable Behaviours For Efficient And Provably-Safe Multi-Robot Collision Avoidance](https://arxiv.org/pdf/2511.09331v1) | Dergachev, Pshenitsyn, Panov | — | 2025-11-12 |
+| [Advancing Autonomous Emergency Response Systems: A Generative AI Perspective](https://arxiv.org/pdf/2511.09044v1) | Emami, Reddy, Pourkabirian | — | 2025-11-12 |
+| [Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding](https://arxiv.org/pdf/2511.08978v1) | Ma, Wang, Zhao | — | 2025-11-12 |
 | [Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning](https://arxiv.org/pdf/2511.08942v1) | Habibpour, Afghah | — | 2025-11-12 |
 | [Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation](https://arxiv.org/pdf/2511.08935v1) | Wang, Chen, Chen | — | 2025-11-12 |
+| [An Improved Dual-Attention Transformer-LSTM for Small-Sample Prediction of Modal Frequency and Actual Anchor Radius in Micro Hemispherical Resonator Design](https://arxiv.org/pdf/2511.08900v1) | Yao, Yang, Xu | — | 2025-11-12 |
+| [XPRESS: X-Band Radar Place Recognition via Elliptical Scan Shaping](https://arxiv.org/pdf/2511.08863v1) | Jang, Yang, Kim | — | 2025-11-12 |
+| [Low-cost Multi-agent Fleet for Acoustic Cooperative Localization Research](https://arxiv.org/pdf/2511.08822v1) | Durrant, Meyers, McMurray | — | 2025-11-11 |
+| [Modeling multi-agent motion dynamics in immersive rooms](https://arxiv.org/pdf/2511.08763v1) | Mincong, Huang, Radev | — | 2025-11-11 |
+| [Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory](https://arxiv.org/pdf/2511.08568v1) | Ren, Ma, Yang | — | 2025-11-11 |
+| [RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses](https://arxiv.org/pdf/2511.08545v1) | Srinivasan, Ramachandra | — | 2025-11-11 |
+| [Safe and Optimal Learning from Preferences via Weighted Temporal Logic with Applications in Robotics and Formula 1](https://arxiv.org/pdf/2511.08502v1) | Karagulle, Vasile, Ozay | — | 2025-11-11 |
+| [Generative AI Meets 6G and Beyond: Diffusion Models for Semantic Communications](https://arxiv.org/pdf/2511.08416v1) | Qin, Dai, Lu | — | 2025-11-11 |
+| [JobSphere: An AI-Powered Multilingual Career Copilot for Government Employment Platforms](https://arxiv.org/pdf/2511.08343v2) | R, B, Hussain | — | 2025-11-11 |
+| [LPPG-RL: Lexicographically Projected Policy Gradient Reinforcement Learning with Subproblem Exploration](https://arxiv.org/pdf/2511.08339v1) | Qiu, Wang, Yang | — | 2025-11-11 |
+| [Extended Time Varying Multi-Cluster Fluctuating Two-Ray Fading Model for Maritime Environment](https://arxiv.org/pdf/2511.08338v1) | Vié, Galeazzi, Papagergiou | — | 2025-11-11 |
+| [AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress](https://arxiv.org/pdf/2511.08325v1) | Xi, Liao, Li | — | 2025-11-11 |
+| [Distance by de-correlation: Computing distance with heterogeneous grid cells](https://arxiv.org/pdf/2511.08292v1) | Dasbehera, Dogra, Redman | — | 2025-11-11 |
+| [X-IONet: Cross-Platform Inertial Odometry Network with Dual-Stage Attention](https://arxiv.org/pdf/2511.08277v1) | Shen, Chen | — | 2025-11-11 |
+| [PerspAct: Enhancing LLM Situated Collaboration Skills through Perspective Taking and Active Vision](https://arxiv.org/pdf/2511.08098v1) | Patania, Annese, Pellegrini | — | 2025-11-11 |
+| [ProSona: Prompt-Guided Personalization for Multi-Expert Medical Image Segmentation](https://arxiv.org/pdf/2511.08046v1) | Elgebaly, Delopoulos, Hörner-Rieber | — | 2025-11-11 |
+| [Local Path Planning with Dynamic Obstacle Avoidance in Unstructured Environments](https://arxiv.org/pdf/2511.07927v1) | Guvenkaya, Iz, Unel | — | 2025-11-11 |
+| [Silicon-photonic optomechanical magnetometer](https://arxiv.org/pdf/2511.07852v2) | Gottardo, Carey, Bawden | — | 2025-11-11 |
 | [Virtual Traffic Lights for Multi-Robot Navigation: Decentralized Planning with Centralized Conflict Resolution](https://arxiv.org/pdf/2511.07811v1) | Gupta, Nguyen, Phan | — | 2025-11-11 |
+| [Navigating the Wild: Pareto-Optimal Visual Decision-Making in Image Space](https://arxiv.org/pdf/2511.07750v1) | Pushp, Chen, Chen | — | 2025-11-11 |
+| [Designing Mental-Health Chatbots for Indian Adolescents: Mixed-Methods Evidence, a Boundary-Object Lens, and a Design-Tensions Framework](https://arxiv.org/pdf/2511.07729v1) | Sehgal, Kambhamettu, Matam | — | 2025-11-11 |
+| [LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models](https://arxiv.org/pdf/2511.07727v1) | Zhang, Ding, Hayamizu | — | 2025-11-11 |
+| [Cross Modal Fine-Grained Alignment via Granularity-Aware and Region-Uncertain Modeling](https://arxiv.org/pdf/2511.07710v3) | Liu, Zhou, Liu | — | 2025-11-11 |
+| [Testing and Evaluation of Underwater Vehicle Using Hardware-In-The-Loop Simulation with HoloOcean](https://arxiv.org/pdf/2511.07687v1) | Meyers, Mangelson | — | 2025-11-10 |
+| [Effective SU(2) gadget: holonomic walk on higher-order Poincaré sphere](https://arxiv.org/pdf/2511.07670v1) | Umar, Bansal, Senthilkumaran | — | 2025-11-10 |
+| [Accessibility, Safety, and Accommodation Burden in U.S. Higher Education Syllabi for Blind and Low-Vision Students](https://arxiv.org/pdf/2511.07634v1) | Acharya | — | 2025-11-10 |
+| [Voice-Interactive Surgical Agent for Multimodal Patient Data Control](https://arxiv.org/pdf/2511.07392v3) | Park, Gu, Lee | — | 2025-11-10 |
+| [Designing Beyond Language: Sociotechnical Barriers in AI Health Technologies for Limited English Proficiency](https://arxiv.org/pdf/2511.07277v1) | Huang, Rodriguez, Saha | — | 2025-11-10 |
+| [Trajectory Design for UAV-Assisted Logistics Collection in Low-Altitude Economy](https://arxiv.org/pdf/2511.07178v1) | Zhai, Gao, Ni | — | 2025-11-10 |
+| [Guiding Generative Models to Uncover Diverse and Novel Crystals via Reinforcement Learning](https://arxiv.org/pdf/2511.07158v1) | Park, Walsh | — | 2025-11-10 |
+| [On the Joint Minimization of Regularization Loss Functions in Deep Variational Bayesian Methods for Attribute-Controlled Symbolic Music Generation](https://arxiv.org/pdf/2511.07118v1) | Pettenó, Mezza, Bernardini | — | 2025-11-10 |
+| [Raspi$^2$USBL: An open-source Raspberry Pi-Based Passive Inverted Ultra-Short Baseline Positioning System for Underwater Robotics](https://arxiv.org/pdf/2511.06998v1) | Huang, Wang, Chen | — | 2025-11-10 |
+| [Koopman-Based Dynamic Environment Prediction for Safe UAV Navigation](https://arxiv.org/pdf/2511.06990v1) | Bueno, Azarbahram, Farina | — | 2025-11-10 |
+| [Personalizing Emotion-aware Conversational Agents? Exploring User Traits-driven Conversational Strategies for Enhanced Interaction](https://arxiv.org/pdf/2511.06954v1) | Zhang, Ma, Fu | — | 2025-11-10 |
+| [Contact Wasserstein Geodesics for Non-Conservative Schrödinger Bridges](https://arxiv.org/pdf/2511.06856v2) | Testa, Hauberg, Asfour | — | 2025-11-10 |
 | [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/pdf/2511.06840v1) | Jin, Wu, Chen | — | 2025-11-10 |
+| [TiS-TSL: Image-Label Supervised Surgical Video Stereo Matching via Time-Switchable Teacher-Student Learning](https://arxiv.org/pdf/2511.06817v3) | Wang, Zhou, Wang | — | 2025-11-10 |
+| [Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots](https://arxiv.org/pdf/2511.06801v1) | Kumar, Sandhan | — | 2025-11-10 |
+| [Coupling Agent-based Modeling and Life Cycle Assessment to Analyze Trade-offs in Resilient Energy Transitions](https://arxiv.org/pdf/2511.06791v1) | Zhang, Zaki, Breunig | — | 2025-11-10 |
+| [FPGA or GPU? Analyzing comparative research for application-specific guidance](https://arxiv.org/pdf/2511.06565v1) | Purkayastha, Tharwani, Aggarwal | — | 2025-11-09 |
+| [V-Shuffle: Zero-Shot Style Transfer via Value Shuffle](https://arxiv.org/pdf/2511.06365v1) | Tang, Lin, Xu | — | 2025-11-09 |
+| [BuildingWorld: A Structured 3D Building Dataset for Urban Foundation Models](https://arxiv.org/pdf/2511.06337v1) | Huang, Wang, Wang | — | 2025-11-09 |
+| [COTN: A Chaotic Oscillatory Transformer Network for Complex Volatile Systems under Extreme Conditions](https://arxiv.org/pdf/2511.06273v1) | Tang, Zeng, Ren | — | 2025-11-09 |
+| [Fast Reconstruction of Motion-Corrupted Data with Mobile-GRAPPA: Motion and dB0 Inhomogeneity Correction Leveraging Efficient GRAPPA](https://arxiv.org/pdf/2511.06257v1) | Lin, Wang, Abraham | — | 2025-11-09 |
+| [Affordance-Guided Coarse-to-Fine Exploration for Base Placement in Open-Vocabulary Mobile Manipulation](https://arxiv.org/pdf/2511.06240v1) | Lin, Yeh, Su | — | 2025-11-09 |
 | [OpenVLN: Open-world Aerial Vision-Language Navigation](https://arxiv.org/pdf/2511.06182v2) | Lin, Sun, Liu | — | 2025-11-09 |
+| [Real-Time Bundle Adjustment for Ultra-High-Resolution UAV Imagery Using Adaptive Patch-Based Feature Tracking](https://arxiv.org/pdf/2511.06152v1) | Iz, Nex, Kerle | — | 2025-11-08 |
+| [Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs](https://arxiv.org/pdf/2511.06134v1) | Yang, Pang, Li | — | 2025-11-08 |
+| [AIDEN: Design and Pilot Study of an AI Assistant for the Visually Impaired](https://arxiv.org/pdf/2511.06080v3) | Marquez-Carpintero, Gomez-Donoso, Bauer | — | 2025-11-08 |
+| [Positioning Using LEO Satellite Communication Signals Under Orbital Errors](https://arxiv.org/pdf/2511.06060v1) | Ma, Zheng, Liu | — | 2025-11-08 |
+| [Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs](https://arxiv.org/pdf/2511.05933v1) | Zhang, Kaniselvan, Mireshghallah | — | 2025-11-08 |
+| [Disentangled Control of Multi-Agent Systems](https://arxiv.org/pdf/2511.05900v2) | Lin, Notomista, Egerstedt | — | 2025-11-08 |
 | [From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation](https://arxiv.org/pdf/2511.05889v1) | Feng, Zhang, Bansal | — | 2025-11-08 |
+| [Perturbation-mitigated USV Navigation with Distributionally Robust Reinforcement Learning](https://arxiv.org/pdf/2512.00030v1) | Zhang, Yang, Xie | — | 2025-11-08 |
+| [(Working Paper) Good Faith Design: Religion as a Resource for Technologists](https://arxiv.org/pdf/2511.05819v1) | Lutz, Olsen, Liu | — | 2025-11-08 |
+| [An Open-Source, Reproducible Tensegrity Robot that can Navigate Among Obstacles](https://arxiv.org/pdf/2511.05798v1) | Johnson, Meng, Chen | — | 2025-11-08 |
+| [Building Specialized Software-Assistant ChatBot with Graph-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2511.05297v1) | Hilel, Karmim, Bodinat | — | 2025-11-07 |
+| [Automatic segmentation of colorectal liver metastases for ultrasound-based navigated resection](https://arxiv.org/pdf/2511.05253v1) | Natali, Olthof, Kok | — | 2025-11-07 |
+| [Follow-Me in Micro-Mobility with End-to-End Imitation Learning](https://arxiv.org/pdf/2511.05158v1) | Salimpour, Catalano, Westerlund | — | 2025-11-07 |
+| [TRICK: Time and Range Integrity ChecK using Low Earth Orbiting Satellite for Securing GNSS](https://arxiv.org/pdf/2511.05100v1) | Mumtaz, Singh | — | 2025-11-07 |
+| [An Architectural Advantage of The Instruction-Tuned LLM in Containing The Readability-Accuracy Tension in Text Simplification](https://arxiv.org/pdf/2511.05080v2) | Githinji, Meilliou, Liang | — | 2025-11-07 |
+| [TAPOM: Task-Space Topology-Guided Motion Planning for Manipulating Elongated Object in Cluttered Environments](https://arxiv.org/pdf/2511.05052v1) | Li, Zhu, Zhong | — | 2025-11-07 |
+| [Beta Distribution Learning for Reliable Roadway Crash Risk Assessment](https://arxiv.org/pdf/2511.04886v1) | Elallaf, Jacobs, Ye | — | 2025-11-07 |
+| [Grounded Test-Time Adaptation for LLM Agents](https://arxiv.org/pdf/2511.04847v2) | Chen, Liu, Zhang | — | 2025-11-06 |
+| [SGNL: Scalable Low-Latency Gravitational Wave Detection Pipeline for Compact Binary Mergers](https://arxiv.org/pdf/2511.04730v1) | Huang, Hanna, Tsukada | — | 2025-11-06 |
+| [Promoting Sustainable Web Agents: Benchmarking and Estimating Energy Consumption through Empirical and Theoretical Analysis](https://arxiv.org/pdf/2511.04481v1) | Krupp, Geißler, Banwari | — | 2025-11-06 |
+| [Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection](https://arxiv.org/pdf/2511.04347v1) | Kumar, Brophy, Grua | — | 2025-11-06 |
+| [MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](https://arxiv.org/pdf/2511.04320v1) | Sima, Tang, Ma | — | 2025-11-06 |
+| [Vitessce Link: A Mixed Reality and 2D Display Hybrid Approach for Visual Analysis of 3D Tissue Maps](https://arxiv.org/pdf/2511.04262v1) | Mörth, Turner, Nielsen | — | 2025-11-06 |
+| [Coordination-Free Lane Partitioning for Convergent ANN Search](https://arxiv.org/pdf/2511.04221v1) | Kugblenu, Vuorimaa | — | 2025-11-06 |
+| [Deep reinforcement learning based navigation of a jellyfish-like swimmer in flows with obstacles](https://arxiv.org/pdf/2511.04156v1) | Chen, Yang | — | 2025-11-06 |
 | [A Survey on Improving Human Robot Collaboration through Vision-and-Language Navigation](https://arxiv.org/pdf/2512.00027v1) | Yakolli, Gautam, Das | — | 2025-11-06 |
+| [DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms](https://arxiv.org/pdf/2511.04128v2) | Tang, Lu, Dong | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/BiscuitsLzy/DMSORT-An-efficient-parallel-maritime-multi-object-tracking-architecture-) | 2025-11-06 |
+| [Enhancing Fault-Tolerant Space Computing: Guidance Navigation and Control (GNC) and Landing Vision System (LVS) Implementations on Next-Gen Multi-Core Processors](https://arxiv.org/pdf/2511.04052v1) | Yun, Bayard, Kubiak | — | 2025-11-06 |
+| [SynQuE: Estimating Synthetic Dataset Quality Without Annotations](https://arxiv.org/pdf/2511.03928v2) | Chen, Zhong | — | 2025-11-06 |
+| [Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures](https://arxiv.org/pdf/2511.03882v1) | Klitzner, Inigo, Killeen | — | 2025-11-05 |
+| [Levers of Power in the Field of AI](https://arxiv.org/pdf/2511.03859v1) | Mackenzie, Punj, Perez | — | 2025-11-05 |
+| [Flying Robotics Art: ROS-based Drone Draws the Record-Breaking Mural](https://arxiv.org/pdf/2511.03651v1) | Korigodskii, Kalachev, Vasiunik | — | 2025-11-05 |
+| [Manifold-constrained Hamilton-Jacobi Reachability Learning for Decentralized Multi-Agent Motion Planning](https://arxiv.org/pdf/2511.03591v1) | Chen, Ni, Kim | — | 2025-11-05 |
+| [Multi-User Personalisation in Human-Robot Interaction: Resolving Preference Conflicts Using Gradual Argumentation](https://arxiv.org/pdf/2511.03576v2) | Civit, Andriella, Sierra | — | 2025-11-05 |
+| [Dexterous Intramyocardial Needle Ablation (d-INA): Design, Fabrication, and In-Vivo Validation](https://arxiv.org/pdf/2511.03763v1) | Zhou, Hong, Wang | — | 2025-11-05 |
+| [I Prompt, it Generates, we Negotiate. Exploring Text-Image Intertextuality in Human-AI Co-Creation of Visual Narratives with VLMs](https://arxiv.org/pdf/2511.03375v1) | Guo, Nie, Gao | — | 2025-11-05 |
+| [Isolated quantum-state networks in ultracold molecules](https://arxiv.org/pdf/2511.03324v2) | Hepworth, Cornish, Gregory | — | 2025-11-05 |
+| [Optimizing Earth-Moon Transfer and Cislunar Navigation: Integrating Low-Energy Trajectories, AI Techniques and GNSS-R Technologies](https://arxiv.org/pdf/2511.03173v1) | Muhammad, Ahmed, Ojonugwa | — | 2025-11-05 |
+| [Learning Natural and Robust Hexapod Locomotion over Complex Terrains via Motion Priors based on Deep Reinforcement Learning](https://arxiv.org/pdf/2511.03167v1) | Liu, Wu, Li | — | 2025-11-05 |
+| [SENT Map -- Semantically Enhanced Topological Maps with Foundation Models](https://arxiv.org/pdf/2511.03165v1) | Kathirvel, Chavis, Guy | — | 2025-11-05 |
+| [Leveraging Discrete Function Decomposability for Scientific Design](https://arxiv.org/pdf/2511.03032v1) | Bowden, Levine, Listgarten | — | 2025-11-04 |
+| [Systematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications](https://arxiv.org/pdf/2511.02979v1) | Sun, Wu | — | 2025-11-04 |
+| [Lunar Time](https://arxiv.org/pdf/2511.02709v1) | Defraigne, Meynadier, Bourgoin | — | 2025-11-04 |
+| [Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs](https://arxiv.org/pdf/2511.02690v1) | Tzannetos, Kamalaruban, Singla | — | 2025-11-04 |
+| [Many-vs-Many Missile Guidance via Virtual Targets](https://arxiv.org/pdf/2511.02526v1) | Schneider, Fichter | — | 2025-11-04 |
+| [Vorticity-induced surfing and trapping in porous media](https://arxiv.org/pdf/2511.02471v1) | Das, Residori, Voigt | — | 2025-11-04 |
+| [When Continuous Delivery Is Not an Option: Practical Paths to Continuous Engineering in Complex Organizations](https://arxiv.org/pdf/2511.02445v1) | Klotins, Ahlgren, Vivaldi | — | 2025-11-04 |
+| [On the supra-linear storage in dense networks of grid and place cells](https://arxiv.org/pdf/2511.02441v2) | Barra, Centonze, Solazzo | — | 2025-11-04 |
+| [Learning Spatial Awareness for Laparoscopic Surgery with AI Assisted Visual Feedback](https://arxiv.org/pdf/2511.02233v1) | Liu, Tan, Li | — | 2025-11-04 |
+| [Hybrid Neural Network-Based Indoor Localisation System for Mobile Robots Using CSI Data in a Robotics Simulator](https://arxiv.org/pdf/2511.01797v1) | Ballesteros-Jerez, Martínez-Gómez, García-Varea | — | 2025-11-03 |
+| [How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment](https://arxiv.org/pdf/2511.01775v1) | Chen, Xu, Wu | — | 2025-11-03 |
+| [Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/pdf/2511.01736v1) | Yuan | — | 2025-11-03 |
+| [A Graph-based RAG for Energy Efficiency Question Answering](https://arxiv.org/pdf/2511.01643v1) | Campi, Vago, Giudici | — | 2025-11-03 |
+| [TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks](https://arxiv.org/pdf/2511.01527v1) | Xu, Huang, Liu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/hanwenxu1/mcp-agent) | 2025-11-03 |
+| [Floor Plan-Guided Visual Navigation Incorporating Depth and Directional Cues](https://arxiv.org/pdf/2511.01493v2) | Huang, Li, Wan | — | 2025-11-03 |
+| [Building granular structures with elasto-active systems](https://arxiv.org/pdf/2511.01378v1) | Xi, Marzin, Brun | — | 2025-11-03 |
+| [Beyond Permissions: Investigating Mobile Personalization with Simulated Personas](https://arxiv.org/pdf/2511.01336v1) | Khalilov, Chen, Xiao | — | 2025-11-03 |
+| [DeepSpecs: Expert-Level Questions Answering in 5G](https://arxiv.org/pdf/2511.01305v1) | Manvattira, Xu, Dang | — | 2025-11-03 |
+| [NIR-II Fluorescence Project Technology for Augmented Reality Surgical Navigation](https://arxiv.org/pdf/2511.01269v1) | Zhang, Liu, Liu | — | 2025-11-03 |
+| [A Saddle Point Remedy: Power of Variable Elimination in Non-convex Optimization](https://arxiv.org/pdf/2511.01234v1) | Gan, Chen, Yi | — | 2025-11-03 |
+| [Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures](https://arxiv.org/pdf/2511.01199v1) | McCandless, Hamid, Elmariah | — | 2025-11-03 |
+| [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://arxiv.org/pdf/2511.01186v1) | Wang, Guo, Xu | — | 2025-11-03 |
+| [Deployable Vision-driven UAV River Navigation via Human-in-the-loop Preference Alignment](https://arxiv.org/pdf/2511.01083v1) | Wang, Li, Wu | — | 2025-11-02 |
+| [Equality Graph Assisted Symbolic Regression](https://arxiv.org/pdf/2511.01009v1) | Franca, Kronberger | — | 2025-11-02 |
+| ["Less is More": Reducing Cognitive Load and Task Drift in Real-Time Multimodal Assistive Agents for the Visually Impaired](https://arxiv.org/pdf/2511.00945v1) | Zhao, Wang, Geng | — | 2025-11-02 |
+| [pacSTL: PAC-Bounded Signal Temporal Logic from Data-Driven Reachability Analysis](https://arxiv.org/pdf/2511.00934v1) | Dietrich, Krasowski, Gezer | — | 2025-11-02 |
 | [Fast-SmartWay: Panoramic-Free End-to-End Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2511.00933v1) | Shi, Li, Qiao | — | 2025-11-02 |
+| [A Meta-Cognitive Swarm Intelligence Framework for Resilient UAV Navigation in GPS-Denied and Cluttered Environments](https://arxiv.org/pdf/2511.00884v1) | Mankoe, Lu, Bi | — | 2025-11-02 |
+| [Occlusion-Aware Diffusion Model for Pedestrian Intention Prediction](https://arxiv.org/pdf/2511.00858v1) | Liu, Liu, Yang | — | 2025-11-02 |
+| [When Semantics Connect the Swarm: LLM-Driven Fuzzy Control for Cooperative Multi-Robot Underwater Coverage](https://arxiv.org/pdf/2511.00783v2) | Xu, Zhang, Li | — | 2025-11-02 |
+| [Ariadne: A Controllable Framework for Probing and Extending VLM Reasoning Boundaries](https://arxiv.org/pdf/2511.00710v3) | Shen, Zhi, Liu | — | 2025-11-01 |
+| [Modeling the Construction of a Literary Archetype: The Case of the Detective Figure in French Literature](https://arxiv.org/pdf/2511.00627v1) | Barré, Seminck, Bourgois | — | 2025-11-01 |
+| [GDROS: A Geometry-Guided Dense Registration Framework for Optical-SAR Images under Large Geometric Transformations](https://arxiv.org/pdf/2511.00598v1) | Sun, Zhi, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Zi-Xuan-Sun/GDROS) | 2025-11-01 |
+| [The Evolution of Agile and Hybrid Project Management Methodologies: A Systematic Literature Review](https://arxiv.org/pdf/2511.02859v1) | Leech, Hanslo | — | 2025-11-01 |
+| [Meta-Learning Based Radio Frequency Fingerprinting for GNSS Spoofing Detection](https://arxiv.org/pdf/2511.00491v1) | Marata, Sankari, Eldeeb | — | 2025-11-01 |
+| [CT-ESKF: A General Framework of Covariance Transformation-Based Error-State Kalman Filter](https://arxiv.org/pdf/2511.00453v1) | Han, Ouyang, Zhu | — | 2025-11-01 |
+| [Human-AI Programming Role Optimization: Developing a Personality-Driven Self-Determination Framework](https://arxiv.org/pdf/2511.00417v2) | Valovy | — | 2025-11-01 |
+| [Runge-Kutta Approximations for Direct Coning Compensation Applying Lie Theory](https://arxiv.org/pdf/2511.00412v1) | Christian, Walker, Bridgman | — | 2025-11-01 |
+| [Spatial Crowdsourcing-based Task Allocation for UAV-assisted Maritime Data Collection](https://arxiv.org/pdf/2511.00387v1) | Han, Lin, Na | — | 2025-11-01 |
+| [FGO MythBusters: Explaining how Kalman Filter variants achieve the same performance as FGO in navigation applications](https://arxiv.org/pdf/2511.00306v1) | Song, Xu, Hsu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Baoshan-Song/KFV-FGO-Comparison) | 2025-10-31 |
+| [NOMAD -- Navigating Optimal Model Application to Datastreams](https://arxiv.org/pdf/2511.00290v2) | Colaco, Mehrotra, Lucia | — | 2025-10-31 |
+| [MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba](https://arxiv.org/pdf/2511.00260v1) | Jiang, Huang, Bano | — | 2025-10-31 |
+| [Supply Chain Exploitation of Secure ROS 2 Systems: A Proof-of-Concept on Autonomous Platform Compromise via Keystore Exfiltration](https://arxiv.org/pdf/2511.00140v1) | Sakib, Martinez, Brady | — | 2025-10-31 |
+| [Navigated hepatic tumor resection using intraoperative ultrasound imaging](https://arxiv.org/pdf/2510.27596v1) | Olthof, Ruers, Natali | — | 2025-10-31 |
+| [Trends and Challenges in Next-Generation GNSS Interference Management](https://arxiv.org/pdf/2510.27576v1) | Marata, Jaramillo-Civill, Imbiriba | — | 2025-10-31 |
+| [Beyond Demographics: Behavioural Segmentation and Spatial Analytics to Enhance Visitor Experience at The British Museum](https://arxiv.org/pdf/2510.27542v1) | Muggleton, Monteath, Yasseri | — | 2025-10-31 |
+| [Dialogue as Discovery: Navigating Human Intent Through Principled Inquiry](https://arxiv.org/pdf/2510.27410v1) | Sun, Feng, Chang | — | 2025-10-31 |
+| [Complete characterization of beam deflection based on double weak value amplification system](https://arxiv.org/pdf/2510.27398v2) | Wang, Yang, Zhang | — | 2025-10-31 |
+| [ToolScope: An Agentic Framework for Vision-Guided and Long-Horizon Tool Use](https://arxiv.org/pdf/2510.27363v1) | Deng, Dong, Dou | — | 2025-10-31 |
 | [Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis](https://arxiv.org/pdf/2510.27324v1) | Chen, Wang, Zhu | — | 2025-10-31 |
+| [A Next-Generation Exoplanet Atmospheric Retrieval Framework NEXOTRANS for Emission Spectroscopy: New Constraints and Atmospheric Characterization of WASP-69b Using JWST NIRCam and MIRI Observations](https://arxiv.org/pdf/2510.27223v1) | Deka, Majumdar, Khan | — | 2025-10-31 |
+| [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://arxiv.org/pdf/2510.27210v1) | Liu, Wang, Li | — | 2025-10-31 |
+| [A Survey on Generative Recommendation: Data, Model, and Tasks](https://arxiv.org/pdf/2510.27157v1) | Hou, Wu, Liao | — | 2025-10-31 |
+| [A Step Toward World Models: A Survey on Robotic Manipulation](https://arxiv.org/pdf/2511.02097v2) | Zhang, Cheng, Sun | — | 2025-10-31 |
+| [Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement](https://arxiv.org/pdf/2510.27051v1) | Shukla, Knowles, Madugula | — | 2025-10-30 |
+| [A Hermetic, Transparent Soft Growing Vine Robot System for Pipe Inspection](https://arxiv.org/pdf/2510.27010v1) | Heap, Qin, Hammond | — | 2025-10-30 |
+| [Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules](https://arxiv.org/pdf/2510.26997v1) | Vastola, Gershman, Rajan | — | 2025-10-30 |
+| [Inferring the Chemotaxis Distortion Function from Cellular Decision Strategies](https://arxiv.org/pdf/2510.26988v1) | Vakilipoor, Konrad, Schäfer | — | 2025-10-30 |
+| [Cooperative Integrated Estimation-Guidance for Simultaneous Interception of Moving Targets](https://arxiv.org/pdf/2510.26948v1) | Gopikannan, Kumar, Sinha | — | 2025-10-30 |
 | [NaviTrace: Evaluating Embodied Navigation of Vision-Language Models](https://arxiv.org/pdf/2510.26909v2) | Windecker, Patel, Reuss | — | 2025-10-30 |
+| [Design for One, Deploy for Many: Navigating Tree Mazes with Multiple Agents](https://arxiv.org/pdf/2510.26900v1) | Argote-Gerald, Miyauchi, Rau | — | 2025-10-30 |
+| [Remote Labor Index: Measuring AI Automation of Remote Work](https://arxiv.org/pdf/2510.26787v1) | Mazeika, Gatti, Menghini | — | 2025-10-30 |
 | [Clone Deterministic 3D Worlds](https://arxiv.org/pdf/2510.26782v2) | Xia, Lu, Li | — | 2025-10-30 |
+| [Towards Reliable Sea Ice Drift Estimation in the Arctic Deep Learning Optical Flow on RADARSAT-2](https://arxiv.org/pdf/2510.26653v1) | Martin, Gallego | — | 2025-10-30 |
+| [Hybrid DQN-TD3 Reinforcement Learning for Autonomous Navigation in Dynamic Environments](https://arxiv.org/pdf/2510.26646v1) | He, Chen, Zhang | — | 2025-10-30 |
+| [FLYINGTRUST: A Benchmark for Quadrotor Navigation Across Scenarios and Vehicles](https://arxiv.org/pdf/2510.26588v1) | Li, Zhai, Wang | — | 2025-10-30 |
+| [MIREDO: MIP-Driven Resource-Efficient Dataflow Optimization for Computing-in-Memory Accelerator](https://arxiv.org/pdf/2510.26463v1) | He, Duan, Qi | — | 2025-10-30 |
+| [Barlow Twins for Sequential Recommendation](https://arxiv.org/pdf/2510.26407v1) | Razvorotnev, Munkhoeva, Frolov | — | 2025-10-30 |
+| [A Pragmatic View of AI Personhood](https://arxiv.org/pdf/2510.26396v1) | Leibo, Vezhnevets, Cunningham | — | 2025-10-30 |
+| [Reinforcement Learning for Pollution Detection in a Randomized, Sparse and Nonstationary Environment with an Autonomous Underwater Vehicle](https://arxiv.org/pdf/2510.26347v1) | Zieglmeier, Erdmann, Warakagoda | — | 2025-10-30 |
+| [Empowering RepoQA-Agent based on Reinforcement Learning Driven by Monte-carlo Tree Search](https://arxiv.org/pdf/2510.26287v1) | Li, Liu, Qin | — | 2025-10-30 |
+| [Look at That Distractor: Dynamic Translation Gain under Low Perceptual Load in Virtual Reality](https://arxiv.org/pdf/2510.26265v1) | Zou, Tong, Luo | — | 2025-10-30 |
+| [Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights](https://arxiv.org/pdf/2510.26132v1) | Perez-Arancibia | — | 2025-10-30 |
+| [Network-Constrained Policy Optimization for Adaptive Multi-agent Vehicle Routing](https://arxiv.org/pdf/2510.26089v1) | Arasteh, Haghparast, Papagelis | — | 2025-10-30 |
+| [Accelerating Real-World Overtaking in F1TENTH Racing Employing Reinforcement Learning Methods](https://arxiv.org/pdf/2510.26040v1) | Steiner, Spuy, Zhou | — | 2025-10-30 |
+| [Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization](https://arxiv.org/pdf/2510.26023v2) | Bao, Li | — | 2025-10-29 |
+| [On the Go with AR: Attention to Virtual and Physical Targets while Varying Augmentation Density](https://arxiv.org/pdf/2510.25978v1) | Kim, Kumaran, Luo | — | 2025-10-29 |
+| [The Impact of Navigation Aids on Search Performance and Object Recall in Wide-Area Augmented Reality](https://arxiv.org/pdf/2510.25957v1) | Kumaran, Kim, Milner | — | 2025-10-29 |
+| [Risk-Aware Safety Filters with Poisson Safety Functions and Laplace Guidance Fields](https://arxiv.org/pdf/2510.25913v1) | Bahati, Bena, Wilkinson | — | 2025-10-29 |
 | [Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks](https://arxiv.org/pdf/2510.25760v2) | Zheng, Dongfang, Jiang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning) | 2025-10-29 |
+| [Modeling Collapse of Steered Vine Robots Under Their Own Weight](https://arxiv.org/pdf/2510.25727v1) | McFarland, McGuinness | — | 2025-10-29 |
+| [Retrieval-Augmented Search for Large-Scale Map Collections with ColPali](https://arxiv.org/pdf/2510.25718v1) | Mahowald, Lee | — | 2025-10-29 |
+| [Navigation in a Three-Dimensional Urban Flow using Deep Reinforcement Learning](https://arxiv.org/pdf/2510.25679v1) | Tonti, Vinuesa | — | 2025-10-29 |
+| [ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents](https://arxiv.org/pdf/2510.25668v1) | Yang, Ruas, Tian | — | 2025-10-29 |
+| [ggtime: A Grammar of Temporal Graphics](https://arxiv.org/pdf/2510.25656v1) | Huang, O'Hara-Wild, Hyndman | — | 2025-10-29 |
+| [Suzume-chan: Your Personal Navigator as an Embodied Information Hub](https://arxiv.org/pdf/2512.09932v1) | Torii, Murakami, Koseki | — | 2025-10-29 |
+| [Reinforcement Learning techniques for the flavor problem in particle physics](https://arxiv.org/pdf/2510.25495v1) | Giarnetti, Meloni | — | 2025-10-29 |
+| [Dissect-and-Restore: AI-based Code Verification with Transient Refactoring](https://arxiv.org/pdf/2510.25406v2) | Wang, Scazzariello, Alshnakat | — | 2025-10-29 |
+| [Development of Implicit-Explicit Control Based Amphibious Centipede-Type Robot and Evaluation of its Mobile Performance](https://arxiv.org/pdf/2510.25280v1) | Tsunoda, Yamamoto, Ito | — | 2025-10-29 |
+| [ProMediate: A Socio-cognitive framework for evaluating proactive agents in multi-party negotiation](https://arxiv.org/pdf/2510.25224v1) | Liu, Sarrafzadeh, Zhou | — | 2025-10-29 |
 | [SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning](https://arxiv.org/pdf/2510.25191v1) | Song, Yadav, Guo | — | 2025-10-29 |
+| [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://arxiv.org/pdf/2510.25161v1) | Iiyama, Gao | — | 2025-10-29 |
+| [Dynamically Weighted Momentum with Adaptive Step Sizes for Efficient Deep Network Training](https://arxiv.org/pdf/2510.25042v1) | Wang, Li, Zeng | — | 2025-10-29 |
+| [Conformational Rank Conditioned Committees for Machine Learning-Assisted Directed Evolution](https://arxiv.org/pdf/2510.24974v2) | Adler, Liang, Peng | — | 2025-10-28 |
+| [Smooth path planning with safety margins using Piece-Wise Bezier curves](https://arxiv.org/pdf/2510.24972v1) | Andrei, Kloetzer, Mahulea | — | 2025-10-28 |
+| [SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving](https://arxiv.org/pdf/2510.24949v1) | Yildiz, Thornton, Hildebrandt | — | 2025-10-28 |
+| [Real time synchronisation of a free-running atomic clock time base with UTC using GNSS signals for application in experimental physics](https://arxiv.org/pdf/2511.05525v1) | Dalmazzone, Guigue, Popov | — | 2025-10-28 |
+| [Fare: Failure Resilience in Learned Visual Navigation Control](https://arxiv.org/pdf/2510.24680v1) | Wang, Loo, Hsu | — | 2025-10-28 |
+| [Feature Matching-Based Gait Phase Prediction for Obstacle Crossing Control of Powered Transfemoral Prosthesis](https://arxiv.org/pdf/2510.24676v1) | Zhang, Leng, Guo | — | 2025-10-28 |
+| [Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](https://arxiv.org/pdf/2510.24653v1) | Thai, Li, Ling | — | 2025-10-28 |
+| [Detecting the Use of Generative AI in Crowdsourced Surveys: Implications for Data Integrity](https://arxiv.org/pdf/2510.24594v2) | Zhang, Katoh, Pei | — | 2025-10-28 |
+| [The Evolution of Probabilistic Price Forecasting Techniques: A Review of the Day-Ahead, Intra-Day, and Balancing Markets](https://arxiv.org/pdf/2511.05523v1) | O'Connor, Bahloul, Prestwich | — | 2025-10-28 |
+| [SynthWorlds: Controlled Parallel Worlds for Disentangling Reasoning and Knowledge in Language Models](https://arxiv.org/pdf/2510.24427v2) | Gu, Bhat, Merrill | — | 2025-10-28 |
+| [Decision-Making Amid Information-Based Threats in Sociotechnical Systems: A Review](https://arxiv.org/pdf/2511.11595v1) | Allred, Richardson, Bostrom | — | 2025-10-28 |
+| [Generative Large Language Models (gLLMs) in Content Analysis: A Practical Guide for Communication Research](https://arxiv.org/pdf/2510.24337v1) | Kravets-Meinke, Schmid-Petri, Niemann | — | 2025-10-28 |
+| [NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation](https://arxiv.org/pdf/2510.24335v1) | Jeong, Kim, Park | — | 2025-10-28 |
+| [MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/pdf/2510.24168v1) | Cheng, Ni, Wang | — | 2025-10-28 |
+| [LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation](https://arxiv.org/pdf/2510.24118v1) | Zhou, Wang, Li | — | 2025-10-28 |
+| [Lunar Navigation System Optimization for Targeted Coverage with Semi-Analytical Station Keeping Model and Earth-GPS Integration](https://arxiv.org/pdf/2510.24084v1) | Malik, Yang | — | 2025-10-28 |
+| [Building AI Literacy at Home: How Families Navigate Children's Self-Directed Learning with AI](https://arxiv.org/pdf/2510.24070v1) | Xie, Wu, Wang | — | 2025-10-28 |
+| [Improved Accuracy of Robot Localization Using 3-D LiDAR in a Hippocampus-Inspired Model](https://arxiv.org/pdf/2510.24029v1) | Gerstenslager, Dukenbaev, Minai | — | 2025-10-28 |
+| [Stand, Walk, Navigate: Recovery-Aware Visual Navigation on a Low-Cost Wheeled Quadruped](https://arxiv.org/pdf/2510.23902v1) | Solano, Quiroz | — | 2025-10-27 |
+| [A geometric and deep learning reproducible pipeline for monitoring floating anthropogenic debris in urban rivers using in situ cameras](https://arxiv.org/pdf/2510.23798v1) | Grimmer, Wenger, Flint | — | 2025-10-27 |
+| [UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576v1) | Li, Wang, Zhang | — | 2025-10-27 |
+| [Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model](https://arxiv.org/pdf/2510.23509v1) | Wang, Ike, Choi | — | 2025-10-27 |
+| [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://arxiv.org/pdf/2510.23473v1) | Wang, Jin, Wang | — | 2025-10-27 |
+| [A Neuro-Symbolic Multi-Agent Approach to Legal-Cybersecurity Knowledge Integration](https://arxiv.org/pdf/2510.23443v1) | Bonfanti, Druetto, Basile | — | 2025-10-27 |
+| [T-ESKF: Transformed Error-State Kalman Filter for Consistent Visual-Inertial Navigation](https://arxiv.org/pdf/2510.23359v1) | Tian, Hao, He | — | 2025-10-27 |
+| [Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon](https://arxiv.org/pdf/2510.23329v1) | Santra, Robbins, Yoshida | — | 2025-10-27 |
+| [Precise Time Delay Measurement and Compensation for Tightly Coupled Underwater SINS/piUSBL Navigation](https://arxiv.org/pdf/2510.23286v1) | Huang, Wang, Li | — | 2025-10-27 |
+| [Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation](https://arxiv.org/pdf/2510.23258v1) | Yokozawa, Fujii, Nomura | — | 2025-10-27 |
+| [On the Fundamental Limitations of Decentralized Learnable Reward Shaping in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2511.00034v1) | Akella | — | 2025-10-27 |
+| [Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation](https://arxiv.org/pdf/2510.23057v1) | Natan, Miura | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/oskarnatan/Seq-DeepIPC) | 2025-10-27 |
+| [Planning Oriented Integrated Sensing and Communication](https://arxiv.org/pdf/2510.23021v1) | Jin, Li, Wang | — | 2025-10-27 |
+| [Mastering energy landscapes via liquid liquid phase separation to program active supramolecular coassembly from the nano to macro scale](https://arxiv.org/pdf/2510.23017v1) | Wu, Teijlingen, Watts | — | 2025-10-27 |
 | [STRIDER: Navigation via Instruction-Aligned Structural Decision Space Optimization](https://arxiv.org/pdf/2511.00033v1) | He, Gao, Li | — | 2025-10-27 |
+| [Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude Economy](https://arxiv.org/pdf/2510.22947v1) | Tao, Gao, Ye | — | 2025-10-27 |
+| [Generating Auxiliary Tasks with Reinforcement Learning](https://arxiv.org/pdf/2510.22940v4) | Goldfeder, So, Lipson | — | 2025-10-27 |
+| [HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment](https://arxiv.org/pdf/2510.22917v2) | Yin, Zhao, Li | — | 2025-10-27 |
+| [HRM-Agent: Training a recurrent reasoning model in dynamic environments using reinforcement learning](https://arxiv.org/pdf/2510.22832v1) | Dang, Rawlinson | — | 2025-10-26 |
+| [Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning](https://arxiv.org/pdf/2510.22789v1) | Kulkarni, Poulakakis, Huang | — | 2025-10-26 |
+| [Exploiting Electrolyzer Flexibility via Multiscale Model Predictive Control Cross Heterogeneous Energy Markets](https://arxiv.org/pdf/2510.22782v1) | Chen, Sheng, Wang | — | 2025-10-26 |
+| [The Impact of Artificial Intelligence on Strategic Technology Management: A Mixed-Methods Analysis of Resources, Capabilities, and Human-AI Collaboration](https://arxiv.org/pdf/2512.08938v1) | Fascinari, English | — | 2025-10-26 |
+| [Cross-view Localization and Synthesis -- Datasets, Challenges and Opportunities](https://arxiv.org/pdf/2510.22736v2) | Xu, Qin | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/GDAOSU/Awesome-Cross-View-Methods) | 2025-10-26 |
+| [Environment-aware Motion Matching](https://arxiv.org/pdf/2510.22632v1) | Ponton, Andrews, Andujar | — | 2025-10-26 |
+| [Personal Care Utility (PCU): Building the Health Infrastructure for Everyday Insight and Guidance](https://arxiv.org/pdf/2510.22602v1) | Abbasian, Jain | — | 2025-10-26 |
+| [MobileGeo: Exploring Hierarchical Knowledge Distillation for Resource-Efficient Cross-view Drone Geo-Localization](https://arxiv.org/pdf/2510.22582v2) | Sun, Liu, Zhang | — | 2025-10-26 |
+| [On Steerability Factors for Growing Vine Robots](https://arxiv.org/pdf/2510.22504v1) | McFarland, Alvarez, Taher | — | 2025-10-26 |
+| [Accelerating Materials Design via LLM-Guided Evolutionary Search](https://arxiv.org/pdf/2510.22503v1) | Abhyankar, Kabra, Desai | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/scientific-discovery/LLEMA) | 2025-10-26 |
+| [A short methodological review on social robot navigation benchmarking](https://arxiv.org/pdf/2510.22448v1) | Chhetri, Torrejon, Eslava | — | 2025-10-25 |
+| [Genetic Optimization of a Software-Defined GNSS Receiver](https://arxiv.org/pdf/2510.22417v1) | Train, Castellanos, Gómez-López | — | 2025-10-25 |
+| [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2510.22316v1) | Hua, Mo, Yao | — | 2025-10-25 |
+| [Visual Model Selection using Feature Importance Clusters in Fairness-Performance Similarity Optimized Space](https://arxiv.org/pdf/2510.22209v1) | Kitharidis, Veenman, Bäck | — | 2025-10-25 |
+| [LT-Exosense: A Vision-centric Multi-session Mapping System for Lifelong Safe Navigation of Exoskeletons](https://arxiv.org/pdf/2510.22164v1) | Wang, Mattamala, Kassab | — | 2025-10-25 |
+| [Predictive Coding Enhances Meta-RL To Achieve Interpretable Bayes-Optimal Belief Representation Under Partial Observability](https://arxiv.org/pdf/2510.22039v1) | Kuo, Hou, Dabney | — | 2025-10-24 |
+| [Emergent Microrobotic Behavior of Active Flexicles in Complex Environments](https://arxiv.org/pdf/2510.21932v1) | Lee, Schönhöfer, Glotzer | — | 2025-10-24 |
+| [Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning](https://arxiv.org/pdf/2510.21648v1) | Ravikumar, Sundhar, Vijayakumar | — | 2025-10-24 |
+| [Swimming patterns of a multi-mode bacterial swimmer in fluid shear flow](https://arxiv.org/pdf/2510.21548v1) | Muraveva, Datta, Park | — | 2025-10-24 |
+| [AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation](https://arxiv.org/pdf/2510.21536v1) | Vijayakumar, M | — | 2025-10-24 |
+| [Recommended Practices for NPOV Research on Wikipedia](https://arxiv.org/pdf/2510.21526v1) | Johnson, Liou, Rogers | — | 2025-10-24 |
+| [Co-Designing with Multiple Stakeholders and Datasets: A Community-Centered Process to Understand Youth Deviance in the Italian City of Turin](https://arxiv.org/pdf/2510.21467v1) | Annapureddy, Fornaroli, Fattori | — | 2025-10-24 |
+| [PREVENT: Proactive Risk Evaluation and Vigilant Execution of Tasks for Mobile Robotic Chemists using Multi-Modal Behavior Trees](https://arxiv.org/pdf/2510.21438v1) | Veeramani, Zhou, Munguia-Galeano | — | 2025-10-24 |
+| [Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain](https://arxiv.org/pdf/2510.21369v1) | Medeiros, Dessy, Boaventura | — | 2025-10-24 |
 | [Towards Physically Executable 3D Gaussian for Embodied Navigation](https://arxiv.org/pdf/2510.21307v2) | Miao, Wei, Ge | — | 2025-10-24 |
+| [World Models Should Prioritize the Unification of Physical and Social Dynamics](https://arxiv.org/pdf/2510.21219v1) | Zhang, Ma, Huang | — | 2025-10-24 |
+| [Navigating Through Turbulence: Blueprint for the Next Generation of Weather-Climate Scientists](https://arxiv.org/pdf/2510.21123v1) | Zhang, Wang, Reed | — | 2025-10-24 |
+| [Soppia: A Structured Prompting Framework for the Proportional Assessment of Non-Pecuniary Damages in Personal Injury Cases](https://arxiv.org/pdf/2510.21082v1) | Araujo | — | 2025-10-24 |
+| [Revisiting Replanning from Scratch: Real-Time Incremental Planning with Fast Almost-Surely Asymptotically Optimal Planners](https://arxiv.org/pdf/2510.21074v1) | Sabbadini, Liu, Ruan | — | 2025-10-24 |
+| [L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/pdf/2510.20976v1) | Cui, Wu, Zhao | — | 2025-10-23 |
+| [An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing](https://arxiv.org/pdf/2510.20932v1) | Ahmari, Mohammadi, Hemmati | — | 2025-10-23 |
 | [VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](https://arxiv.org/pdf/2510.20818v1) | Castro, Rajagopal, Gorbatov | — | 2025-10-23 |
+| [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/pdf/2510.20808v1) | Aljalbout, Xing, Romero | — | 2025-10-23 |
+| [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/pdf/2510.20708v1) | Soutullo, Yermo, Vilariño | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
+| [Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts](https://arxiv.org/pdf/2510.20666v1) | Jaramillo-Civill, González-Gudiño, Imbiriba | — | 2025-10-23 |
+| [A Gateway to Quantum Computing for Industrial Engineering](https://arxiv.org/pdf/2510.20620v1) | Tucker, Mohammadisiahroudi | — | 2025-10-23 |
+| [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](https://arxiv.org/pdf/2510.20549v1) | Bamdad, Hutter, Darvishy | — | 2025-10-23 |
+| [Degradation-Aware Cooperative Multi-Modal GNSS-Denied Localization Leveraging LiDAR-Based Robot Detections](https://arxiv.org/pdf/2510.20480v1) | Pritzl, Yu, Westerlund | — | 2025-10-23 |
+| [Prefetching Cache Optimization Using Graph Neural Networks: A Modular Framework and Conceptual Analysis](https://arxiv.org/pdf/2510.21865v1) | Qowy | — | 2025-10-23 |
+| [Synthetic Data for Robust Runway Detection](https://arxiv.org/pdf/2510.20349v1) | Chigot, Wilson, Ghrib | — | 2025-10-23 |
+| [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://arxiv.org/pdf/2510.20333v2) | Chen, Song, Chai | — | 2025-10-23 |
+| [Privacy Protection of Automotive Location Data Based on Format-Preserving Encryption of Geographical Coordinates](https://arxiv.org/pdf/2510.20300v1) | Ji, Jin, Li | — | 2025-10-23 |
+| [Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence](https://arxiv.org/pdf/2510.21860v1) | Sharrock, Petersson, Petersson | — | 2025-10-23 |
+| [A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization](https://arxiv.org/pdf/2510.20291v1) | Li, Zhao, Yang | — | 2025-10-23 |
+| [Kinaema: a recurrent sequence model for memory and pose in motion](https://arxiv.org/pdf/2510.20261v1) | Sariyildiz, Weinzaepfel, Bono | — | 2025-10-23 |
+| [A Contact-Driven Framework for Manipulating in the Blind](https://arxiv.org/pdf/2510.20177v1) | Saleem, Yuan, Likhachev | — | 2025-10-23 |
+| [Empowering Targeted Neighborhood Search via Hyper Tour for Large-Scale TSP](https://arxiv.org/pdf/2510.20169v2) | Lu, Ma, Tao | — | 2025-10-23 |
+| [Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses](https://arxiv.org/pdf/2510.20027v1) | Bowness, Poullis | — | 2025-10-22 |
+| [Simultaneous learning of state-to-state minimum-time planning and control](https://arxiv.org/pdf/2510.20008v1) | Dantu, Pěnička, Saska | — | 2025-10-22 |
+| [SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models](https://arxiv.org/pdf/2510.21850v1) | Lim, Koo, Madisetti | — | 2025-10-22 |
 | [Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](https://arxiv.org/pdf/2510.19732v2) | Gupta, Yadav, Kira | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gunshi/memo) | 2025-10-22 |
+| [From Answers to Guidance: A Proactive Dialogue System for Legal Documents](https://arxiv.org/pdf/2510.19723v1) | Chouhan, Gertz | — | 2025-10-22 |
+| [Are Large Language Models Sensitive to the Motives Behind Communication?](https://arxiv.org/pdf/2510.19687v1) | Wu, Liu, Oktar | — | 2025-10-22 |
 | [LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1) | Ding, Xu, Fang | — | 2025-10-22 |
+| [Risk Assessment of an Autonomous Underwater Snake Robot in Confined Operations](https://arxiv.org/pdf/2510.19415v1) | Sayed | — | 2025-10-22 |
+| [ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling](https://arxiv.org/pdf/2510.19364v1) | Raja, Agishev, Prágr | — | 2025-10-22 |
+| [ConvXformer: Differentially Private Hybrid ConvNeXt-Transformer for Inertial Navigation](https://arxiv.org/pdf/2510.19352v1) | Tariq, Bilal, Hassan | — | 2025-10-22 |
+| [TheMCPCompany: Creating General-purpose Agents with Task-specific Tools](https://arxiv.org/pdf/2510.19286v2) | Esfandiarpoor, Suryanarayanan, Bach | — | 2025-10-22 |
+| [Controllable Machine Unlearning via Gradient Pivoting](https://arxiv.org/pdf/2510.19226v1) | Hwang, Lim | — | 2025-10-22 |
+| [Steering Autoregressive Music Generation with Recursive Feature Machines](https://arxiv.org/pdf/2510.19127v1) | Zhao, Beaglehole, Berg-Kirkpatrick | — | 2025-10-21 |
+| [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101v1) | Jiang, Liu, Qian | — | 2025-10-21 |
+| [Motion Planning and Control of an Overactuated 4-Wheel Drive with Constrained Independent Steering](https://arxiv.org/pdf/2510.19054v1) | Liu, Hadzic, Gupta | — | 2025-10-21 |
+| [SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar](https://arxiv.org/pdf/2510.18996v1) | Vadakkekuruppath, Amundsen, O'Kane | — | 2025-10-21 |
+| [Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](https://arxiv.org/pdf/2510.18678v1) | Sanchez-Delgado, Soares, Tawil | — | 2025-10-21 |
+| [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/pdf/2510.18931v1) | Andrews, Kanubala, Aruleba | — | 2025-10-21 |
+| [Optimal quantum learning in proximity to universality](https://arxiv.org/pdf/2510.18623v2) | Ivaki, Karjula, Ala-Nissila | — | 2025-10-21 |
+| [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/pdf/2510.18546v2) | Yang, Zheng, Xie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PKU-SEC-Lab/EfficientNav) | 2025-10-21 |
+| [SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/pdf/2510.18544v3) | Chow | — | 2025-10-21 |
+| [Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning](https://arxiv.org/pdf/2510.18485v1) | Bethell, Gerasimou, Calinescu | — | 2025-10-21 |
+| [Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection](https://arxiv.org/pdf/2510.18437v1) | Du, Wang, Hao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/xiaohainku/RISE) | 2025-10-21 |
 | [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/pdf/2510.21809v1) | Kondoh, Kanezaki | — | 2025-10-21 |
+| [Evaluating LLM-Based Mobile App Recommendations: An Empirical Study](https://arxiv.org/pdf/2510.18364v1) | Motger, Franch, Gervasi | — | 2025-10-21 |
+| [MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation](https://arxiv.org/pdf/2510.18316v1) | Li, Xu, Bahety | — | 2025-10-21 |
+| [OmniNWM: Omniscient Driving Navigation World Models](https://arxiv.org/pdf/2510.18313v4) | Li, Ma, Du | — | 2025-10-21 |
+| [Reimagining Disassembly Interfaces with Visualization: Combining Instruction Tracing and Control Flow with DisViz](https://arxiv.org/pdf/2510.18311v1) | Hye, LeGendre, Isaacs | — | 2025-10-21 |
+| [Relief or displacement? How teachers are negotiating generative AI's role in their professional practice](https://arxiv.org/pdf/2510.18296v1) | Dangol, Kotiyal, Wolfe | — | 2025-10-21 |
+| [EdgeReasoning: Characterizing Reasoning LLM Deployment on Edge GPUs](https://arxiv.org/pdf/2511.01866v1) | Kubwimana, Huang | — | 2025-10-21 |
 | [Distributed Stochastic Search for Multi-Agent Model Predictive Control](https://arxiv.org/pdf/2510.18211v1) | Yoon, Saravanos, Theodorou | — | 2025-10-21 |
-| [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](https://arxiv.org/pdf/2510.16518v1) | Ortega-Peimbert, Busch, Homberger | — | 2025-10-18 |
-| [NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation](https://arxiv.org/pdf/2510.16457v1) | Xu, Gong, MU | — | 2025-10-18 |
-| [UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos](https://arxiv.org/pdf/2510.15018v1) | Liu, He, Ricci | — | 2025-10-16 |
-| [MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos](https://arxiv.org/pdf/2510.14904v2) | Fiastre, Yang, Schmid | — | 2025-10-16 |
-| [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](https://arxiv.org/pdf/2510.14357v1) | Zhao, Lyu, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AlexTraveling/SUM-AgriVLN) | 2025-10-16 |
-| [Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation](https://arxiv.org/pdf/2510.12919v1) | Khan, Ibuki, Chatterjee | — | 2025-10-14 |
-| [Audio-Guided Visual Perception for Audio-Visual Navigation](https://arxiv.org/pdf/2510.11760v1) | Wang, Yu, Sun | — | 2025-10-13 |
-| [The Irrational Machine: Neurosis and the Limits of Algorithmic Safety](https://arxiv.org/pdf/2510.10823v1) | Howard | — | 2025-10-12 |
-| [Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation](https://arxiv.org/pdf/2510.08713v1) | Dong, Wu, Chen | — | 2025-10-09 |
-| [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](https://arxiv.org/pdf/2510.08553v1) | Xu, Pan, Liu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/xyz9911/Memoir) | 2025-10-09 |
-| [NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions](https://arxiv.org/pdf/2510.08173v1) | Yang, Long, Yu | — | 2025-10-09 |
-| [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI](https://arxiv.org/pdf/2510.05684v2) | Choi, Jung, Seong | — | 2025-10-07 |
-| [Disentangling Foreground and Background for vision-Language Navigation via Online Augmentation](https://arxiv.org/pdf/2510.00604v1) | Xu, Zhang, Li | — | 2025-10-01 |
-| [Integrating Offline Pre-Training with Online Fine-Tuning: A Reinforcement Learning Approach for Robot Social Navigation](https://arxiv.org/pdf/2510.00466v1) | Su, Fu, Zhou | — | 2025-10-01 |
-| [Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation](https://arxiv.org/pdf/2510.00441v3) | Pan, Xu, Liu | — | 2025-10-01 |
-| [MUVLA: Learning to Explore Object Navigation via Map Understanding](https://arxiv.org/pdf/2509.25966v1) | Han, Jia, Zhang | — | 2025-09-30 |
-| [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/pdf/2509.25687v2) | Xue, Hu, Luo | — | 2025-09-30 |
-| [Landmark-Guided Knowledge for Vision-and-Language Navigation](https://arxiv.org/pdf/2509.25655v1) | Yang, Zhu, Yu | — | 2025-09-30 |
-| [Vision-and-Language Navigation with Analogical Textual Descriptions in LLMs](https://arxiv.org/pdf/2509.25139v1) | Zhang, Ma, Wang | — | 2025-09-29 |
-| [Real-time Recognition of Human Interactions from a Single RGB-D Camera for Socially-Aware Robot Navigation](https://arxiv.org/pdf/2509.24907v2) | Nguyen, Nguyen, Nu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/thanhlong103/social-interaction-detector) | 2025-09-29 |
-| [SSR-ZSON: Zero-Shot Object Navigation via Spatial-Semantic Relations within a Hierarchical Exploration Framework](https://arxiv.org/pdf/2509.24763v1) | Meng, Li, Mao | — | 2025-09-29 |
-| [CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D](https://arxiv.org/pdf/2509.24528v3) | Mirzaei, Amoie, Ekhterachian | — | 2025-09-29 |
-| [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://arxiv.org/pdf/2509.24387v1) | Ding, Wei, Yang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/xinding-sys/AdaNav) | 2025-09-29 |
-| [SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm](https://arxiv.org/pdf/2509.24321v1) | Wang, Sun, Chi | — | 2025-09-29 |
-| [RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation](https://arxiv.org/pdf/2509.23563v1) | Kim, Alama, Kurdydyk | — | 2025-09-28 |
-| [See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](https://arxiv.org/pdf/2509.22653v1) | Hu, Lin, Lee | — | 2025-09-26 |
-| [JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation](https://arxiv.org/pdf/2509.22548v1) | Zeng, Qi, Chang | — | 2025-09-26 |
-| [DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation](https://arxiv.org/pdf/2509.21930v1) | Wang, Chen | — | 2025-09-26 |
-| [FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction](https://arxiv.org/pdf/2509.21657v2) | Dai, Jiang, Wang | — | 2025-09-25 |
-| [Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting](https://arxiv.org/pdf/2509.20499v1) | Li, Li, Wang | — | 2025-09-24 |
-| [PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents](https://arxiv.org/pdf/2509.19843v1) | Ziliotto, Akkara, Daniele | — | 2025-09-24 |
-| [OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation](https://arxiv.org/pdf/2509.19480v1) | Hirose, Glossop, Shah | — | 2025-09-23 |
-| [SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment](https://arxiv.org/pdf/2509.20401v2) | Singh, Sarkar, Armeni | — | 2025-09-23 |
-| [Spectral Signature Mapping from RGB Imagery for Terrain-Aware Navigation](https://arxiv.org/pdf/2509.19105v2) | Prajapati, Trivedi, Hanson | — | 2025-09-23 |
-| [VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction](https://arxiv.org/pdf/2509.19002v2) | Wang, Murata, Zhang | — | 2025-09-23 |
-| [Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation](https://arxiv.org/pdf/2509.21377v1) | Yu, Zhang, Zhu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/zzzmmm-svg/DMTF) | 2025-09-23 |
-| [VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation](https://arxiv.org/pdf/2509.18592v1) | Bhatt, Yang, Siva | — | 2025-09-23 |
-| [AD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback](https://arxiv.org/pdf/2509.18384v1) | Yang, Hong, Perin | — | 2025-09-22 |
-| [SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge](https://arxiv.org/pdf/2509.17500v1) | Xie, Zhang, Liu | — | 2025-09-22 |
-| [EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device](https://arxiv.org/pdf/2509.17430v2) | Chhablani, Ye, Irshad | — | 2025-09-22 |
-| [Ratatouille: Imitation Learning Ingredients for Real-world Social Robot Navigation](https://arxiv.org/pdf/2509.17204v2) | Han, Vanniasinghe, Sahak | — | 2025-09-21 |
-| [Conversational Orientation Reasoning: Egocentric-to-Allocentric Navigation with Multimodal Chain-of-Thought](https://arxiv.org/pdf/2509.18200v1) | Huang | — | 2025-09-20 |
-| [FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning](https://arxiv.org/pdf/2509.16445v1) | Yokoyama, Ha | — | 2025-09-19 |
-| [Parallel Simulation of Contact and Actuation for Soft Growing Robots](https://arxiv.org/pdf/2509.15180v1) | Gao, Chen, Bhovad | — | 2025-09-18 |
-| [Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI](https://arxiv.org/pdf/2509.15273v2) | Ni, Zhang, Li | — | 2025-09-18 |
-| [Walk and Read Less: Improving the Efficiency of Vision-and-Language Navigation via Tuning-Free Multimodal Token Pruning](https://arxiv.org/pdf/2509.15250v2) | Qin, Burns, Plummer | — | 2025-09-18 |
-| [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/pdf/2509.13733v3) | Zhou, Xiao, Liu | — | 2025-09-17 |
-| [EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility](https://arxiv.org/pdf/2509.13720v1) | Zeng, Peng, Ye | — | 2025-09-17 |
-| [Spotting the Unfriendly Robot - Towards better Metrics for Interactions](https://arxiv.org/pdf/2509.12912v1) | Wenzel, Probst | — | 2025-09-16 |
-| [Responsibility and Engagement - Evaluating Interactions in Social Robot Navigation](https://arxiv.org/pdf/2509.12890v1) | Probst, Wenzel, Dasi | — | 2025-09-16 |
-| [ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation](https://arxiv.org/pdf/2509.12618v1) | Zhang, Zhu, Pan | — | 2025-09-16 |
-| [Embodied Navigation Foundation Model](https://arxiv.org/pdf/2509.12129v2) | Zhang, Li, Qi | — | 2025-09-15 |
-| [DreamNav: A Trajectory-Based Imaginative Framework for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2509.11197v1) | Wang, Fang, Wang | — | 2025-09-14 |
-| [Nav-R1: Reasoning and Navigation in Embodied Scenes](https://arxiv.org/pdf/2509.10884v1) | Liu, Huang, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AIGeeksGroup/Nav-R1) | 2025-09-13 |
-| [InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](https://arxiv.org/pdf/2509.10813v2) | Zhong, Cao, Jin | — | 2025-09-13 |
-| [GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/pdf/2509.10454v1) | Yin, Wei, Xu | — | 2025-09-12 |
-| [PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching](https://arxiv.org/pdf/2509.08435v1) | Ye, Gao, Xu | — | 2025-09-10 |
-| [OmniAcc: Personalized Accessibility Assistant Using Generative AI](https://arxiv.org/pdf/2509.07220v1) | Karki, Han, Mahmud | — | 2025-09-08 |
-| [T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](https://arxiv.org/pdf/2509.06644v4) | Zhao, Lyu, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AlexTraveling/T-araVLN) | 2025-09-08 |
-| [Sharing but Not Caring: Similar Outcomes for Shared Control and Switching Control in Telepresence-Robot Navigation](https://arxiv.org/pdf/2509.05672v1) | Kalliokoski, Center, LaValle | — | 2025-09-06 |
-| [Plan Verification for LLM-Based Embodied Task Completion Agents](https://arxiv.org/pdf/2509.02761v3) | Hariharan, Dongre, Hakkani-Tür | — | 2025-09-02 |
-| [Multi-vessel Interaction-Aware Trajectory Prediction and Collision Risk Assessment](https://arxiv.org/pdf/2509.01836v1) | Alam, Rodrigues-Jr, Spadon | — | 2025-09-01 |
-| [TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation](https://arxiv.org/pdf/2509.01364v1) | Liu, Zhang, Peng | — | 2025-09-01 |
-| [Beyond Pixels: Introducing Geometric-Semantic World Priors for Video-based Embodied Models via Spatio-temporal Alignment](https://arxiv.org/pdf/2509.00210v1) | Tang, zhang, Liu | — | 2025-08-29 |
-| [Assessing Human Cooperation for Enhancing Social Robot Navigation](https://arxiv.org/pdf/2508.21455v1) | Arunachalam, Singamaneni, Alami | — | 2025-08-29 |
-| [Chat-Driven Reconfiguration of Model Predictive Control](https://arxiv.org/pdf/2508.16913v1) | Miyaoka, Inoue, Maestre | — | 2025-08-23 |
-| [Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Survey](https://arxiv.org/pdf/2508.15354v1) | Xiong, Huang, Yu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Franky-X/Awesome-Embodied-Navigation) | 2025-08-21 |
-| [AeroDuo: Aerial Duo for UAV-based Vision and Language Navigation](https://arxiv.org/pdf/2508.15232v1) | Wu, Zhang, Chen | — | 2025-08-21 |
-| [MSNav: Zero-Shot Vision-and-Language Navigation with Dynamic Memory and LLM Spatial Reasoning](https://arxiv.org/pdf/2508.16654v3) | Liu, Zhou, Zhang | — | 2025-08-20 |
-| [Virtuous Machines: Towards Artificial General Science](https://arxiv.org/pdf/2508.13421v1) | Wehr, Rideaux, Fox | — | 2025-08-19 |
-| [CTRL Your Shift: Clustered Transfer Residual Learning for Many Small Datasets](https://arxiv.org/pdf/2508.11144v1) | Jain, Rothenhäusler, Bansak | — | 2025-08-15 |
-| [CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model](https://arxiv.org/pdf/2508.10416v1) | Yu, Long, Yang | — | 2025-08-14 |
-| [DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation](https://arxiv.org/pdf/2508.09444v1) | Shi, Deng, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Tokishx/DifNav) | 2025-08-13 |
-| [Harnessing Input-Adaptive Inference for Efficient VLN](https://arxiv.org/pdf/2508.09262v1) | Kang, Perincherry, Coalson | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/secure-ai-systems-group/adaptive-vision-and-language-navigation) | 2025-08-12 |
-| [DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI](https://arxiv.org/pdf/2508.08831v1) | Chen, Batagoda, Negrut | — | 2025-08-12 |
-| [Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents](https://arxiv.org/pdf/2508.07642v2) | Ma, Zhang, Wang | — | 2025-08-11 |
-| [AgriVLN: Vision-and-Language Navigation for Agricultural Robots](https://arxiv.org/pdf/2508.07406v1) | Zhao, Lyu, Li | — | 2025-08-10 |
-| [Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation](https://arxiv.org/pdf/2508.06990v1) | Hu, Wu, Xu | — | 2025-08-09 |
-| [Safety of Embodied Navigation: A Survey](https://arxiv.org/pdf/2508.05855v1) | Wang, Hu, Mu | — | 2025-08-07 |
-| [Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling](https://arxiv.org/pdf/2508.05634v1) | Yao, Zhang, Xia | — | 2025-08-07 |
-| [CleanUpBench: Embodied Sweeping and Grasping Benchmark](https://arxiv.org/pdf/2508.05543v1) | Li, Chen, Zhao | — | 2025-08-07 |
-| [MAG-Nav: Language-Driven Object Navigation Leveraging Memory-Reserved Active Grounding](https://arxiv.org/pdf/2508.05021v1) | Zhang, Li, Liu | — | 2025-08-07 |
-| [Open Scene Graphs for Open-World Object-Goal Navigation](https://arxiv.org/pdf/2508.04678v1) | Loo, Wu, Hsu | — | 2025-08-06 |
-| [$NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything](https://arxiv.org/pdf/2508.04598v1) | Zhang, Hao, Tang | — | 2025-08-06 |
-| [Investigation of Air Fluidization during Intruder Penetration in Sand](https://arxiv.org/pdf/2508.03350v1) | Wang, Peng, Vergara | — | 2025-08-05 |
-| [Force-Compliance MPC and Robot-User CBFs for Interactive Navigation and User-Robot Safety in Hexapod Guide Robots](https://arxiv.org/pdf/2508.03246v1) | Fan, Gao, Chen | — | 2025-08-05 |
-| [SkeNa: Learning to Navigate Unseen Environments Based on Abstract Hand-Drawn Maps](https://arxiv.org/pdf/2508.03053v1) | Xu, Xiang, Wei | — | 2025-08-05 |
-| [Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces](https://arxiv.org/pdf/2508.02917v1) | Kåsene, Lison | — | 2025-08-04 |
-| [MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming](https://arxiv.org/pdf/2508.02549v4) | Wang, Wang, Fan | — | 2025-08-04 |
-| [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](https://arxiv.org/pdf/2508.02046v2) | Luo, Yan, Gong | — | 2025-08-04 |
-| [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723v1) | Li, Yang, Qi | — | 2025-08-03 |
-| [Sari Sandbox: A Virtual Retail Store Environment for Embodied AI Agents](https://arxiv.org/pdf/2508.00400v1) | Gajo, Merales, Escarcha | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/upeee/sari-sandbox-env) | 2025-08-01 |
-| [SA-GCS: Semantic-Aware Gaussian Curriculum Scheduling for UAV Vision-Language Navigation](https://arxiv.org/pdf/2508.00390v1) | Cai, Dong, Rao | — | 2025-08-01 |
-| [UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents](https://arxiv.org/pdf/2508.00288v4) | Xiao, Sun, Shao | — | 2025-08-01 |
-| [Goal-Based Vision-Language Driving](https://arxiv.org/pdf/2507.23042v2) | Patapati, Srinivasan | — | 2025-07-30 |
-| [Recursive Visual Imagination and Adaptive Linguistic Grounding for Vision Language Navigation](https://arxiv.org/pdf/2507.21450v1) | Chen, Kang, Wang | — | 2025-07-29 |
-| [MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models](https://arxiv.org/pdf/2507.20395v1) | Einarsson | — | 2025-07-27 |
-| [OpenNav: Open-World Navigation with Multimodal Large Language Models](https://arxiv.org/pdf/2507.18033v1) | Yuan, Wang, Waslander | — | 2025-07-24 |
-| [X-Nav: Learning End-to-End Cross-Embodiment Navigation for Mobile Robots](https://arxiv.org/pdf/2507.14731v2) | Wang, Tan, Fung | — | 2025-07-19 |
-| [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/pdf/2507.13152v3) | Dong, Zhao, Gao | — | 2025-07-17 |
-| [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v2) | Wang, Xia, Zhao | — | 2025-07-17 |
-| [osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning](https://arxiv.org/pdf/2507.12753v1) | Xie, Schwertfeger, Blum | — | 2025-07-17 |
-| [NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization](https://arxiv.org/pdf/2507.10894v1) | He, Wang, Chen | — | 2025-07-15 |
-| [MLFM: Multi-Layered Feature Maps for Richer Language Understanding in Zero-Shot Semantic Navigation](https://arxiv.org/pdf/2507.07299v2) | Raychaudhuri, Cancelli, Campari | — | 2025-07-09 |
-| [LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/pdf/2507.06747v1) | Peng, Cao, Zhang | — | 2025-07-09 |
-| [A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/pdf/2507.06719v1) | Liu, Zheng, Chen | — | 2025-07-09 |
-| [SkyVLN: Vision-and-Language Navigation and NMPC Control for UAVs in Urban Environments](https://arxiv.org/pdf/2507.06564v1) | Li, Huai, Li | — | 2025-07-09 |
-| [Ontological differentiation as a measure of semantic accuracy](https://arxiv.org/pdf/2507.06208v3) | Garcia-Cuadrillero, Revuelta, Capitan | — | 2025-07-08 |
-| [StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling](https://arxiv.org/pdf/2507.05240v1) | Wei, Wan, Yu | — | 2025-07-07 |
-| ["Hi AirStar, Guide Me to the Badminton Court."](https://arxiv.org/pdf/2507.04430v1) | Wang, Chen, Zheng | — | 2025-07-06 |
-| [View Invariant Learning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2507.08831v2) | Sun, Xing, Weng | — | 2025-07-05 |
-| [Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning](https://arxiv.org/pdf/2507.04086v1) | Selvaraj, Mitrevski, Houben | — | 2025-07-05 |
-| [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047v2) | Zhu, Wang, Li | — | 2025-07-05 |
-| [What does really matter in image goal navigation?](https://arxiv.org/pdf/2507.01667v1) | Monaci, Weinzaepfel, Wolf | — | 2025-07-02 |
-| [VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting](https://arxiv.org/pdf/2507.01125v1) | Nagami, Chen, Yu | — | 2025-07-01 |
-| [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v2) | Yao, Gao, Xu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Feliciaxyao/NavMorph) | 2025-06-30 |
-| [Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation](https://arxiv.org/pdf/2506.20376v1) | Chen, Zhao, Campanha | — | 2025-06-25 |
-| [Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation](https://arxiv.org/pdf/2506.20320v2) | Probst, Wenzel, Puphal | — | 2025-06-25 |
-| [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/pdf/2506.19433v2) | He, Dong, Chen | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/tsinghua-fib-lab/Mem4Nav) | 2025-06-24 |
-| [GeNIE: A Generalizable Navigation System for In-the-Wild Environments](https://arxiv.org/pdf/2506.17960v2) | Wang, Liu, Chen | — | 2025-06-22 |
-| [VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.17221v2) | Qi, Zhang, Yu | — | 2025-06-20 |
-| [History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation](https://arxiv.org/pdf/2506.16623v1) | Habibpour, Afghah | — | 2025-06-19 |
-| [Efficient and Generalizable Environmental Understanding for Visual Navigation](https://arxiv.org/pdf/2506.15377v1) | Wang, Li, Wang | — | 2025-06-18 |
-| [Weakly-supervised VLM-guided Partial Contrastive Learning for Visual Language Navigation](https://arxiv.org/pdf/2506.15757v1) | Wang, Yu, Wu | — | 2025-06-18 |
-| [DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory](https://arxiv.org/pdf/2506.15096v1) | Ji, Lin, Gao | — | 2025-06-18 |
-| [Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?](https://arxiv.org/pdf/2506.14507v1) | Subedi, Haroon, Ganguly | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/oadamharoon/text2nav) | 2025-06-17 |
-| [Socially-aware Object Transportation by a Mobile Manipulator in Static Planar Environments with Obstacles](https://arxiv.org/pdf/2506.13953v1) | Ribeiro, Paes, Macharet | — | 2025-06-16 |
-| [Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review](https://arxiv.org/pdf/2506.14831v2) | Finet, Martins, Hayet | — | 2025-06-13 |
-| [Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material](https://arxiv.org/pdf/2506.10875v1) | Wang, Zhao, Azarm | — | 2025-06-12 |
-| [Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding](https://arxiv.org/pdf/2506.10756v1) | Zhang, Yu, Xiao | — | 2025-06-12 |
-| [RICE: Reactive Interaction Controller for Cluttered Canopy Environment](https://arxiv.org/pdf/2506.10383v1) | Parayil, Peynot, Lehnert | — | 2025-06-12 |
-| [A Navigation Framework Utilizing Vision-Language Models](https://arxiv.org/pdf/2506.10172v1) | Duan, tang | — | 2025-06-11 |
-| [OctoNav: Towards Generalist Embodied Navigation](https://arxiv.org/pdf/2506.09839v1) | Gao, Jin, Peng | — | 2025-06-11 |
-| [Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities](https://arxiv.org/pdf/2506.09581v1) | González-Santamarta, Rodríguez-Lera, Sobrín-Hidalgo | — | 2025-06-11 |
-| [Generating Vision-Language Navigation Instructions Incorporated Fine-Grained Alignment Annotations](https://arxiv.org/pdf/2506.08566v1) | Cui, Xie, Zhao | — | 2025-06-10 |
-| [Aligning Text, Images, and 3D Structure Token-by-Token](https://arxiv.org/pdf/2506.08002v1) | Sahoo, Tibrewal, Gkioxari | — | 2025-06-09 |
-| [OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization](https://arxiv.org/pdf/2506.07570v2) | Yang, Luo, Ding | — | 2025-06-09 |
-| [Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs](https://arxiv.org/pdf/2506.07164v1) | Chang, Chen, Li | — | 2025-06-08 |
-| [Multimodal Spatial Language Maps for Robot Navigation and Manipulation](https://arxiv.org/pdf/2506.06862v1) | Huang, Mees, Zeng | — | 2025-06-07 |
-| [IRS: Instance-Level 3D Scene Graphs via Room Prior Guided LiDAR-Camera Fusion](https://arxiv.org/pdf/2506.06804v1) | Chen, Lin, Li | — | 2025-06-07 |
-| [Active Test-time Vision-Language Navigation](https://arxiv.org/pdf/2506.06630v1) | Ko, Kim, Oh | — | 2025-06-07 |
-| [Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM](https://arxiv.org/pdf/2506.05896v1) | Yan, He, Li | — | 2025-06-06 |
-| [Discrete Minds in a Continuous World: Do Language Models Know Time Passes?](https://arxiv.org/pdf/2506.05790v1) | Wang, Bai, Vu | — | 2025-06-06 |
-| [Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System](https://arxiv.org/pdf/2506.05020v3) | Liu, Ma, Li | — | 2025-06-05 |
-| ["Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation](https://arxiv.org/pdf/2506.04500v1) | Djuhera, Seffo, Asai | — | 2025-06-04 |
-| [AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives](https://arxiv.org/pdf/2506.03709v1) | Sikdar, Gandhamal, Sundaram | — | 2025-06-04 |
-| [Spatial Understanding from Videos: Structured Prompts Meet Simulation Data](https://arxiv.org/pdf/2506.03642v2) | Zhang, Liu, Li | — | 2025-06-04 |
-| [SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models](https://arxiv.org/pdf/2506.03516v1) | Debnath, Stein, Kosecka | — | 2025-06-04 |
-| [Text-guided Generation of Efficient Personalized Inspection Plans](https://arxiv.org/pdf/2506.02917v1) | Sun, Pan, Gao | — | 2025-06-03 |
-| [RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models](https://arxiv.org/pdf/2506.02354v1) | Li, Zhang, Qu | — | 2025-06-03 |
-| [EvolveNav: Empowering LLM-Based Vision-Language Navigation via Self-Improving Embodied Reasoning](https://arxiv.org/pdf/2506.01551v3) | Lin, Nie, Zai | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/expectorlin/EvolveNav) | 2025-06-02 |
-| [SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation](https://arxiv.org/pdf/2506.01418v1) | Flor-Rodríguez, Gutiérrez-Álvarez, Acevedo-Rodríguez | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gramuah/semnav) | 2025-06-02 |
-| [NavBench: Probing Multimodal Large Language Models for Embodied Navigation](https://arxiv.org/pdf/2506.01031v1) | Qiao, Hong, Lyu | — | 2025-06-01 |
-| [Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation](https://arxiv.org/pdf/2506.00075v1) | Pollini, Guterres, Guerra | — | 2025-05-29 |
-| [Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion](https://arxiv.org/pdf/2505.23266v1) | Xie, He, Guo | — | 2025-05-29 |
-| [Conceptual Framework Toward Embodied Collective Adaptive Intelligence](https://arxiv.org/pdf/2505.23153v2) | Wang, Liu | — | 2025-05-29 |
-| [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](https://arxiv.org/pdf/2505.20897v2) | Zhang, Su, Wu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/zhangpingrui/Adaptive-Text-Dreamer) | 2025-05-27 |
-| [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/pdf/2506.06487v1) | Zhou, Hu, Zhang | — | 2025-05-27 |
-| [SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes](https://arxiv.org/pdf/2505.18881v1) | Qiu, You, Gong | — | 2025-05-24 |
-| [CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation](https://arxiv.org/pdf/2505.16663v1) | Hao, Han, Li | — | 2025-05-22 |
-| [Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models](https://arxiv.org/pdf/2505.16498v1) | Ballardini, Sotelo | — | 2025-05-22 |
-| [UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning](https://arxiv.org/pdf/2505.15725v2) | Wang, Yang, Liao | — | 2025-05-21 |
-| [UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction](https://arxiv.org/pdf/2505.14866v1) | Nilavadi, Rudenko, Linder | — | 2025-05-20 |
-| [SayCoNav: Utilizing Large Language Models for Adaptive Collaboration in Decentralized Multi-Robot Navigation](https://arxiv.org/pdf/2505.13729v1) | Rajvanshi, Sahu, Shan | — | 2025-05-19 |
-| [FlightGPT: Towards Generalizable and Interpretable UAV Vision-and-Language Navigation with Vision-Language Models](https://arxiv.org/pdf/2505.12835v1) | Cai, Dong, Tan | — | 2025-05-19 |
-| [BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation](https://arxiv.org/pdf/2505.12443v1) | Lyu, Li, Qiao | — | 2025-05-18 |
-| [Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation](https://arxiv.org/pdf/2505.12084v1) | Zhong, Caro, Iskandar | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/IvanIZ/BenchNPIN) | 2025-05-17 |
-| [Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation](https://arxiv.org/pdf/2505.11886v4) | Wang, Wang, Li | — | 2025-05-17 |
-| [Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation](https://arxiv.org/pdf/2505.11383v1) | Wang, Lee, Lee | — | 2025-05-16 |
-| [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/pdf/2505.08854v1) | Wang, Xing, Can | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/taco-group/GenAI4AD) | 2025-05-13 |
-| [Neural Brain: A Neuroscience-inspired Framework for Embodied Agents](https://arxiv.org/pdf/2505.07634v3) | Liu, Shi, Nguyen | — | 2025-05-12 |
-| [Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking](https://arxiv.org/pdf/2505.07254v1) | Nagy, Werghi, Hassan | — | 2025-05-12 |
-| [STRIVE: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation](https://arxiv.org/pdf/2505.06729v2) | Zhu, Li, Liu | — | 2025-05-10 |
-| [Let Humanoids Hike! Integrative Skill Development on Complex Trails](https://arxiv.org/pdf/2505.06218v1) | Lin, Yu | — | 2025-05-09 |
-| [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/pdf/2505.06131v3) | Hou, Xiao, Xue | — | 2025-05-09 |
-| [VISTA: Generative Visual Imagination for Vision-and-Language Navigation](https://arxiv.org/pdf/2505.07868v2) | Huang, Wu, Li | — | 2025-05-09 |
-| [CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory](https://arxiv.org/pdf/2505.05622v1) | Zhang, Gao, Yu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/VinceOuti/CityNavAgent) | 2025-05-08 |
-| [Multi-agent Embodied AI: Advances and Future Directions](https://arxiv.org/pdf/2505.05108v2) | Feng, Xue, Yuan | — | 2025-05-08 |
-| [LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs](https://arxiv.org/pdf/2505.03460v1) | Zhang, Tian, Lin | — | 2025-05-06 |
-| [Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets](https://arxiv.org/pdf/2505.03174v1) | Roque, Maquiling, Lopez | — | 2025-05-06 |
-| [MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans](https://arxiv.org/pdf/2505.02388v1) | Yu, Jia, Chen | — | 2025-05-05 |
-| [Resolving Conflicting Constraints in Multi-Agent Reinforcement Learning with Layered Safety](https://arxiv.org/pdf/2505.02293v1) | Choi, Aloor, Li | — | 2025-05-04 |
-| [Semantic Intelligence: Integrating GPT-4 with A Planning in Low-Cost Robotics](https://arxiv.org/pdf/2505.01931v1) | Barkley, George, Farimani | — | 2025-05-03 |
-| [A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI](https://arxiv.org/pdf/2505.01458v1) | Wong, Kang, Bai | — | 2025-05-01 |
-| [UAV-VLN: End-to-End Vision Language guided Navigation for UAVs](https://arxiv.org/pdf/2504.21432v1) | Saxena, Raghuvanshi, Goveas | — | 2025-04-30 |
-| [DOPE: Dual Object Perception-Enhancement Network for Vision-and-Language Navigation](https://arxiv.org/pdf/2505.00743v1) | Yu, Yang | — | 2025-04-30 |
-| [Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322v2) | Roth, Frey, Cadena | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/leggedrobotics/fdm) | 2025-04-27 |
-| [Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation](https://arxiv.org/pdf/2504.16516v2) | Yue, Zhang, Qin | — | 2025-04-23 |
-| [ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion](https://arxiv.org/pdf/2504.14478v3) | Zhang, Du, Wu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Robotics-STAR-Lab/ApexNav) | 2025-04-20 |
-| [ST-Booster: An Iterative SpatioTemporal Perception Booster for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2504.09843v2) | Yue, Zhou, Xie | — | 2025-04-14 |
-| [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/pdf/2504.09587v3) | Xu, Hu, Gao | — | 2025-04-13 |
-| [FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents](https://arxiv.org/pdf/2504.08581v1) | Tan, Ji, Zhu | — | 2025-04-11 |
-| [Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation](https://arxiv.org/pdf/2504.08806v1) | Ling, Qianqian | — | 2025-04-09 |
-| [Zero-Shot 4D Lidar Panoptic Segmentation](https://arxiv.org/pdf/2504.00848v1) | Zhang, Ošep, Leal-Taixé | — | 2025-04-01 |
-| [Immersive Explainability: Visualizing Robot Navigation Decisions through XAI Semantic Scene Projections in Virtual Reality](https://arxiv.org/pdf/2504.00682v2) | Heuvel, Müller, Wessels | — | 2025-04-01 |
-| [MRHaD: Mixed Reality-based Hand-Drawn Map Editing Interface for Mobile Robot Navigation](https://arxiv.org/pdf/2504.00580v2) | Taki, Kobayashi, Iglesius | — | 2025-04-01 |
-| [COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation](https://arxiv.org/pdf/2503.24065v1) | Zhang, Qiao, Wang | — | 2025-03-31 |
-| [Adaptive Interactive Navigation of Quadruped Robots using Large Language Models](https://arxiv.org/pdf/2503.22942v1) | Zhou, Mu, Song | — | 2025-03-29 |
-| [Multi-modal Knowledge Distillation-based Human Trajectory Forecasting](https://arxiv.org/pdf/2503.22201v1) | Jeong, Lee, Park | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Jaewoo97/KDTF) | 2025-03-28 |
-| [Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People](https://arxiv.org/pdf/2503.21997v2) | Kamikubo, Kayukawa, Kaniwa | — | 2025-03-27 |
-| [TAGA: A Tangent-Based Reactive Approach for Socially Compliant Robot Navigation Around Human Groups](https://arxiv.org/pdf/2503.21168v2) | Roy, Rahman | — | 2025-03-27 |
-| [Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation](https://arxiv.org/pdf/2503.20425v3) | Alcedo, Lima, Alami | — | 2025-03-26 |
-| [RoboTron-Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction](https://arxiv.org/pdf/2503.18525v4) | Zhong, Feng, Yan | — | 2025-03-24 |
-| [Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation](https://arxiv.org/pdf/2503.18065v3) | Wei, Lin, Nie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/SaDil13/VLN-RAM) | 2025-03-23 |
-| [Do Visual Imaginations Improve Vision-and-Language Navigation Agents?](https://arxiv.org/pdf/2503.16394v1) | Perincherry, Krantz, Lee | — | 2025-03-20 |
-| [IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes](https://arxiv.org/pdf/2503.17406v1) | Zhang, Zantout, Kachana | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/HaochenZ11/IRef-VLA) | 2025-03-20 |
-| [Advancing a taxonomy for proxemics in robot social navigation](https://arxiv.org/pdf/2503.14931v1) | Nahum, Edan, Oron-Gilad | — | 2025-03-19 |
-| [Risk-Sensitive Model Predictive Control for Interaction-Aware Planning -- A Sequential Convexification Algorithm](https://arxiv.org/pdf/2503.14328v2) | Wang, Schuurmans, Patrinos | — | 2025-03-18 |
-| [HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions](https://arxiv.org/pdf/2503.14229v3) | Dong, Wu, He | — | 2025-03-18 |
-| [FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks](https://arxiv.org/pdf/2503.13966v1) | Zhang, Qiao, Wang | — | 2025-03-18 |
-| [LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs](https://arxiv.org/pdf/2503.13098v1) | Chen, Chandra | — | 2025-03-17 |
-| [Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction](https://arxiv.org/pdf/2503.11091v1) | Zhao, Li, Pan | — | 2025-03-14 |
-| [MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation](https://arxiv.org/pdf/2503.11081v1) | Zhang, Gao, Wu | — | 2025-03-14 |
-| [Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation](https://arxiv.org/pdf/2503.11006v1) | Xie, Ou, Ma | — | 2025-03-14 |
-| [AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](https://arxiv.org/pdf/2503.10070v1) | Cui, Yuan, Zheng | — | 2025-03-13 |
-| [SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2503.10069v2) | Shi, Li, Lyu | — | 2025-03-13 |
-| [PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation](https://arxiv.org/pdf/2503.09938v1) | Wang, Zhou, Xie | — | 2025-03-13 |
-| [Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation](https://arxiv.org/pdf/2503.09758v1) | Wang, Obi, Min | — | 2025-03-12 |
-| [SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](https://arxiv.org/pdf/2503.08858v3) | Samavi, Lem, Sato | — | 2025-03-11 |
-| [Embodied Crowd Counting](https://arxiv.org/pdf/2503.08367v2) | Long, Wang, Wan | — | 2025-03-11 |
-| [Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](https://arxiv.org/pdf/2503.08306v4) | Janny, Poirier, Antsfeld | — | 2025-03-11 |
-| [Investigating the Effectiveness of a Socratic Chain-of-Thoughts Reasoning Method for Task Planning in Robotics, A Case Study](https://arxiv.org/pdf/2503.08174v1) | Bot, Xu | — | 2025-03-11 |
-| [LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning](https://arxiv.org/pdf/2503.07902v2) | Rabiei, R., Dai | — | 2025-03-10 |
-| [Navigating Motion Agents in Dynamic and Cluttered Environments through LLM Reasoning](https://arxiv.org/pdf/2503.07323v2) | Zhao, Wu, Wang | — | 2025-03-10 |
-| [Handle Object Navigation as Weighted Traveling Repairman Problem](https://arxiv.org/pdf/2503.06937v2) | Liu, Xu, Yuan | — | 2025-03-10 |
-| [Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment](https://arxiv.org/pdf/2503.03208v1) | Zheng, Zhang, Jiang | — | 2025-03-05 |
-| [WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation](https://arxiv.org/pdf/2503.02247v5) | Nie, Guo, Duan | — | 2025-03-04 |
-| [DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting](https://arxiv.org/pdf/2503.02223v1) | Li, Ye, Hao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/LiHaoy-ux/DQO-MAP) | 2025-03-04 |
-| [Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller](https://arxiv.org/pdf/2503.01474v2) | Bi, Chen, Zheng | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Zhihaibi/Interactive-Navigation-for-legged-manipulator) | 2025-03-03 |
-| [From Understanding the World to Intervening in It: A Unified Multi-Scale Framework for Embodied Cognition](https://arxiv.org/pdf/2503.00727v1) | Wang | — | 2025-03-02 |
-| [Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction](https://arxiv.org/pdf/2503.00397v3) | Wang, Lv, Wei | — | 2025-03-01 |
-| [Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2502.19024v1) | Li, Zhou, Hong | — | 2025-02-26 |
-| [OpenFly: A Comprehensive Platform for Aerial Vision-Language Navigation](https://arxiv.org/pdf/2502.18041v6) | Gao, Li, You | — | 2025-02-25 |
-| [Intention Recognition in Real-Time Interactive Navigation Maps](https://arxiv.org/pdf/2502.17581v1) | Zhao, Arefin, Meneguzzi | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PeijieZ/IntentRec4Maps) | 2025-02-24 |
-| [Path Planning using Instruction-Guided Probabilistic Roadmaps](https://arxiv.org/pdf/2502.16515v1) | Bao, Yonetani | — | 2025-02-23 |
-| [Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation](https://arxiv.org/pdf/2502.14254v2) | Zhang, Liu, Zhang | — | 2025-02-20 |
-| [Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation](https://arxiv.org/pdf/2502.13637v1) | Roy, Bhattacharya, Ghosh | — | 2025-02-19 |
-| [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://arxiv.org/pdf/2502.13451v4) | Zhang, Hao, Xu | — | 2025-02-19 |
-| [NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM](https://arxiv.org/pdf/2502.11142v3) | Wang, Zhu, Lee | — | 2025-02-16 |
-| [OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics](https://arxiv.org/pdf/2502.09238v1) | Wang, Huo, Xu | — | 2025-02-13 |
-| [VL-Explore: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots](https://arxiv.org/pdf/2502.08791v2) | Zhang, Abdullah, Koppal | — | 2025-02-12 |
-| [TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation](https://arxiv.org/pdf/2502.07306v2) | Rajabi, Kosecka | — | 2025-02-11 |
-| [Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments](https://arxiv.org/pdf/2502.02664v2) | Bukhari, Lawson, Qureshi | — | 2025-02-04 |
-| [IG-MCTS: Human-in-the-Loop Cooperative Navigation under Incomplete Information](https://arxiv.org/pdf/2502.01857v2) | Chen, Zhao, Chinchali | — | 2025-02-03 |
-| [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/pdf/2502.01536v3) | Zhu, Mou, Li | — | 2025-02-03 |
-| [VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility](https://arxiv.org/pdf/2502.00543v1) | Nazeri, Pokhrel, Card | — | 2025-02-01 |
-| [Mobile Robot Navigation Using Hand-Drawn Maps: A Vision Language Model Approach](https://arxiv.org/pdf/2502.00114v2) | Tan, Fung, Wang | — | 2025-01-31 |
-| [General Scene Adaptation for Vision-and-Language Navigation](https://arxiv.org/pdf/2501.17403v1) | Hong, Qiao, Wang | — | 2025-01-29 |
-| [EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents](https://arxiv.org/pdf/2501.11858v2) | Cheng, Tu, Li | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/thunlp/EmbodiedEval) | 2025-01-21 |
-| [SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/pdf/2501.10074v3) | Liu, Chi, Wu | — | 2025-01-17 |
-| [Semantic Mapping in Indoor Embodied AI -- A Survey on Advances, Challenges, and Future Directions](https://arxiv.org/pdf/2501.05750v3) | Raychaudhuri, Chang | — | 2025-01-10 |
-| [Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments](https://arxiv.org/pdf/2501.04947v1) | Xu, Kamat, Menassa | — | 2025-01-09 |
-| [SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation](https://arxiv.org/pdf/2501.04515v1) | Jianu, Doust, Li | — | 2025-01-08 |
-| [OpenIN: Open-Vocabulary Instance-Oriented Navigation in Dynamic Domestic Environments](https://arxiv.org/pdf/2501.04279v1) | Tang, Wang, Deng | — | 2025-01-08 |
-| [Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](https://arxiv.org/pdf/2501.05478v2) | Mansour, Aly, Tharwat | — | 2025-01-07 |
-| [Social-LLaVA: Enhancing Robot Navigation through Human-Language Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024v1) | Payandeh, Song, Nazeri | — | 2024-12-30 |
-| [UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](https://arxiv.org/pdf/2412.20977v2) | Zhong, Wu, Wang | — | 2024-12-30 |
-| [Mobile Robots through Task-Based Human Instructions using Incremental Curriculum Learning](https://arxiv.org/pdf/2412.19159v1) | Muttaqien, Yorozu, Ohya | — | 2024-12-26 |
-| [Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](https://arxiv.org/pdf/2412.18292v5) | Shen, Luo, Chen | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/FrankZxShen/MCoCoNav) | 2024-12-24 |
-| [LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation](https://arxiv.org/pdf/2412.17282v1) | Uemura, Tanaka, Tsukahara | — | 2024-12-23 |
-| [SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control](https://arxiv.org/pdf/2412.15664v1) | Zhang, Starke, Guzov | — | 2024-12-20 |
-| [The One RING: a Robotic Indoor Navigation Generalist](https://arxiv.org/pdf/2412.14401v2) | Eftekhar, Hendrix, Weihs | — | 2024-12-18 |
-| [NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation](https://arxiv.org/pdf/2412.13026v2) | Wanchoo, Zuo, Gonzalez | — | 2024-12-17 |
-| [ON as ALC: Active Loop Closing Object Goal Navigation](https://arxiv.org/pdf/2412.11523v2) | Iwata, Tanaka, Miyazaki | — | 2024-12-16 |
-| [Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2412.10137v4) | Chen, An, Huang | — | 2024-12-13 |
-| [SonicBoom: Contact Localization Using Array of Microphones](https://arxiv.org/pdf/2412.09878v1) | Lee, Yoo, Oh | — | 2024-12-13 |
-| [GenEx: Generating an Explorable World](https://arxiv.org/pdf/2412.09624v4) | Lu, Shu, Xiao | — | 2024-12-12 |
-| [Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method](https://arxiv.org/pdf/2412.09082v3) | Song, Chen, Liu | — | 2024-12-12 |
-| [RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation](https://arxiv.org/pdf/2412.08591v2) | Han, Ma, Zhumakhanova | — | 2024-12-11 |
-| [Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel](https://arxiv.org/pdf/2412.08467v2) | Wang, Li, Hong | — | 2024-12-11 |
-| [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/pdf/2412.10439v3) | Cao, Zhang, Yu | — | 2024-12-11 |
-| [Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation](https://arxiv.org/pdf/2412.06465v5) | Zhang, Xu, Li | — | 2024-12-09 |
-| [World-Consistent Data Generation for Vision-and-Language Navigation](https://arxiv.org/pdf/2412.06413v2) | Zhong, Zhang, Zhang | — | 2024-12-09 |
-| [Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224v2) | Zhang, Wang, Wang | — | 2024-12-09 |
-| [ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks](https://arxiv.org/pdf/2412.13211v3) | Shukla, Tao, Su | — | 2024-12-09 |
-| [TANGO: Training-free Embodied AI Agents for Open-world Tasks](https://arxiv.org/pdf/2412.10402v1) | Ziliotto, Campari, Serafini | — | 2024-12-05 |
-| [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453v2) | Cheng, Ji, Yang | — | 2024-12-05 |
-| [Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks](https://arxiv.org/pdf/2412.02795v1) | Yang, Shi, Slyman | — | 2024-12-03 |
-| [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292v2) | Zhi, Chen, Li | — | 2024-12-02 |
-| [Collaborative Instance Object Navigation: Leveraging Uncertainty-Awareness to Minimize Human-Agent Dialogues](https://arxiv.org/pdf/2412.01250v3) | Taioli, Zorzi, Franchi | — | 2024-12-02 |
-| [Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation](https://arxiv.org/pdf/2412.01857v2) | Pan, Xu, Liu | — | 2024-11-30 |
-| [AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans](https://arxiv.org/pdf/2411.18539v1) | Loh, Bednarz, Xia | — | 2024-11-27 |
-| [g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks](https://arxiv.org/pdf/2411.17030v1) | Wang, Lee | — | 2024-11-26 |
-| [TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation](https://arxiv.org/pdf/2411.16425v2) | Zhong, Gao, Ding | — | 2024-11-25 |
-| [UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation](https://arxiv.org/pdf/2411.16053v2) | Dai, Zhao, Chen | — | 2024-11-25 |
-| [Fine-Grained Alignment in Vision-and-Language Navigation through Bayesian Optimization](https://arxiv.org/pdf/2411.14811v2) | Song, Gianni, Yang | — | 2024-11-22 |
-| [FASTNav: Fine-tuned Adaptive Small-language-models Trained for Multi-point Robot Navigation](https://arxiv.org/pdf/2411.13262v1) | Chen, Han, Li | — | 2024-11-20 |
-| [HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](https://arxiv.org/pdf/2411.12150v2) | Liu, Xia, Pouria | — | 2024-11-19 |
-| [VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation](https://arxiv.org/pdf/2411.11609v1) | Yu, Liu, Han | — | 2024-11-18 |
-| [InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models](https://arxiv.org/pdf/2411.11394v1) | Yan, Xu, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/yanyu0526/InstruGen) | 2024-11-18 |
-| [NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation](https://arxiv.org/pdf/2411.08579v1) | Liu, Yao, Yue | — | 2024-11-13 |
-| [Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation](https://arxiv.org/pdf/2411.07848v3) | Raychaudhuri, Ta, Ashton | — | 2024-11-12 |
-| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://arxiv.org/pdf/2411.06736v5) | Park, Cho, Ahn | — | 2024-11-11 |
-| [MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation](https://arxiv.org/pdf/2411.04796v1) | Paul, Roychoudhury, Bhowmick | — | 2024-11-07 |
-| [Repairing Neural Networks for Safety in Robotic Systems using Predictive Models](https://arxiv.org/pdf/2411.04408v1) | Majd, Clark, Fainekos | — | 2024-11-07 |
-| [Biomechanics-Aware Trajectory Optimization for Online Navigation during Robotic Physiotherapy](https://arxiv.org/pdf/2411.03873v2) | Belli, Melis, Prendergast | — | 2024-11-06 |
-| [Imagined Potential Games: A Framework for Simulating, Learning and Evaluating Interactive Behaviors](https://arxiv.org/pdf/2411.03669v1) | Sun, Wang, Hung | — | 2024-11-06 |
-| [To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation](https://arxiv.org/pdf/2411.05831v1) | Abraham, Garg, Dayoub | — | 2024-11-06 |
-| [Semantic Navigation for AI-assisted Ideation](https://arxiv.org/pdf/2411.03575v1) | Sandholm, Dong, Mukherjee | — | 2024-11-06 |
-| [Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments](https://arxiv.org/pdf/2411.01814v1) | Canh, HoangVan, Chong | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/thanhnguyencanh/SGan-TEB) | 2024-11-04 |
-| [4D-based Robot Navigation Using Relativistic Image Processing](https://arxiv.org/pdf/2410.22087v1) | Müller, Kranzlmüller | — | 2024-10-29 |
-| [Diffusion as Reasoning: Enhancing Object Navigation via Diffusion Model Conditioned on LLM-based Object-Room Knowledge](https://arxiv.org/pdf/2410.21842v2) | Ji, Yun, Liu | — | 2024-10-29 |
-| [ChartA11y: Designing Accessible Touch Experiences of Visualizations with Blind Smartphone Users](https://arxiv.org/pdf/2410.20545v1) | Zhang, Thompson, Shah | — | 2024-10-27 |
-| [Towards Probabilistic Planning of Explanations for Robot Navigation](https://arxiv.org/pdf/2411.05022v1) | Halilovic, Krivic | — | 2024-10-26 |
-| [Analyzing Human Perceptions of a MEDEVAC Robot in a Simulated Evacuation Scenario](https://arxiv.org/pdf/2410.19072v2) | Jordan, Pandey, Doshi | — | 2024-10-24 |
-| [Zero-shot Object Navigation with Vision-Language Models Reasoning](https://arxiv.org/pdf/2410.18570v1) | Wen, Huang, Huang | — | 2024-10-24 |
-| [Adanonymizer: Interactively Navigating and Balancing the Duality of Privacy and Output Performance in Human-LLM Interaction](https://arxiv.org/pdf/2410.15044v2) | Zhang, Yi, Xing | — | 2024-10-19 |
-| [IntelliMove: Enhancing Robotic Planning with Semantic Mapping](https://arxiv.org/pdf/2410.14851v1) | Ngom, Zhang, Zhang | — | 2024-10-18 |
-| [Vision-Language Navigation with Energy-Based Policy](https://arxiv.org/pdf/2410.14250v1) | Liu, Wang, Yang | — | 2024-10-18 |
-| [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://arxiv.org/pdf/2410.13825v2) | Yang, Liu, Chaudhary | — | 2024-10-17 |
-| [Interactive Navigation with Adaptive Non-prehensile Mobile Manipulation](https://arxiv.org/pdf/2410.13418v1) | Dai, Liu, Sreenath | — | 2024-10-17 |
-| [Beyond Coarse-Grained Matching in Video-Text Retrieval](https://arxiv.org/pdf/2410.12407v2) | Chen, Doughty, Li | — | 2024-10-16 |
-| [M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes](https://arxiv.org/pdf/2410.11402v1) | Yan, Zhang, Han | — | 2024-10-15 |
-| [ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/pdf/2410.09874v1) | Zhao, Cai, Tang | — | 2024-10-13 |
-| [E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://arxiv.org/pdf/2410.08649v1) | Wu, Zhu, Hou | — | 2024-10-11 |
-| [Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation](https://arxiv.org/pdf/2410.08500v3) | Gao, Wang, Han | — | 2024-10-11 |
-| [SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation](https://arxiv.org/pdf/2410.08189v1) | Yin, Xu, Wu | — | 2024-10-10 |
-| [Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology](https://arxiv.org/pdf/2410.07087v2) | Wang, Yang, Wang | — | 2024-10-09 |
-| [ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion](https://arxiv.org/pdf/2410.06613v2) | Chen, Zeng, Li | — | 2024-10-09 |
-| [Zero-Shot Vision-and-Language Navigation with Collision Mitigation in Continuous Environment](https://arxiv.org/pdf/2410.17267v1) | Jeong, Kang, Kim | — | 2024-10-07 |
-| [PANav: Toward Privacy-Aware Robot Navigation via Vision-Language Models](https://arxiv.org/pdf/2410.04302v1) | Yu, Kasaei, Cao | — | 2024-10-05 |
-| [LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos](https://arxiv.org/pdf/2410.03603v1) | Hirose, Glossop, Sridhar | — | 2024-10-04 |
-| [MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation](https://arxiv.org/pdf/2410.03488v1) | Wang, Liu, Cai | — | 2024-10-04 |
-| [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI](https://arxiv.org/pdf/2410.02751v1) | Elawady, Chhablani, Ramrakhya | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/aielawady/relic) | 2024-10-03 |
-| [DivScene: Towards Open-Vocabulary Object Navigation with Large Vision Language Models in Diverse Scenes](https://arxiv.org/pdf/2410.02730v3) | Wang, Zhang, Fang | — | 2024-10-03 |
-| [Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks](https://arxiv.org/pdf/2410.02389v1) | Feng, Luan, Ma | — | 2024-10-03 |
-| [CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction](https://arxiv.org/pdf/2410.01273v3) | Choi, Cho, Kim | — | 2024-10-02 |
-| [LASMP: Language Aided Subset Sampling Based Motion Planner](https://arxiv.org/pdf/2410.00649v1) | Bhattacharjee, Sinha, Ekenna | — | 2024-10-01 |
-| [Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments](https://arxiv.org/pdf/2409.20445v1) | Elnoor, Weerakoon, Seneviratne | — | 2024-09-30 |
-| [Language-guided Robust Navigation for Mobile Robots in Dynamically-changing Environments](https://arxiv.org/pdf/2409.19459v1) | Simons, Liu, Marcus | — | 2024-09-28 |
-| [MiniVLN: Efficient Vision-and-Language Navigation by Progressive Knowledge Distillation](https://arxiv.org/pdf/2409.18800v1) | Zhu, Qiao, Zhang | — | 2024-09-27 |
-| [Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs](https://arxiv.org/pdf/2409.18794v2) | Qiao, Lyu, Wang | — | 2024-09-27 |
-| [OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph](https://arxiv.org/pdf/2409.18743v1) | Tang, Wang, Deng | — | 2024-09-27 |
-| [Circuits and Systems for Embodied AI: Exploring uJ Multi-Modal Perception for Nano-UAVs on the Kraken Shield](https://arxiv.org/pdf/2410.09054v1) | Potocnik, Mauro, Lamberti | — | 2024-09-26 |
-| [Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation](https://arxiv.org/pdf/2409.17313v1) | Wang, Wu, Cao | — | 2024-09-25 |
-| [BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes](https://arxiv.org/pdf/2409.16484v2) | Weerakoon, Elnoor, Seneviratne | — | 2024-09-24 |
-| [The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](https://arxiv.org/pdf/2409.15922v5) | Huang, Liu, Lipovetzky | — | 2024-09-24 |
-| [CON: Continual Object Navigation via Data-Free Inter-Agent Knowledge Transfer in Unseen and Unfamiliar Places](https://arxiv.org/pdf/2409.14899v1) | Terashima, Iwata, Tanaka | — | 2024-09-23 |
-| [HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation](https://arxiv.org/pdf/2409.14296v1) | Yokoyama, Ramrakhya, Das | — | 2024-09-22 |
-| [Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control using Graphs of Scan Regions](https://arxiv.org/pdf/2409.13838v1) | Latha, Arslan | — | 2024-09-20 |
-| [ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation](https://arxiv.org/pdf/2409.13682v1) | Anwar, Welsh, Biswas | — | 2024-09-20 |
-| [Hey Robot! Personalizing Robot Navigation through Model Predictive Control with a Large Language Model](https://arxiv.org/pdf/2409.13393v1) | Martinez-Baselga, Groot, Knoedler | — | 2024-09-20 |
-| [Spatially-invariant opinion dynamics on the circle](https://arxiv.org/pdf/2409.12420v2) | Amorim, Bizyaeva, Franci | — | 2024-09-19 |
-| [One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation](https://arxiv.org/pdf/2409.11764v2) | Busch, Homberger, Ortega-Peimbert | — | 2024-09-18 |
-| [Multi-Floor Zero-Shot Object Navigation Policy](https://arxiv.org/pdf/2409.10906v1) | Zhang, Wang, Xiao | — | 2024-09-17 |
-| [ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions](https://arxiv.org/pdf/2409.10283v4) | Sanyal, Roy | — | 2024-09-16 |
-| [Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation](https://arxiv.org/pdf/2409.10071v5) | Chen, Tu, Qi | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/chen37058/Physical-Attacks-in-Embodied-Nav) | 2024-09-16 |
-| [E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models](https://arxiv.org/pdf/2409.10027v4) | Kim, Kim, Oh | — | 2024-09-16 |
-| [StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation](https://arxiv.org/pdf/2409.05593v1) | Gopinathan, Abu-Khalaf, Suter | — | 2024-09-09 |
-| [Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation](https://arxiv.org/pdf/2409.05583v1) | Gopinathan, Masek, Abu-Khalaf | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gmuraleekrishna/SAS) | 2024-09-09 |
-| [Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations](https://arxiv.org/pdf/2409.05552v2) | Zhang, Li, Xu | — | 2024-09-09 |
-| [Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models](https://arxiv.org/pdf/2409.04965v2) | Wen, Liu, Bethala | — | 2024-09-08 |
-| [Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation](https://arxiv.org/pdf/2409.04837v2) | Ko, Su, Chen | — | 2024-09-07 |
-| [Causality-Aware Transformer Networks for Robotic Navigation](https://arxiv.org/pdf/2409.02669v2) | Wang, Liu, Cao | — | 2024-09-04 |
-| [Vision-Language Navigation with Continual Learning](https://arxiv.org/pdf/2409.02561v2) | Li, Lv, Tu | — | 2024-09-04 |
-| [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2409.02522v2) | Li, Lu, Mu | — | 2024-09-04 |
-| [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/pdf/2409.02389v2) | Linghu, Huang, Niu | — | 2024-09-04 |
-| [SafeEmbodAI: a Safety Framework for Mobile Robots in Embodied AI Systems](https://arxiv.org/pdf/2409.01630v1) | Zhang, Kong, Braunl | — | 2024-09-03 |
-| [GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting](https://arxiv.org/pdf/2409.01581v1) | Guo, Xie, Xie | — | 2024-09-03 |
-| [Robot Navigation with Entity-Based Collision Avoidance using Deep Reinforcement Learning](https://arxiv.org/pdf/2408.14183v2) | Kolomeytsev, Golembiovsky | — | 2024-08-26 |
-| [FLAME: Learning to Navigate with Multimodal LLM in Urban Environments](https://arxiv.org/pdf/2408.11051v2) | Xu, Pan, Liu | — | 2024-08-20 |
-| [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://arxiv.org/pdf/2408.10899v1) | Wang, Zheng, Nie | — | 2024-08-20 |
-| [Where to Fetch: Extracting Visual Scene Representation from Large Pre-Trained Models for Robotic Goal Navigation](https://arxiv.org/pdf/2408.10578v1) | Li, Li, Zhao | — | 2024-08-20 |
-| [Narrowing the Gap between Vision and Action in Navigation](https://arxiv.org/pdf/2408.10388v1) | Zhang, Kordjamshidi | — | 2024-08-19 |
-| [Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI](https://arxiv.org/pdf/2409.00015v1) | Bakirtzis, Tubella, Theodorou | — | 2024-08-16 |
-| [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps](https://arxiv.org/pdf/2408.08301v1) | Arul, Kumar, Sugirtharaj | — | 2024-08-15 |
-| [Towards pedestrian head tracking: A benchmark dataset and a multi-source data fusion network](https://arxiv.org/pdf/2408.05877v2) | Sun, Wang, Liu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/kailaisun/Cchead) | 2024-08-12 |
-| [Loc4Plan: Locating Before Planning for Outdoor Vision and Language Navigation](https://arxiv.org/pdf/2408.05090v1) | Tian, Meng, Zheng | — | 2024-08-09 |
-| [UNMuTe: Unifying Navigation and Multimodal Dialogue-like Text Generation](https://arxiv.org/pdf/2408.04423v1) | Rawal, Bigazzi, Baraldi | — | 2024-08-08 |
-| [Navigating the Human Maze: Real-Time Robot Pathfinding with Generative Imitation Learning](https://arxiv.org/pdf/2408.03807v1) | Moder, Adhisaputra, Pauli | — | 2024-08-07 |
-| [A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems](https://arxiv.org/pdf/2408.03515v2) | Zhang, Kong, Dewitt | — | 2024-08-07 |
-| [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/pdf/2408.02535v1) | Kaichen, Yaoxian, Haiquan | — | 2024-08-05 |
-| [TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation](https://arxiv.org/pdf/2408.01867v1) | Sun, Zhang, Tang | — | 2024-08-03 |
-| [IN-Sight: Interactive Navigation through Sight](https://arxiv.org/pdf/2408.00343v2) | Schoch, Yang, Ma | — | 2024-08-01 |
-| [Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments](https://arxiv.org/pdf/2407.21452v1) | Hong, Wang, Huang | — | 2024-07-31 |
-| [Language-Conditioned Offline RL for Multi-Robot Navigation](https://arxiv.org/pdf/2407.20164v1) | Morad, Shankar, Blumenkamp | — | 2024-07-29 |
-| [DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control](https://arxiv.org/pdf/2407.14758v1) | Xu, Luo, Yang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/AllenXuuu/DISCO) | 2024-07-20 |
-| [NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models](https://arxiv.org/pdf/2407.12366v2) | Zhou, Hong, Wang | — | 2024-07-17 |
-| [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](https://arxiv.org/pdf/2407.11487v1) | Lu, Meng, Zheng | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/iSEE-Laboratory/VLN-PRET) | 2024-07-16 |
-| [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/pdf/2407.10943v1) | Wang, Chen, Huang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/OpenRobotLab/GRUtopia) | 2024-07-15 |
-| [Learning Social Cost Functions for Human-Aware Path Planning](https://arxiv.org/pdf/2407.10547v2) | Eirale, Leonetti, Chiaberge | — | 2024-07-15 |
-| [OVExp: Open Vocabulary Exploration for Object-Oriented Navigation](https://arxiv.org/pdf/2407.09016v1) | Wei, Wang, Chen | — | 2024-07-12 |
-| [MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility](https://arxiv.org/pdf/2407.08725v2) | Wu, He, He | — | 2024-07-11 |
-| [Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems](https://arxiv.org/pdf/2407.07392v1) | Islam, Salman, Shams | — | 2024-07-10 |
-| [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/pdf/2407.07035v2) | Zhang, Ma, Li | — | 2024-07-09 |
-| [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/pdf/2407.06886v8) | Liu, Chen, Bai | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) | 2024-07-09 |
-| [Visual-Geometry GP-based Navigable Space for Autonomous Navigation](https://arxiv.org/pdf/2407.06545v1) | Ali, Pushp, Chen | — | 2024-07-09 |
-| [Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation](https://arxiv.org/pdf/2407.05890v2) | Chen, Lin, Liu | — | 2024-07-08 |
-| [ELCC: the Emergent Language Corpus Collection](https://arxiv.org/pdf/2407.04158v2) | Boldt, Mortensen | — | 2024-07-04 |
-| [Open Scene Graphs for Open World Object-Goal Navigation](https://arxiv.org/pdf/2407.02473v1) | Loo, Wu, Hsu | — | 2024-07-02 |
-| [Research on Autonomous Robots Navigation based on Reinforcement Learning](https://arxiv.org/pdf/2407.02539v3) | Wang, Yan, Wang | — | 2024-07-02 |
-| [CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations](https://arxiv.org/pdf/2407.00632v1) | Wu, Mu, Zhou | — | 2024-06-30 |
-| [PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators](https://arxiv.org/pdf/2406.20083v1) | Zeng, Zhang, Ehsani | — | 2024-06-28 |
-| [Into the Unknown: Generating Geospatial Descriptions for New Environments](https://arxiv.org/pdf/2406.19967v1) | Paz-Argaman, Palowitch, Kulkarni | — | 2024-06-28 |
-| [Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions](https://arxiv.org/pdf/2406.19236v3) | Li, Li, Cheng | — | 2024-06-27 |
-| [MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation](https://arxiv.org/pdf/2406.17960v1) | Wang, He, Shen | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/CrystalSixone/VLN-MAGIC) | 2024-06-25 |
-| [CityNav: A Large-Scale Dataset for Real-World Aerial Navigation](https://arxiv.org/pdf/2406.14240v3) | Lee, Miyanishi, Kurita | — | 2024-06-20 |
-| [Efficient Strategy Learning by Decoupling Searching and Pathfinding for Object Navigation](https://arxiv.org/pdf/2406.14103v2) | Zheng, Feng, Huang | — | 2024-06-20 |
-| [Contrast Sets for Evaluating Language-Guided Robot Policies](https://arxiv.org/pdf/2406.13636v2) | Anwar, Gupta, Thomason | — | 2024-06-19 |
-| [STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft](https://arxiv.org/pdf/2406.11247v1) | Zhao, Chai, Wang | — | 2024-06-17 |
-| [Enhancing Supermarket Robot Interaction: A Multi-Level LLM Conversational Interface for Handling Diverse Customer Intents](https://arxiv.org/pdf/2406.11047v1) | Nandkumar, Peternel | — | 2024-06-16 |
-| [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://arxiv.org/pdf/2406.10721v1) | Yuan, Duan, Blukis | — | 2024-06-15 |
-| [Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation](https://arxiv.org/pdf/2406.09798v3) | Wang, Li, Yang | — | 2024-06-14 |
-| [LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning](https://arxiv.org/pdf/2406.05881v6) | Singh, Bhattacharyya, Namboodiri | — | 2024-06-09 |
-| [I2EDL: Interactive Instruction Error Detection and Localization](https://arxiv.org/pdf/2406.05080v2) | Taioli, Rosa, Castellini | — | 2024-06-07 |
-| [Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts](https://arxiv.org/pdf/2406.02208v1) | Hong, Wang, Huang | — | 2024-06-04 |
-| [The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry](https://arxiv.org/pdf/2406.01797v1) | Cudrano, Luo, Matteucci | — | 2024-06-03 |
-| [Augmented Commonsense Knowledge for Remote Object Grounding](https://arxiv.org/pdf/2406.01256v1) | Mohammadi, Hong, Qi | — | 2024-06-03 |
-| [Teledrive: An Embodied AI based Telepresence System](https://arxiv.org/pdf/2406.00375v1) | Banerjee, Paul, Roychoudhury | — | 2024-06-01 |
-| [Kestrel: 3D Multimodal LLM for Part-Aware Grounded Description](https://arxiv.org/pdf/2405.18937v2) | Ahmed, Fei, Ding | — | 2024-05-29 |
-| [Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://arxiv.org/pdf/2405.18721v2) | Lin, Nie, Wei | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/expectorlin/CONSOLE) | 2024-05-29 |
-| [Vision-and-Language Navigation Generative Pretrained Transformer](https://arxiv.org/pdf/2405.16994v1) | Hanlin | — | 2024-05-27 |
-| [Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations](https://arxiv.org/pdf/2405.16818v1) | Kich, Bottega, Steinmetz | — | 2024-05-27 |
-| [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439v3) | Chandra, Karnan, Mehr | — | 2024-05-26 |
-| [Leveraging Unknown Objects to Construct Labeled-Unlabeled Meta-Relationships for Zero-Shot Object Navigation](https://arxiv.org/pdf/2405.15222v2) | Zheng, Li, Lan | — | 2024-05-24 |
-| [Skip-SCAR: Hardware-Friendly High-Quality Embodied Visual Navigation](https://arxiv.org/pdf/2405.14154v4) | Liu, Cao, Zhang | — | 2024-05-23 |
-| [Characterizing the Complexity of Social Robot Navigation Scenarios](https://arxiv.org/pdf/2405.11410v2) | Stratton, Hauser, Mavrogiannis | — | 2024-05-18 |
-| [MC-GPT: Empowering Vision-and-Language Navigation with Memory Map and Reasoning Chains](https://arxiv.org/pdf/2405.10620v2) | Zhan, Yu, Yu | — | 2024-05-17 |
-| [Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People](https://arxiv.org/pdf/2405.07060v1) | Kuribayashi, Uehara, Wang | — | 2024-05-11 |
-| [Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control](https://arxiv.org/pdf/2405.05852v1) | Gupta, Yadav, Gal | — | 2024-05-09 |
-| [LOC-ZSON: Language-driven Object-Centric Zero-Shot Object Retrieval and Navigation](https://arxiv.org/pdf/2405.05363v1) | Guan, Yang, Cheng | — | 2024-05-08 |
-| [LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning](https://arxiv.org/pdf/2405.04235v2) | Feng, Luan, Goyal | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/clear-nus/ltldog) | 2024-05-07 |
-| [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/pdf/2404.16006v1) | Ying, Meng, Wang | — | 2024-04-24 |
-| [Vision-and-Language Navigation via Causal Learning](https://arxiv.org/pdf/2404.10241v1) | Wang, He, Dang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/CrystalSixone/VLN-GOAT) | 2024-04-16 |
-| [Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V](https://arxiv.org/pdf/2404.10220v2) | Zhi, Zhang, Zhao | — | 2024-04-16 |
-| [AIGeN: An Adversarial Approach for Instruction Generation in VLN](https://arxiv.org/pdf/2404.10054v1) | Rawal, Bigazzi, Baraldi | — | 2024-04-15 |
-| [TDANet: Target-Directed Attention Network For Object-Goal Visual Navigation With Zero-Shot Ability](https://arxiv.org/pdf/2404.08353v2) | Lian, Zhang | — | 2024-04-12 |
-| [Interactive-FAR:Interactive, Fast and Adaptable Routing for Navigation Among Movable Obstacles in Complex Unknown Environments](https://arxiv.org/pdf/2404.07447v1) | He, Chen, Wang | — | 2024-04-11 |
-| [GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation](https://arxiv.org/pdf/2404.06609v1) | Khanna, Ramrakhya, Chhablani | — | 2024-04-09 |
-| [MeSA-DRL: Memory-Enhanced Deep Reinforcement Learning for Advanced Socially Aware Robot Navigation in Crowded Environments](https://arxiv.org/pdf/2404.05203v1) | Muhammad, Montero | — | 2024-04-08 |
-| [Bidirectional Human Interactive AI Framework for Social Robot Navigation](https://arxiv.org/pdf/2404.04069v2) | Girgin, Girgin, Yildirim | — | 2024-04-05 |
-| [Language, Environment, and Robotic Navigation](https://arxiv.org/pdf/2404.03049v1) | Avery | — | 2024-04-03 |
-| [Constrained Robotic Navigation on Preferred Terrains Using LLMs and Speech Instruction: Exploiting the Power of Adverbs](https://arxiv.org/pdf/2404.02294v1) | Lotfi, Faraji, Kakodkar | — | 2024-04-02 |
-| [DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2404.01994v1) | Du, Wu, Zhang | — | 2024-04-02 |
-| [Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation](https://arxiv.org/pdf/2404.01943v1) | Wang, Li, Yang | — | 2024-04-02 |
-| [JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments](https://arxiv.org/pdf/2404.01686v1) | Le, Gou, Datta | — | 2024-04-02 |
-| [Semantic Map-based Generation of Navigation Instructions](https://arxiv.org/pdf/2403.19603v1) | Li, Zhang, Teufel | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/chengzu-li/VLGen) | 2024-03-28 |
-| [IVLMap: Instance-Aware Visual Language Grounding for Consumer Robot Navigation](https://arxiv.org/pdf/2403.19336v1) | Huang, Zhang, Zhao | — | 2024-03-28 |
-| [3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation](https://arxiv.org/pdf/2403.18778v1) | Latif | — | 2024-03-27 |
-| [Scaling Vision-and-Language Navigation With Offline RL](https://arxiv.org/pdf/2403.18454v1) | Bundele, Bhupati, Banerjee | — | 2024-03-27 |
-| [Segment Any Medical Model Extended](https://arxiv.org/pdf/2403.18114v1) | Liu, Zhang, Diaz-Pinto | — | 2024-03-26 |
-| [OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation](https://arxiv.org/pdf/2403.17334v1) | Zhao, Li, Chen | — | 2024-03-26 |
-| [Grounding Language Plans in Demonstrations Through Counterfactual Perturbations](https://arxiv.org/pdf/2403.17124v2) | Wang, Wang, Mao | — | 2024-03-25 |
-| [TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](https://arxiv.org/pdf/2403.16875v1) | Yao, Ge, Shi | — | 2024-03-25 |
-| [Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://arxiv.org/pdf/2403.16425v2) | Nair, Milford, Fischer | — | 2024-03-25 |
-| [Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation](https://arxiv.org/pdf/2403.15691v2) | Huang, Zheng, Lan | — | 2024-03-23 |
-| [Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation](https://arxiv.org/pdf/2403.15648v3) | Wang, Obi, Bera | — | 2024-03-22 |
-| [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/pdf/2403.15223v1) | Zhang, Zhang, Wang | — | 2024-03-22 |
-| [Continual Vision-and-Language Navigation](https://arxiv.org/pdf/2403.15049v3) | Jeong, Kang, Choi | — | 2024-03-22 |
-| [Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation](https://arxiv.org/pdf/2403.14163v1) | Sun, Kanezaki, Caron | — | 2024-03-21 |
-| [Volumetric Environment Representation for Vision-Language Navigation](https://arxiv.org/pdf/2403.14158v1) | Liu, Wang, Yang | — | 2024-03-21 |
-| [Prioritized Semantic Learning for Zero-shot Instance Navigation](https://arxiv.org/pdf/2403.11650v2) | Sun, Liu, Zhi | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/XinyuSun/PSL-InstanceNav) | 2024-03-18 |
-| [Hierarchical Spatial Proximity Reasoning for Vision-and-Language Navigation](https://arxiv.org/pdf/2403.11541v3) | Xu, Xie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/iCityLab/HSPR) | 2024-03-18 |
-| [Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis](https://arxiv.org/pdf/2403.11487v3) | Dorbala, Chowdhury, Manocha | — | 2024-03-18 |
-| [Mind the Error! Detection and Localization of Instruction Errors in Vision-and-Language Navigation](https://arxiv.org/pdf/2403.10700v2) | Taioli, Rosa, Castellini | — | 2024-03-15 |
-| [Belief Aided Navigation using Bayesian Reinforcement Learning for Avoiding Humans in Blind Spots](https://arxiv.org/pdf/2403.10105v1) | Kim, Kwak, Rim | — | 2024-03-15 |
-| [Language to Map: Topological map generation from natural language path instructions](https://arxiv.org/pdf/2403.10008v1) | Deguchi, Shibata, Taguchi | — | 2024-03-15 |
-| [TAS: A Transit-Aware Strategy for Embodied Navigation with Non-Stationary Targets](https://arxiv.org/pdf/2403.09905v4) | Dorbala, Patel, Bedi | — | 2024-03-14 |
-| [Socially Integrated Navigation: A Social Acting Robot with Deep Reinforcement Learning](https://arxiv.org/pdf/2403.09793v3) | Flögel, Fischer, Rudolf | — | 2024-03-14 |
-| [THÖR-MAGNI: A Large-scale Indoor Motion Capture Recording of Human Movement and Robot Interaction](https://arxiv.org/pdf/2403.09285v1) | Schreiter, Almeida, Zhu | — | 2024-03-14 |
-| [Towards Efficient Risk-Sensitive Policy Gradient: An Iteration Complexity Analysis](https://arxiv.org/pdf/2403.08955v4) | Liu, Gupta, Noorani | — | 2024-03-13 |
-| [Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation](https://arxiv.org/pdf/2403.08282v2) | Zhao, Chen, Guo | — | 2024-03-13 |
-| [TINA: Think, Interaction, and Action Framework for Zero-Shot Vision Language Navigation](https://arxiv.org/pdf/2403.08833v1) | Li, Chen, Lin | — | 2024-03-13 |
-| [Prosody for Intuitive Robotic Interface Design: It's Not What You Said, It's How You Said It](https://arxiv.org/pdf/2403.08144v1) | Sanoubari, Iscen, Takayama | — | 2024-03-13 |
-| [NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning](https://arxiv.org/pdf/2403.07376v2) | Lin, Nie, Wei | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/expectorlin/NavCoT) | 2024-03-12 |
-| [Mapping High-level Semantic Regions in Indoor Environments without Object Recognition](https://arxiv.org/pdf/2403.07076v1) | Bigazzi, Baraldi, Kousik | — | 2024-03-11 |
-| [Towards Deviation-Robust Agent Navigation via Perturbation-Aware Contrastive Learning](https://arxiv.org/pdf/2403.05770v1) | Lin, Long, Zhu | — | 2024-03-09 |
-| [Causality-based Cross-Modal Representation Learning for Vision-and-Language Navigation](https://arxiv.org/pdf/2403.03405v1) | Wang, He, Dang | — | 2024-03-06 |
-| [Human Robot Pacing Mismatch](https://arxiv.org/pdf/2403.01542v1) | Sun, Trautman, Murphey | — | 2024-03-03 |
-| [Collision-Free Robot Navigation in Crowded Environments using Learning based Convex Model Predictive Control](https://arxiv.org/pdf/2403.01450v3) | Wen, Dong, Chen | — | 2024-03-03 |
-| [Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation](https://arxiv.org/pdf/2402.19432v1) | Yang, Glossop, Bhorkar | — | 2024-02-29 |
-| [DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments](https://arxiv.org/pdf/2402.19007v2) | Ma, Dai, Mu | — | 2024-02-29 |
-| [A Probabilistic Motion Model for Skid-Steer Wheeled Mobile Robot Navigation on Off-Road Terrains](https://arxiv.org/pdf/2402.18065v2) | Trivedi, Zolotas, Abbas | — | 2024-02-28 |
-| [Rethinking Mutual Information for Language Conditioned Skill Discovery on Imitation Learning](https://arxiv.org/pdf/2402.17511v1) | Ju, Yang, Wang | — | 2024-02-27 |
-| [On Languaging a Simulation Engine](https://arxiv.org/pdf/2402.16482v1) | Liu, Li | — | 2024-02-26 |
-| [RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis](https://arxiv.org/pdf/2402.16117v1) | Mu, Chen, Zhang | — | 2024-02-25 |
-| [NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation](https://arxiv.org/pdf/2402.15852v7) | Zhang, Wang, Xu | — | 2024-02-24 |
-| [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/pdf/2402.14304v2) | Gao, Wang, Gao | — | 2024-02-22 |
-| [Decentralized Multi-Robot Navigation for Autonomous Surface Vehicles with Distributional Reinforcement Learning](https://arxiv.org/pdf/2402.11799v2) | Lin, Huang, Chen | — | 2024-02-19 |
-| [OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models](https://arxiv.org/pdf/2402.10670v2) | Kuang, Lin, Jiang | — | 2024-02-16 |
-| [MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain](https://arxiv.org/pdf/2402.08221v1) | Li, Huang, Fan | — | 2024-02-13 |
-| [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://arxiv.org/pdf/2402.07872v1) | Nasiriany, Xia, Yu | — | 2024-02-12 |
-| [A Factor Graph Model of Trust for a Collaborative Multi-Agent System](https://arxiv.org/pdf/2402.07049v1) | Akbari, Yuan, Wang | — | 2024-02-10 |
-| [VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation](https://arxiv.org/pdf/2402.03561v2) | Li, Padmakumar, Sukhatme | — | 2024-02-05 |
-| [Beyond Text: Utilizing Vocal Cues to Improve Decision Making in LLMs for Robot Navigation Tasks](https://arxiv.org/pdf/2402.03494v3) | Sun, Meng, Chakraborty | — | 2024-02-05 |
-| [Vision-Language Models Provide Promptable Representations for Reinforcement Learning](https://arxiv.org/pdf/2402.02651v3) | Chen, Mees, Kumar | — | 2024-02-05 |
-| [NavHint: Vision and Language Navigation Agent with a Hint Generator](https://arxiv.org/pdf/2402.02559v1) | Zhang, Guo, Kordjamshidi | — | 2024-02-04 |
-| [LINGO-Space: Language-Conditioned Incremental Grounding for Space](https://arxiv.org/pdf/2402.01183v1) | Kim, Oh, Hwang | — | 2024-02-02 |
-| [Robust Path Planning via Learning from Demonstrations for Robotic Catheters in Deformable Environments](https://arxiv.org/pdf/2402.00537v2) | Li, Lambranzi, Wu | — | 2024-02-01 |
-| [Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning](https://arxiv.org/pdf/2401.17914v1) | Escudie, Matignon, Saraydaryan | — | 2024-01-31 |
-| [Learning to navigate efficiently and precisely in real environments](https://arxiv.org/pdf/2401.14349v1) | Bono, Poirier, Antsfeld | — | 2024-01-25 |
-| [Multi-Object Navigation in real environments using hybrid policies](https://arxiv.org/pdf/2401.13800v1) | Sadek, Bono, Chidlovskii | — | 2024-01-24 |
-| [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/pdf/2401.12275v2) | Li, Hua, Yao | — | 2024-01-22 |
-| [MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation](https://arxiv.org/pdf/2401.07314v3) | Chen, Lin, Xu | — | 2024-01-14 |
-| [Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs](https://arxiv.org/pdf/2401.06226v1) | Zhou, Garcke | — | 2024-01-11 |
-| [VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model](https://arxiv.org/pdf/2401.02695v2) | Wu, Mu, Wu | — | 2024-01-05 |
+| [Enhancing Urban Data Exploration: Layer Toggling and Visibility-Preserving Lenses for Multi-Attribute Spatial Analysis](https://arxiv.org/pdf/2510.18185v1) | Salinas, Nonato, Fekete | — | 2025-10-21 |
+| [MOFM-Nav: On-Manifold Ordering-Flexible Multi-Robot Navigation](https://arxiv.org/pdf/2510.18063v1) | Hu, Yao, Cao | — | 2025-10-20 |
+| [Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models](https://arxiv.org/pdf/2510.18053v1) | Fan, Wei, Cheng | — | 2025-10-20 |
+| [Foundation Models for Discovery and Exploration in Chemical Space](https://arxiv.org/pdf/2510.18900v1) | Wadell, Bhutani, Azumah | — | 2025-10-20 |
+| [Active polymers translocate faster in confinement](https://arxiv.org/pdf/2510.17747v1) | Prathyusha, Sarkar, Xu | — | 2025-10-20 |
+| [Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm](https://arxiv.org/pdf/2510.17604v1) | Qiao, Wang, Yang | — | 2025-10-20 |
+| [An Empirical Study of Lagrangian Methods in Safe Reinforcement Learning](https://arxiv.org/pdf/2510.17564v1) | Spoor, Serra-Gómez, Plaat | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/lindsayspoor/Lagrangian_SafeRL) | 2025-10-20 |
+| [Optimal Control from a Fluid Dynamics Perspective](https://arxiv.org/pdf/2510.17929v1) | Pratt, Schneider, Perloff | — | 2025-10-20 |
+| [Navigate in Demanding Missions: Integrating Human Intelligence and Brain-Inspired Intelligence](https://arxiv.org/pdf/2510.17530v1) | He, Meng, Zhang | — | 2025-10-20 |
+| [HumanMPC - Safe and Efficient MAV Navigation among Humans](https://arxiv.org/pdf/2510.17525v1) | Schaefer, Oleynikova, Hirche | — | 2025-10-20 |
+| [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426v2) | Hu, Minixhofer, Collier | — | 2025-10-20 |
+| [SmartSustain Recommender System: Navigating Sustainability Trade-offs in Personalized City Trip Planning](https://arxiv.org/pdf/2510.17355v2) | Banerjee, Aksoy, Wörndl | — | 2025-10-20 |
+
+> 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
 ---
 
