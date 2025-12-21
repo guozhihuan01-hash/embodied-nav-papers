@@ -10,20 +10,28 @@ DATA_FILE = "data/papers.json"
 README_FILE = "README.md"
 
 # 关键词：覆盖具身导航主流方向
+# KEYWORDS = [
+#     '"embodied navigation"',
+#     '"vision and language navigation"',
+#     '"VLN"',
+#     '"interactive navigation"',
+#     '"embodied AI" AND navigation',
+#     '"robot navigation" AND ("embodied" OR "interactive" OR "instruction")',
+#     '"object navigation"',
+#     '"social navigation"',
+#     '"point navigation"',
+#     '"navigation"',
+#     '"semantic navigation"',
+# ]
 KEYWORDS = [
     '"embodied navigation"',
     '"vision and language navigation"',
     '"VLN"',
-    '"interactive navigation"',
-    '"embodied AI" AND navigation',
-    '"robot navigation" AND ("embodied" OR "interactive" OR "instruction")',
     '"object navigation"',
     '"social navigation"',
     '"point navigation"',
-    '"navigation"',
     '"semantic navigation"',
 ]
-
 START_DATE = datetime(2024, 1, 1, tzinfo=timezone.utc)
 
 def load_existing():
