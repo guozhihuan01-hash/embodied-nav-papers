@@ -23,15 +23,7 @@ README_FILE = "README.md"
 #     '"navigation"',
 #     '"semantic navigation"',
 # ]
-KEYWORDS = [
-    '"embodied navigation"',
-    '"vision and language navigation"',
-    '"VLN"',
-    '"object navigation"',
-    '"social navigation"',
-    '"point navigation"',
-    '"semantic navigation"',
-]
+
 START_DATE = datetime(2024, 1, 1, tzinfo=timezone.utc)
 
 def load_existing():
@@ -57,34 +49,69 @@ def extract_github_url(text):
 def fetch_papers():
     all_papers = []
     seen_ids = set()
-    for kw in KEYWORDS:
-        print(f"🔍 Searching: {kw}")
-        try:
-            search = arxiv.Search(
-                query=kw,
-                max_results=1000,
-                sort_by=arxiv.SortCriterion.SubmittedDate,
-                sort_order=arxiv.SortOrder.Descending
-            )
-            for paper in search.results():
-                if paper.published < START_DATE:
-                    break  # arXiv 按时间倒序，可提前终止
-                if paper.entry_id in seen_ids:
-                    continue
-                seen_ids.add(paper.entry_id)
-                github_url = extract_github_url(paper.summary) or extract_github_url(paper.pdf_url)
-                all_papers.append({
-                    "id": paper.entry_id,
-                    "title": paper.title,
-                    "authors": [str(a).split()[-1] for a in paper.authors][:3],
-                    "summary": paper.summary.replace("\n", " "),
-                    "pdf_url": paper.pdf_url,
-                    "github_url": github_url,
-                    "published": paper.published.isoformat(),
-                    "updated": paper.updated.isoformat()
-                })
-        except Exception as e:
-            print(f"⚠️ Error on '{kw}': {e}")
+
+    # 使用较宽泛的 arXiv 查询，确保不漏掉标题含关键词的论文
+    # 这里用 "navigation" 作为基础查询，覆盖大多数情况
+    base_query = "navigation"
+    
+    print(f"🔍 Fetching papers with base query: {base_query}")
+    try:
+        search = arxiv.Search(
+            query=base_query,
+            max_results=2000,  # 增加数量以防漏掉
+            sort_by=arxiv.SortCriterion.SubmittedDate,
+            sort_order=arxiv.SortOrder.Descending
+        )
+        for paper in search.results():
+            if paper.published < START_DATE:
+                break
+
+            # === 核心：检查标题是否包含指定关键词 ===
+            title_lower = paper.title.lower()
+            
+            # 定义你要的标题关键词（全部转为小写）
+            target_phrases = [
+                "object navigation",
+                "point navigation",
+                "vision and language navigation",
+                "vision-language navigation",  # 常见变体
+                "vl navigation",               # 简写
+            ]
+            
+            # 先检查是否包含精确短语
+            match = any(phrase in title_lower for phrase in target_phrases)
+            
+            # 如果没有精确匹配，再看是否包含单独的 "navigation"
+            # 但排除像 "non-navigation" 这样的干扰（通常不会出现）
+            if not match:
+                if "navigation" in title_lower:
+                    match = True
+
+            if not match:
+                continue  # 跳过不符合标题要求的论文
+
+            # 去重
+            if paper.entry_id in seen_ids:
+                continue
+            seen_ids.add(paper.entry_id)
+
+            # 提取 GitHub 链接
+            github_url = extract_github_url(paper.summary) or extract_github_url(paper.pdf_url)
+
+            all_papers.append({
+                "id": paper.entry_id,
+                "title": paper.title,
+                "authors": [str(a).split()[-1] for a in paper.authors][:3],
+                "summary": paper.summary.replace("\n", " "),
+                "pdf_url": paper.pdf_url,
+                "github_url": github_url,
+                "published": paper.published.isoformat(),
+                "updated": paper.updated.isoformat()
+            })
+
+    except Exception as e:
+        print(f"⚠️ Error during fetching: {e}")
+
     return all_papers
 
 def generate_readme(papers):
