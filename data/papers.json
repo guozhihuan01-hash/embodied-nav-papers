@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2512.19021v1",
+    "title": "VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation",
+    "authors": [
+      "Lin",
+      "Li",
+      "Zhao"
+    ],
+    "summary": "Despite remarkable progress in Vision-Language Navigation (VLN), existing benchmarks remain confined to fixed, small-scale datasets with naive physical simulation. These shortcomings limit the insight that the benchmarks provide into sim-to-real generalization, and create a significant research gap. Furthermore, task fragmentation prevents unified/shared progress in the area, while limited data scales fail to meet the demands of modern LLM-based pretraining. To overcome these limitations, we introduce VLNVerse: a new large-scale, extensible benchmark designed for Versatile, Embodied, Realistic Simulation, and Evaluation. VLNVerse redefines VLN as a scalable, full-stack embodied AI problem. Its Versatile nature unifies previously fragmented tasks into a single framework and provides an extensible toolkit for researchers. Its Embodied design moves beyond intangible and teleporting \"ghost\" agents that support full-kinematics in a Realistic Simulation powered by a robust physics engine. We leverage the scale and diversity of VLNVerse to conduct a comprehensive Evaluation of existing methods, from classic models to MLLM-based agents. We also propose a novel unified multi-task model capable of addressing all tasks within the benchmark. VLNVerse aims to narrow the gap between simulated navigation and real-world generalization, providing the community with a vital tool to boost research towards scalable, general-purpose embodied locomotion agents.",
+    "pdf_url": "https://arxiv.org/pdf/2512.19021v1",
+    "github_url": null,
+    "published": "2025-12-22T04:27:26+00:00",
+    "updated": "2025-12-22T04:27:26+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.18028v1",
+    "title": "Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation",
+    "authors": [
+      "Sohn",
+      "Dillitzer",
+      "Corso"
+    ],
+    "summary": "Vision-language navigation requires agents to reason and act under constraints of embodiment. While vision-language models (VLMs) demonstrate strong generalization, current benchmarks provide limited understanding of how embodiment -- i.e., the choice of physical platform, sensor configuration, and modality alignment -- influences perception, reasoning, and control. We introduce Embodied4C, a closed-loop benchmark designed as a Turing test for embodied reasoning. The benchmark evaluates the core embodied capabilities of VLMs across three heterogeneous embodiments -- autonomous vehicles, aerial drones, and robotic manipulators -- through approximately 1.1K one-shot reasoning questions and 58 goal-directed navigation tasks. These tasks jointly assess four foundational dimensions: semantic, spatial, temporal, and physical reasoning. Each embodiment presents dynamic sensor configurations and environment variations to probe generalization beyond platform-specific adaptation. To prevent embodiment overfitting, Embodied4C integrates domain-far queries targeting abstract and cross-context reasoning. Comprehensive evaluation across ten state-of-the-art VLMs and four embodied control baselines shows that cross-modal alignment and instruction tuning matter more than scale, while spatial and temporal reasoning remains the primary bottleneck for reliable embodied competence.",
+    "pdf_url": "https://arxiv.org/pdf/2512.18028v1",
+    "github_url": null,
+    "published": "2025-12-19T19:47:55+00:00",
+    "updated": "2025-12-19T19:47:55+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2512.16909v1",
     "title": "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning",
     "authors": [

@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1694** | Last updated: **2025-12-22 08:37 UTC**
+> **Total papers: 1696** | Last updated: **2025-12-23 05:02 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation](https://arxiv.org/pdf/2512.19021v1) | Lin, Li, Zhao | — | 2025-12-22 |
+| [Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation](https://arxiv.org/pdf/2512.18028v1) | Sohn, Dillitzer, Corso | — | 2025-12-19 |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/pdf/2512.16909v1) | Ju, Liang, Wang | — | 2025-12-18 |
 | [CitySeeker: How Do VLMS Explore Embodied Urban Navigation With Implicit Human Needs?](https://arxiv.org/pdf/2512.16755v1) | Wang, Liang, Gao | — | 2025-12-18 |
 | [Algorithmic Monetary Policies for Blockchain Participation Games](https://arxiv.org/pdf/2512.16514v1) | Ferraioli, Penna, Schneider | — | 2025-12-18 |
@@ -803,8 +805,6 @@
 | [Optimal Control from a Fluid Dynamics Perspective](https://arxiv.org/pdf/2510.17929v1) | Pratt, Schneider, Perloff | — | 2025-10-20 |
 | [Navigate in Demanding Missions: Integrating Human Intelligence and Brain-Inspired Intelligence](https://arxiv.org/pdf/2510.17530v1) | He, Meng, Zhang | — | 2025-10-20 |
 | [HumanMPC - Safe and Efficient MAV Navigation among Humans](https://arxiv.org/pdf/2510.17525v1) | Schaefer, Oleynikova, Hirche | — | 2025-10-20 |
-| [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426v2) | Hu, Minixhofer, Collier | — | 2025-10-20 |
-| [SmartSustain Recommender System: Navigating Sustainability Trade-offs in Personalized City Trip Planning](https://arxiv.org/pdf/2510.17355v2) | Banerjee, Aksoy, Wörndl | — | 2025-10-20 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
