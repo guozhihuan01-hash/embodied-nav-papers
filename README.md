@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1696** | Last updated: **2025-12-24 05:01 UTC**
+> **Total papers: 1698** | Last updated: **2025-12-25 05:02 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/pdf/2512.21201v1) | He, Huang, Liu | — | 2025-12-24 |
+| [ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2512.20940v1) | Ye, Mao, Cui | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Cepillar/ETP-R1) | 2025-12-24 |
 | [VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation](https://arxiv.org/pdf/2512.19021v1) | Lin, Li, Zhao | — | 2025-12-22 |
 | [Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation](https://arxiv.org/pdf/2512.18028v1) | Sohn, Dillitzer, Corso | — | 2025-12-19 |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/pdf/2512.16909v1) | Ju, Liang, Wang | — | 2025-12-18 |
@@ -803,8 +805,6 @@
 | [Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm](https://arxiv.org/pdf/2510.17604v1) | Qiao, Wang, Yang | — | 2025-10-20 |
 | [An Empirical Study of Lagrangian Methods in Safe Reinforcement Learning](https://arxiv.org/pdf/2510.17564v1) | Spoor, Serra-Gómez, Plaat | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/lindsayspoor/Lagrangian_SafeRL) | 2025-10-20 |
 | [Optimal Control from a Fluid Dynamics Perspective](https://arxiv.org/pdf/2510.17929v1) | Pratt, Schneider, Perloff | — | 2025-10-20 |
-| [Navigate in Demanding Missions: Integrating Human Intelligence and Brain-Inspired Intelligence](https://arxiv.org/pdf/2510.17530v1) | He, Meng, Zhang | — | 2025-10-20 |
-| [HumanMPC - Safe and Efficient MAV Navigation among Humans](https://arxiv.org/pdf/2510.17525v1) | Schaefer, Oleynikova, Hirche | — | 2025-10-20 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
