@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1699** | Last updated: **2026-01-20 04:49 UTC**
+> **Total papers: 1701** | Last updated: **2026-01-21 04:48 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v1) | Zuo, Mu, Jiang | — | 2026-01-20 |
+| [AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation](https://arxiv.org/pdf/2601.12742v1) | Chen, Liu, Ma | — | 2026-01-19 |
 | [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/pdf/2601.09111v1) | Li, Wu, Zhang | — | 2026-01-14 |
 | [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/pdf/2512.21201v1) | He, Huang, Liu | — | 2025-12-24 |
 | [ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2512.20940v1) | Ye, Mao, Cui | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Cepillar/ETP-R1) | 2025-12-24 |
@@ -803,8 +805,6 @@
 | [Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models](https://arxiv.org/pdf/2510.18053v1) | Fan, Wei, Cheng | — | 2025-10-20 |
 | [Foundation Models for Discovery and Exploration in Chemical Space](https://arxiv.org/pdf/2510.18900v1) | Wadell, Bhutani, Azumah | — | 2025-10-20 |
 | [Active polymers translocate faster in confinement](https://arxiv.org/pdf/2510.17747v1) | Prathyusha, Sarkar, Xu | — | 2025-10-20 |
-| [Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm](https://arxiv.org/pdf/2510.17604v1) | Qiao, Wang, Yang | — | 2025-10-20 |
-| [An Empirical Study of Lagrangian Methods in Safe Reinforcement Learning](https://arxiv.org/pdf/2510.17564v1) | Spoor, Serra-Gómez, Plaat | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/lindsayspoor/Lagrangian_SafeRL) | 2025-10-20 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

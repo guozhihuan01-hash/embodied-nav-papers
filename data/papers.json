@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2601.13976v1",
+    "title": "FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation",
+    "authors": [
+      "Zuo",
+      "Mu",
+      "Jiang"
+    ],
+    "summary": "Achieving human-level performance in Vision-and-Language Navigation (VLN) requires an embodied agent to jointly understand multimodal instructions and visual-spatial context while reasoning over long action sequences. Recent works, such as NavCoT and NavGPT-2, demonstrate the potential of Chain-of-Thought (CoT) reasoning for improving interpretability and long-horizon planning. Moreover, multimodal extensions like OctoNav-R1 and CoT-VLA further validate CoT as a promising pathway toward human-like navigation reasoning. However, existing approaches face critical drawbacks: purely textual CoTs lack spatial grounding and easily overfit to sparse annotated reasoning steps, while multimodal CoTs incur severe token inflation by generating imagined visual observations, making real-time navigation impractical. In this work, we propose FantasyVLN, a unified implicit reasoning framework that preserves the benefits of CoT reasoning without explicit token overhead. Specifically, imagined visual tokens are encoded into a compact latent space using a pretrained Visual AutoRegressor (VAR) during CoT reasoning training, and the model jointly learns from textual, visual, and multimodal CoT modes under a unified multi-CoT strategy. At inference, our model performs direct instruction-to-action mapping while still enjoying reasoning-aware representations. Extensive experiments on LH-VLN show that our approach achieves reasoning-aware yet real-time navigation, improving success rates and efficiency while reducing inference latency by an order of magnitude compared to explicit CoT methods.",
+    "pdf_url": "https://arxiv.org/pdf/2601.13976v1",
+    "github_url": null,
+    "published": "2026-01-20T13:54:10+00:00",
+    "updated": "2026-01-20T13:54:10+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2601.12742v1",
+    "title": "AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation",
+    "authors": [
+      "Chen",
+      "Liu",
+      "Ma"
+    ],
+    "summary": "Recent advances in large Vision-Language Models (VLMs) have provided rich semantic understanding that empowers drones to search for open-set objects via natural language instructions. However, prior systems struggle to integrate VLMs into practical aerial systems due to orders-of-magnitude frequency mismatch between VLM inference and real-time planning, as well as VLMs' limited 3D scene understanding. They also lack a unified mechanism to balance semantic guidance with motion efficiency in large-scale environments. To address these challenges, we present AirHunt, an aerial object navigation system that efficiently locates open-set objects with zero-shot generalization in outdoor environments by seamlessly fusing VLM semantic reasoning with continuous path planning. AirHunt features a dual-pathway asynchronous architecture that establishes a synergistic interface between VLM reasoning and path planning, enabling continuous flight with adaptive semantic guidance that evolves through motion. Moreover, we propose an active dual-task reasoning module that exploits geometric and semantic redundancy to enable selective VLM querying, and a semantic-geometric coherent planning module that dynamically reconciles semantic priorities and motion efficiency in a unified framework, enabling seamless adaptation to environmental heterogeneity. We evaluate AirHunt across diverse object navigation tasks and environments, demonstrating a higher success rate with lower navigation error and reduced flight time compared to state-of-the-art methods. Real-world experiments further validate AirHunt's practical capability in complex and challenging environments. Code and dataset will be made publicly available before publication.",
+    "pdf_url": "https://arxiv.org/pdf/2601.12742v1",
+    "github_url": null,
+    "published": "2026-01-19T05:50:03+00:00",
+    "updated": "2026-01-19T05:50:03+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2601.09111v1",
     "title": "Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning",
     "authors": [
