@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1702** | Last updated: **2026-01-26 04:57 UTC**
+> **Total papers: 1703** | Last updated: **2026-01-27 04:50 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation](https://arxiv.org/pdf/2601.18188v1) | Zhu, Zhang, Wang | — | 2026-01-26 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v1) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v2) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation](https://arxiv.org/pdf/2601.12742v1) | Chen, Liu, Ma | — | 2026-01-19 |
@@ -804,7 +805,6 @@
 | [Enhancing Urban Data Exploration: Layer Toggling and Visibility-Preserving Lenses for Multi-Attribute Spatial Analysis](https://arxiv.org/pdf/2510.18185v1) | Salinas, Nonato, Fekete | — | 2025-10-21 |
 | [MOFM-Nav: On-Manifold Ordering-Flexible Multi-Robot Navigation](https://arxiv.org/pdf/2510.18063v1) | Hu, Yao, Cao | — | 2025-10-20 |
 | [Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models](https://arxiv.org/pdf/2510.18053v1) | Fan, Wei, Cheng | — | 2025-10-20 |
-| [Foundation Models for Discovery and Exploration in Chemical Space](https://arxiv.org/pdf/2510.18900v1) | Wadell, Bhutani, Azumah | — | 2025-10-20 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
