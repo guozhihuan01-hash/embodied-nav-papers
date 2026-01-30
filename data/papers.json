@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2601.21751v1",
+    "title": "Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation",
+    "authors": [
+      "Peng",
+      "Guo",
+      "Xu"
+    ],
+    "summary": "Vision-Language Navigation in Continuous Environments (VLN-CE) presents a core challenge: grounding high-level linguistic instructions into precise, safe, and long-horizon spatial actions. Explicit topological maps have proven to be a vital solution for providing robust spatial memory in such tasks. However, existing topological planning methods suffer from a \"Granularity Rigidity\" problem. Specifically, these methods typically rely on fixed geometric thresholds to sample nodes, which fails to adapt to varying environmental complexities. This rigidity leads to a critical mismatch: the model tends to over-sample in simple areas, causing computational redundancy, while under-sampling in high-uncertainty regions, increasing collision risks and compromising precision. To address this, we propose DGNav, a framework for Dynamic Topological Navigation, introducing a context-aware mechanism to modulate map density and connectivity on-the-fly. Our approach comprises two core innovations: (1) A Scene-Aware Adaptive Strategy that dynamically modulates graph construction thresholds based on the dispersion of predicted waypoints, enabling \"densification on demand\" in challenging environments; (2) A Dynamic Graph Transformer that reconstructs graph connectivity by fusing visual, linguistic, and geometric cues into dynamic edge weights, enabling the agent to filter out topological noise and enhancing instruction adherence. Extensive experiments on the R2R-CE and RxR-CE benchmarks demonstrate DGNav exhibits superior navigation performance and strong generalization capabilities. Furthermore, ablation studies confirm that our framework achieves an optimal trade-off between navigation efficiency and safe exploration. The code is available at https://github.com/shannanshouyin/DGNav.",
+    "pdf_url": "https://arxiv.org/pdf/2601.21751v1",
+    "github_url": "https://github.com/shannanshouyin/DGNav",
+    "published": "2026-01-29T14:06:23+00:00",
+    "updated": "2026-01-29T14:06:23+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2601.21409v1",
+    "title": "DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation",
+    "authors": [
+      "An",
+      "Liu",
+      "Xu"
+    ],
+    "summary": "Adaptive navigation in unfamiliar indoor environments is crucial for household service robots. Despite advances in zero-shot perception and reasoning from vision-language models, existing navigation systems still rely on single-pass scoring at the decision layer, leading to overconfident long-horizon errors and redundant exploration. To tackle these problems, we propose Dual-Stance Cooperative Debate Navigation (DSCD-Nav), a decision mechanism that replaces one-shot scoring with stance-based cross-checking and evidence-aware arbitration to improve action reliability under partial observability. Specifically, given the same observation and candidate action set, we explicitly construct two stances by conditioning the evaluation on diverse and complementary objectives: a Task-Scene Understanding (TSU) stance that prioritizes goal progress from scene-layout cues, and a Safety-Information Balancing (SIB) stance that emphasizes risk and information value. The stances conduct a cooperative debate and make policy by cross-checking their top candidates with cue-grounded arguments. Then, a Navigation Consensus Arbitration (NCA) agent is employed to consolidate both sides' reasons and evidence, optionally triggering lightweight micro-probing to verify uncertain choices, preserving NCA's primary intent while disambiguating. Experiments on HM3Dv1, HM3Dv2, and MP3D demonstrate consistent improvements in success and path efficiency while reducing exploration redundancy.",
+    "pdf_url": "https://arxiv.org/pdf/2601.21409v1",
+    "github_url": null,
+    "published": "2026-01-29T08:47:55+00:00",
+    "updated": "2026-01-29T08:47:55+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2601.18188v1",
     "title": "\\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation",
     "authors": [
