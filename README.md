@@ -1,12 +1,15 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1705** | Last updated: **2026-02-02 05:25 UTC**
+> **Total papers: 1708** | Last updated: **2026-02-03 05:16 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/pdf/2602.00708v1) | Gai, Gao, Zhou | — | 2026-01-31 |
+| [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/pdf/2602.00222v1) | Lian, Wang, Wang | — | 2026-01-30 |
 | [Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation](https://arxiv.org/pdf/2601.21751v1) | Peng, Guo, Xu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/shannanshouyin/DGNav) | 2026-01-29 |
 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v1) | An, Liu, Xu | — | 2026-01-29 |
+| [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v2) | An, Liu, Xu | — | 2026-01-29 |
 | [\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation](https://arxiv.org/pdf/2601.18188v1) | Zhu, Zhang, Wang | — | 2026-01-26 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v1) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v2) | Zuo, Mu, Jiang | — | 2026-01-20 |
@@ -802,9 +805,6 @@
 | [OmniNWM: Omniscient Driving Navigation World Models](https://arxiv.org/pdf/2510.18313v4) | Li, Ma, Du | — | 2025-10-21 |
 | [Reimagining Disassembly Interfaces with Visualization: Combining Instruction Tracing and Control Flow with DisViz](https://arxiv.org/pdf/2510.18311v1) | Hye, LeGendre, Isaacs | — | 2025-10-21 |
 | [Relief or displacement? How teachers are negotiating generative AI's role in their professional practice](https://arxiv.org/pdf/2510.18296v1) | Dangol, Kotiyal, Wolfe | — | 2025-10-21 |
-| [EdgeReasoning: Characterizing Reasoning LLM Deployment on Edge GPUs](https://arxiv.org/pdf/2511.01866v1) | Kubwimana, Huang | — | 2025-10-21 |
-| [Distributed Stochastic Search for Multi-Agent Model Predictive Control](https://arxiv.org/pdf/2510.18211v1) | Yoon, Saravanos, Theodorou | — | 2025-10-21 |
-| [Enhancing Urban Data Exploration: Layer Toggling and Visibility-Preserving Lenses for Multi-Attribute Spatial Analysis](https://arxiv.org/pdf/2510.18185v1) | Salinas, Nonato, Fekete | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

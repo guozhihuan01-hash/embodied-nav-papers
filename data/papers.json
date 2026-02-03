@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.00708v1",
+    "title": "USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation",
+    "authors": [
+      "Gai",
+      "Gao",
+      "Zhou"
+    ],
+    "summary": "Zero-Shot Object Navigation in unknown environments poses significant challenges for Unmanned Aerial Vehicles (UAVs) due to the conflict between high-level semantic reasoning requirements and limited onboard computational resources. To address this, we present USS-Nav, a lightweight framework that incrementally constructs a Unified Spatio-Semantic scene graph and enables efficient Large Language Model (LLM)-augmented Zero-Shot Object Navigation in unknown environments. Specifically, we introduce an incremental Spatial Connectivity Graph generation method utilizing polyhedral expansion to capture global geometric topology, which is dynamically partitioned into semantic regions via graph clustering. Concurrently, open-vocabulary object semantics are instantiated and anchored to this topology to form a hierarchical environmental representation. Leveraging this hierarchical structure, we present a coarse-to-fine exploration strategy: LLM grounded in the scene graph's semantics to determine global target regions, while a local planner optimizes frontier coverage based on information gain. Experimental results demonstrate that our framework outperforms state-of-the-art methods in terms of computational efficiency and real-time update frequency (15 Hz) on a resource-constrained platform. Furthermore, ablation studies confirm the effectiveness of our framework, showing substantial improvements in Success weighted by Path Length (SPL). The source code will be made publicly available to foster further research.",
+    "pdf_url": "https://arxiv.org/pdf/2602.00708v1",
+    "github_url": null,
+    "published": "2026-01-31T13:10:02+00:00",
+    "updated": "2026-01-31T13:10:02+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2602.00222v1",
+    "title": "MapDream: Task-Driven Map Learning for Vision-Language Navigation",
+    "authors": [
+      "Lian",
+      "Wang",
+      "Wang"
+    ],
+    "summary": "Vision-Language Navigation (VLN) requires agents to follow natural language instructions in partially observed 3D environments, motivating map representations that aggregate spatial context beyond local perception. However, most existing approaches rely on hand-crafted maps constructed independently of the navigation policy. We argue that maps should instead be learned representations shaped directly by navigation objectives rather than exhaustive reconstructions. Based on this insight, we propose MapDream, a map-in-the-loop framework that formulates map construction as autoregressive bird's-eye-view (BEV) image synthesis. The framework jointly learns map generation and action prediction, distilling environmental context into a compact three-channel BEV map that preserves only navigation-critical affordances. Supervised pre-training bootstraps a reliable mapping-to-control interface, while the autoregressive design enables end-to-end joint optimization through reinforcement fine-tuning. Experiments on R2R-CE and RxR-CE achieve state-of-the-art monocular performance, validating task-driven generative map learning.",
+    "pdf_url": "https://arxiv.org/pdf/2602.00222v1",
+    "github_url": null,
+    "published": "2026-01-30T17:33:16+00:00",
+    "updated": "2026-01-30T17:33:16+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2601.21751v1",
     "title": "Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation",
     "authors": [
@@ -26,6 +54,20 @@
     "github_url": null,
     "published": "2026-01-29T08:47:55+00:00",
     "updated": "2026-01-29T08:47:55+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2601.21409v2",
+    "title": "DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation",
+    "authors": [
+      "An",
+      "Liu",
+      "Xu"
+    ],
+    "summary": "Adaptive navigation in unfamiliar indoor environments is crucial for household service robots. Despite advances in zero-shot perception and reasoning from vision-language models, existing navigation systems still rely on single-pass scoring at the decision layer, leading to overconfident long-horizon errors and redundant exploration. To tackle these problems, we propose Dual-Stance Cooperative Debate Navigation (DSCD-Nav), a decision mechanism that replaces one-shot scoring with stance-based cross-checking and evidence-aware arbitration to improve action reliability under partial observability. Specifically, given the same observation and candidate action set, we explicitly construct two stances by conditioning the evaluation on diverse and complementary objectives: a Task-Scene Understanding (TSU) stance that prioritizes goal progress from scene-layout cues, and a Safety-Information Balancing (SIB) stance that emphasizes risk and information value. The stances conduct a cooperative debate and make policy by cross-checking their top candidates with cue-grounded arguments. Then, a Navigation Consensus Arbitration (NCA) agent is employed to consolidate both sides' reasons and evidence, optionally triggering lightweight micro-probing to verify uncertain choices, preserving NCA's primary intent while disambiguating. Experiments on HM3Dv1, HM3Dv2, and MP3D demonstrate consistent improvements in success and path efficiency while reducing exploration redundancy.",
+    "pdf_url": "https://arxiv.org/pdf/2601.21409v2",
+    "github_url": null,
+    "published": "2026-01-29T08:47:55+00:00",
+    "updated": "2026-01-31T05:43:40+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2601.18188v1",
