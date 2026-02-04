@@ -1,12 +1,14 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1708** | Last updated: **2026-02-03 05:16 UTC**
+> **Total papers: 1710** | Last updated: **2026-02-04 05:10 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
 | [USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/pdf/2602.00708v1) | Gai, Gao, Zhou | — | 2026-01-31 |
+| [USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/pdf/2602.00708v2) | Gai, Gao, Zhou | — | 2026-01-31 |
 | [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/pdf/2602.00222v1) | Lian, Wang, Wang | — | 2026-01-30 |
+| [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/pdf/2602.00222v2) | Lian, Wang, Wang | — | 2026-01-30 |
 | [Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation](https://arxiv.org/pdf/2601.21751v1) | Peng, Guo, Xu | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/shannanshouyin/DGNav) | 2026-01-29 |
 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v1) | An, Liu, Xu | — | 2026-01-29 |
 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v2) | An, Liu, Xu | — | 2026-01-29 |
@@ -803,8 +805,6 @@
 | [Evaluating LLM-Based Mobile App Recommendations: An Empirical Study](https://arxiv.org/pdf/2510.18364v1) | Motger, Franch, Gervasi | — | 2025-10-21 |
 | [MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation](https://arxiv.org/pdf/2510.18316v1) | Li, Xu, Bahety | — | 2025-10-21 |
 | [OmniNWM: Omniscient Driving Navigation World Models](https://arxiv.org/pdf/2510.18313v4) | Li, Ma, Du | — | 2025-10-21 |
-| [Reimagining Disassembly Interfaces with Visualization: Combining Instruction Tracing and Control Flow with DisViz](https://arxiv.org/pdf/2510.18311v1) | Hye, LeGendre, Isaacs | — | 2025-10-21 |
-| [Relief or displacement? How teachers are negotiating generative AI's role in their professional practice](https://arxiv.org/pdf/2510.18296v1) | Dangol, Kotiyal, Wolfe | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
