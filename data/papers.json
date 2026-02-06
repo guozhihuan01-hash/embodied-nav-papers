@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.05827v1",
+    "title": "Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation",
+    "authors": [
+      "Zhang",
+      "Liang",
+      "Chen"
+    ],
+    "summary": "Why must vision-language navigation be bound to detailed and verbose language instructions? While such details ease decision-making, they fundamentally contradict the goal for navigation in the real-world. Ideally, agents should possess the autonomy to navigate in unknown environments guided solely by simple and high-level intents. Realizing this ambition introduces a formidable challenge: Beyond-the-View Navigation (BVN), where agents must locate distant, unseen targets without dense and step-by-step guidance. Existing large language model (LLM)-based methods, though adept at following dense instructions, often suffer from short-sighted behaviors due to their reliance on short-horimzon supervision. Simply extending the supervision horizon, however, destabilizes LLM training. In this work, we identify that video generation models inherently benefit from long-horizon supervision to align with language instructions, rendering them uniquely suitable for BVN tasks. Capitalizing on this insight, we propose introducing the video generation model into this field for the first time. Yet, the prohibitive latency for generating videos spanning tens of seconds makes real-world deployment impractical. To bridge this gap, we propose SparseVideoNav, achieving sub-second trajectory inference guided by a generated sparse future spanning a 20-second horizon. This yields a remarkable 27x speed-up compared to the unoptimized counterpart. Extensive real-world zero-shot experiments demonstrate that SparseVideoNav achieves 2.5x the success rate of state-of-the-art LLM baselines on BVN tasks and marks the first realization of such capability in challenging night scenes.",
+    "pdf_url": "https://arxiv.org/pdf/2602.05827v1",
+    "github_url": null,
+    "published": "2026-02-05T16:16:13+00:00",
+    "updated": "2026-02-05T16:16:13+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.00708v1",
     "title": "USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation",
     "authors": [

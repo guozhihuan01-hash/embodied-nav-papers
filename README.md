@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1710** | Last updated: **2026-02-05 05:18 UTC**
+> **Total papers: 1711** | Last updated: **2026-02-06 05:16 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](https://arxiv.org/pdf/2602.05827v1) | Zhang, Liang, Chen | — | 2026-02-05 |
 | [USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/pdf/2602.00708v1) | Gai, Gao, Zhou | — | 2026-01-31 |
 | [USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/pdf/2602.00708v2) | Gai, Gao, Zhou | — | 2026-01-31 |
 | [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/pdf/2602.00222v1) | Lian, Wang, Wang | — | 2026-01-30 |
@@ -804,7 +805,6 @@
 | [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/pdf/2510.21809v1) | Kondoh, Kanezaki | — | 2025-10-21 |
 | [Evaluating LLM-Based Mobile App Recommendations: An Empirical Study](https://arxiv.org/pdf/2510.18364v1) | Motger, Franch, Gervasi | — | 2025-10-21 |
 | [MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation](https://arxiv.org/pdf/2510.18316v1) | Li, Xu, Bahety | — | 2025-10-21 |
-| [OmniNWM: Omniscient Driving Navigation World Models](https://arxiv.org/pdf/2510.18313v4) | Li, Ma, Du | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
