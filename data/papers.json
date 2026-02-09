@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.06459v1",
+    "title": "User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search",
+    "authors": [
+      "Wang",
+      "Zhu",
+      "Dong"
+    ],
+    "summary": "In the evolving field of robotics, the challenge of Object Navigation (ON) in household environments has attracted significant interest. Existing ON benchmarks typically place objects in locations guided by general scene priors, without accounting for the specific placement habits of individual users. This omission limits the adaptability of navigation agents in personalized household environments. To address this, we introduce User-centric Object Navigation (UcON), a new benchmark that incorporates user-specific object placement habits, referred to as user habits. This benchmark requires agents to leverage these user habits for more informed decision-making during navigation. UcON encompasses approximately 22,600 user habits across 489 object categories. UcON is, to our knowledge, the first benchmark that explicitly formalizes and evaluates habit-conditioned object navigation at scale and covers the widest range of target object categories. Additionally, we propose a habit retrieval module to extract and utilize habits related to target objects, enabling agents to infer their likely locations more effectively. Experimental results demonstrate that current SOTA methods exhibit substantial performance degradation under habit-driven object placement, while integrating user habits consistently improves success rates. Code is available at https://github.com/whcpumpkin/User-Centric-Object-Navigation.",
+    "pdf_url": "https://arxiv.org/pdf/2602.06459v1",
+    "github_url": "https://github.com/whcpumpkin/User-Centric-Object-Navigation",
+    "published": "2026-02-06T07:43:05+00:00",
+    "updated": "2026-02-06T07:43:05+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2602.06356v1",
+    "title": "Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation",
+    "authors": [
+      "He",
+      "Liu",
+      "Xu"
+    ],
+    "summary": "Vision-Language Navigation (VLN) requires embodied agents to interpret natural language instructions and navigate through complex continuous 3D environments. However, the dominant imitation learning paradigm suffers from exposure bias, where minor deviations during inference lead to compounding errors. While DAgger-style approaches attempt to mitigate this by correcting error states, we identify a critical limitation: Instruction-State Misalignment. Forcing an agent to learn recovery actions from off-track states often creates supervision signals that semantically conflict with the original instruction. In response to these challenges, we introduce BudVLN, an online framework that learns from on-policy rollouts by constructing supervision to match the current state distribution. BudVLN performs retrospective rectification via counterfactual re-anchoring and decision-conditioned supervision synthesis, using a geodesic oracle to synthesize corrective trajectories that originate from valid historical states, ensuring semantic consistency. Experiments on the standard R2R-CE and RxR-CE benchmarks demonstrate that BudVLN consistently mitigates distribution shift and achieves state-of-the-art performance in both Success Rate and SPL.",
+    "pdf_url": "https://arxiv.org/pdf/2602.06356v1",
+    "github_url": null,
+    "published": "2026-02-06T03:36:27+00:00",
+    "updated": "2026-02-06T03:36:27+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.05827v1",
     "title": "Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation",
     "authors": [
