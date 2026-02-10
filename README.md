@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1713** | Last updated: **2026-02-09 05:38 UTC**
+> **Total papers: 1715** | Last updated: **2026-02-10 05:39 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v1) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
+| [VISOR: VIsual Spatial Object Reasoning for Language-driven Object Navigation](https://arxiv.org/pdf/2602.07555v1) | Taioli, Yang, Raychaudhuri | — | 2026-02-07 |
 | [User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search](https://arxiv.org/pdf/2602.06459v1) | Wang, Zhu, Dong | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/whcpumpkin/User-Centric-Object-Navigation) | 2026-02-06 |
 | [Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation](https://arxiv.org/pdf/2602.06356v1) | He, Liu, Xu | — | 2026-02-06 |
 | [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](https://arxiv.org/pdf/2602.05827v1) | Zhang, Liang, Chen | — | 2026-02-05 |
@@ -803,8 +805,6 @@
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/pdf/2510.18546v2) | Yang, Zheng, Xie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PKU-SEC-Lab/EfficientNav) | 2025-10-21 |
 | [SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/pdf/2510.18544v3) | Chow | — | 2025-10-21 |
 | [Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning](https://arxiv.org/pdf/2510.18485v1) | Bethell, Gerasimou, Calinescu | — | 2025-10-21 |
-| [Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection](https://arxiv.org/pdf/2510.18437v1) | Du, Wang, Hao | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/xiaohainku/RISE) | 2025-10-21 |
-| [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/pdf/2510.21809v1) | Kondoh, Kanezaki | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

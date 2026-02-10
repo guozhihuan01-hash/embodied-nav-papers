@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.07629v1",
+    "title": "LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation",
+    "authors": [
+      "Subedi",
+      "Haroon",
+      "Tetteh"
+    ],
+    "summary": "We propose LCLA (Language-Conditioned Latent Alignment), a framework for vision-language navigation that learns modular perception-action interfaces by aligning sensory observations to a latent representation of an expert policy. The expert is first trained with privileged state information, inducing a latent space sufficient for control, after which its latent interface and action head are frozen. A lightweight adapter is then trained to map raw visual-language observations, via a frozen vision-language model, into the expert's latent space, reducing the problem of visuomotor learning to supervised latent alignment rather than end-to-end policy optimization. This decoupling enforces a stable contract between perception and control, enabling expert behavior to be reused across sensing modalities and environmental variations. We instantiate LCLA and evaluate it on a vision-language indoor navigation task, where aligned latent spaces yield strong in-distribution performance and robust zero-shot generalization to unseen environments, lighting conditions, and viewpoints while remaining lightweight at inference time.",
+    "pdf_url": "https://arxiv.org/pdf/2602.07629v1",
+    "github_url": null,
+    "published": "2026-02-07T17:20:43+00:00",
+    "updated": "2026-02-07T17:20:43+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2602.07555v1",
+    "title": "VISOR: VIsual Spatial Object Reasoning for Language-driven Object Navigation",
+    "authors": [
+      "Taioli",
+      "Yang",
+      "Raychaudhuri"
+    ],
+    "summary": "Language-driven object navigation requires agents to interpret natural language descriptions of target objects, which combine intrinsic and extrinsic attributes for instance recognition and commonsense navigation. Existing methods either (i) use end-to-end trained models with vision-language embeddings, which struggle to generalize beyond training data and lack action-level explainability, or (ii) rely on modular zero-shot pipelines with large language models (LLMs) and open-set object detectors, which suffer from error propagation, high computational cost, and difficulty integrating their reasoning back into the navigation policy. To this end, we propose a compact 3B-parameter Vision-Language-Action (VLA) agent that performs human-like embodied reasoning for both object recognition and action selection, removing the need for stitched multi-model pipelines. Instead of raw embedding matching, our agent employs explicit image-grounded reasoning to directly answer \"Is this the target object?\" and \"Why should I take this action?\" The reasoning process unfolds in three stages: \"think\", \"think summary\", and \"action\", yielding improved explainability, stronger generalization, and more efficient navigation. Code and dataset available upon acceptance.",
+    "pdf_url": "https://arxiv.org/pdf/2602.07555v1",
+    "github_url": null,
+    "published": "2026-02-07T14:01:29+00:00",
+    "updated": "2026-02-07T14:01:29+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.06459v1",
     "title": "User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search",
     "authors": [
