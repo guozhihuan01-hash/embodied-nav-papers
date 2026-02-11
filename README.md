@@ -1,11 +1,13 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1715** | Last updated: **2026-02-10 05:39 UTC**
+> **Total papers: 1717** | Last updated: **2026-02-11 05:28 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning](https://arxiv.org/pdf/2602.09972v1) | Wang, Fang, Wang | — | 2026-02-10 |
 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v1) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
+| [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v2) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
 | [VISOR: VIsual Spatial Object Reasoning for Language-driven Object Navigation](https://arxiv.org/pdf/2602.07555v1) | Taioli, Yang, Raychaudhuri | — | 2026-02-07 |
 | [User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search](https://arxiv.org/pdf/2602.06459v1) | Wang, Zhu, Dong | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/whcpumpkin/User-Centric-Object-Navigation) | 2026-02-06 |
 | [Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation](https://arxiv.org/pdf/2602.06356v1) | He, Liu, Xu | — | 2026-02-06 |
@@ -803,8 +805,6 @@
 | [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/pdf/2510.18931v1) | Andrews, Kanubala, Aruleba | — | 2025-10-21 |
 | [Optimal quantum learning in proximity to universality](https://arxiv.org/pdf/2510.18623v2) | Ivaki, Karjula, Ala-Nissila | — | 2025-10-21 |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/pdf/2510.18546v2) | Yang, Zheng, Xie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PKU-SEC-Lab/EfficientNav) | 2025-10-21 |
-| [SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/pdf/2510.18544v3) | Chow | — | 2025-10-21 |
-| [Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning](https://arxiv.org/pdf/2510.18485v1) | Bethell, Gerasimou, Calinescu | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
