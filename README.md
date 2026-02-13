@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1717** | Last updated: **2026-02-12 05:25 UTC**
+> **Total papers: 1718** | Last updated: **2026-02-13 05:22 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/pdf/2602.12159v1) | Zheng, Chen, Lu | — | 2026-02-12 |
 | [Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning](https://arxiv.org/pdf/2602.09972v1) | Wang, Fang, Wang | — | 2026-02-10 |
 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v1) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v2) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
@@ -804,7 +805,6 @@
 | [Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](https://arxiv.org/pdf/2510.18678v1) | Sanchez-Delgado, Soares, Tawil | — | 2025-10-21 |
 | [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/pdf/2510.18931v1) | Andrews, Kanubala, Aruleba | — | 2025-10-21 |
 | [Optimal quantum learning in proximity to universality](https://arxiv.org/pdf/2510.18623v2) | Ivaki, Karjula, Ala-Nissila | — | 2025-10-21 |
-| [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/pdf/2510.18546v2) | Yang, Zheng, Xie | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/PKU-SEC-Lab/EfficientNav) | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
