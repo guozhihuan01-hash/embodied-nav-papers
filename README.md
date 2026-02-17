@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1718** | Last updated: **2026-02-16 05:28 UTC**
+> **Total papers: 1719** | Last updated: **2026-02-17 05:22 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI](https://arxiv.org/pdf/2602.14401v1) | Yang, Wang, Zhang | — | 2026-02-16 |
 | [3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/pdf/2602.12159v1) | Zheng, Chen, Lu | — | 2026-02-12 |
 | [Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning](https://arxiv.org/pdf/2602.09972v1) | Wang, Fang, Wang | — | 2026-02-10 |
 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/pdf/2602.07629v1) | Subedi, Haroon, Tetteh | — | 2026-02-07 |
@@ -804,7 +805,6 @@
 | [SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar](https://arxiv.org/pdf/2510.18996v1) | Vadakkekuruppath, Amundsen, O'Kane | — | 2025-10-21 |
 | [Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](https://arxiv.org/pdf/2510.18678v1) | Sanchez-Delgado, Soares, Tawil | — | 2025-10-21 |
 | [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/pdf/2510.18931v1) | Andrews, Kanubala, Aruleba | — | 2025-10-21 |
-| [Optimal quantum learning in proximity to universality](https://arxiv.org/pdf/2510.18623v2) | Ivaki, Karjula, Ala-Nissila | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

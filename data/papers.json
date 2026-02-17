@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.14401v1",
+    "title": "pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI",
+    "authors": [
+      "Yang",
+      "Wang",
+      "Zhang"
+    ],
+    "summary": "Vision-Language Navigation VLN requires large-scale trajectory instruction data from private indoor environments, raising significant privacy concerns. Federated Learning FL mitigates this by keeping data on-device, but vanilla FL struggles under VLNs' extreme cross-client heterogeneity in environments and instruction styles, making a single global model suboptimal. This paper proposes pFedNavi, a structure-aware and dynamically adaptive personalized federated learning framework tailored for VLN. Our key idea is to personalize where it matters: pFedNavi adaptively identifies client-specific layers via layer-wise mixing coefficients, and performs fine-grained parameter fusion on the selected components (e.g., the encoder-decoder projection and environment-sensitive decoder layers) to balance global knowledge sharing with local specialization. We evaluate pFedNavi on two standard VLN benchmarks, R2R and RxR, using both ResNet and CLIP visual representations. Across all metrics, pFedNavi consistently outperforms the FedAvg-based VLN baseline, achieving up to 7.5% improvement in navigation success rate and up to 7.8% gain in trajectory fidelity, while converging 1.38x faster under non-IID conditions.",
+    "pdf_url": "https://arxiv.org/pdf/2602.14401v1",
+    "github_url": null,
+    "published": "2026-02-16T02:18:09+00:00",
+    "updated": "2026-02-16T02:18:09+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.12159v1",
     "title": "3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting",
     "authors": [
