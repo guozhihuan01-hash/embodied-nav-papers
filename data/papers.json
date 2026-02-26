@@ -1803,6 +1803,20 @@
     "updated": "2025-12-09T14:25:24+00:00"
   },
   {
+    "id": "http://arxiv.org/abs/2512.08639v2",
+    "title": "Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning",
+    "authors": [
+      "Xu",
+      "Liu",
+      "Luomei"
+    ],
+    "summary": "Aerial Vision-and-Language Navigation (VLN) aims to enable unmanned aerial vehicles (UAVs) to interpret natural language instructions and navigate complex urban environments using onboard visual observation. This task holds promise for real-world applications such as low-altitude inspection, search-and-rescue, and autonomous aerial delivery. Existing methods often rely on panoramic images, depth inputs, or odometry to support spatial reasoning and action planning. These requirements increase system cost and integration complexity, thus hindering practical deployment for lightweight UAVs. We present a unified aerial VLN framework that operates solely on egocentric monocular RGB observations and natural language instructions. The model formulates navigation as a next-token prediction problem, jointly optimizing spatial perception, trajectory reasoning, and action prediction through prompt-guided multi-task learning. Moreover, we propose a keyframe selection strategy to reduce visual redundancy by retaining semantically informative frames, along with an action merging and label reweighting mechanism that mitigates long-tailed supervision imbalance and facilitates stable multi-task co-training. Extensive experiments on the AerialVLN and OpenFly benchmark validate the effectiveness of our method. Under the challenging monocular RGB-only setting, our model achieves strong results across both seen and unseen environments. It significantly outperforms existing RGB-only baselines and narrows the performance gap with state-of-the-art panoramic RGB-D counterparts. Comprehensive ablation studies further demonstrate the contribution of our task design and architectural choices.",
+    "pdf_url": "https://arxiv.org/pdf/2512.08639v2",
+    "github_url": null,
+    "published": "2025-12-09T14:25:24+00:00",
+    "updated": "2026-02-25T09:25:38+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2512.08626v1",
     "title": "Inferring Causal Relationships to Improve Caching for Clients with Correlated Requests: Applications to VR",
     "authors": [
@@ -14753,6 +14767,20 @@
     "github_url": null,
     "published": "2025-09-26T16:29:37+00:00",
     "updated": "2025-09-26T16:29:37+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2509.22548v2",
+    "title": "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation",
+    "authors": [
+      "Zeng",
+      "Qi",
+      "Chang"
+    ],
+    "summary": "Vision-and-Language Navigation requires an embodied agent to navigate through unseen environments, guided by natural language instructions and a continuous video stream. Recent advances in VLN have been driven by the powerful semantic understanding of Multimodal Large Language Models. However, these methods typically rely on explicit semantic memory, such as building textual cognitive maps or storing historical visual frames. This type of method suffers from spatial information loss, computational redundancy, and memory bloat, which impede efficient navigation. Inspired by the implicit scene representation in human navigation, analogous to the left brain's semantic understanding and the right brain's spatial cognition, we propose JanusVLN, a novel VLN framework featuring a dual implicit neural memory that models spatial-geometric and visual-semantic memory as separate, compact, and fixed-size neural representations. This framework first extends the MLLM to incorporate 3D prior knowledge from the spatial-geometric encoder, thereby enhancing the spatial reasoning capabilities of models based solely on RGB input. Then, the historical key-value caches from the spatial-geometric and visual-semantic encoders are constructed into a dual implicit memory. By retaining only the KVs of tokens in the initial and sliding window, redundant computation is avoided, enabling efficient incremental updates. Extensive experiments demonstrate that JanusVLN outperforms over 20 recent methods to achieve SOTA performance. For example, the success rate improves by 10.5-35.5 compared to methods using multiple data types as input and by 3.6-10.8 compared to methods using more RGB training data. This indicates that the proposed dual implicit neural memory, as a novel paradigm, explores promising new directions for future VLN research. Ours project page: https://miv-xjtu.github.io/JanusVLN.github.io/.",
+    "pdf_url": "https://arxiv.org/pdf/2509.22548v2",
+    "github_url": null,
+    "published": "2025-09-26T16:29:37+00:00",
+    "updated": "2026-02-25T06:06:37+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2509.22441v1",

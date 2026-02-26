@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1721** | Last updated: **2026-02-25 05:24 UTC**
+> **Total papers: 1723** | Last updated: **2026-02-26 05:21 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -135,6 +135,7 @@
 | [Optimal navigation in two-dimensional regular and turbulent flows](https://arxiv.org/pdf/2512.08766v1) | Parfenyev | — | 2025-12-09 |
 | [Non Normalized Shared-Constraint Dynamic Games for Human-Robot Collaboration with Asymmetric Responsibility](https://arxiv.org/pdf/2512.08688v1) | Pustilnik, Borrelli | — | 2025-12-09 |
 | [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v1) | Xu, Liu, Luomei | — | 2025-12-09 |
+| [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v2) | Xu, Liu, Luomei | — | 2025-12-09 |
 | [Inferring Causal Relationships to Improve Caching for Clients with Correlated Requests: Applications to VR](https://arxiv.org/pdf/2512.08626v1) | Bari, Veciana, Zhou | — | 2025-12-09 |
 | [NLoS Localization with Single Base Station Based on Radio Map](https://arxiv.org/pdf/2512.08608v1) | Xu, Guo, Wang | — | 2025-12-09 |
 | [RVC-NMPC: Nonlinear Model Predictive Control with Reciprocal Velocity Constraints for Mutual Collision Avoidance in Agile UAV Flight](https://arxiv.org/pdf/2512.08574v1) | Kratky, Penicka, Gupta | — | 2025-12-09 |
@@ -804,7 +805,6 @@
 | [Motion Planning and Control of an Overactuated 4-Wheel Drive with Constrained Independent Steering](https://arxiv.org/pdf/2510.19054v1) | Liu, Hadzic, Gupta | — | 2025-10-21 |
 | [SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar](https://arxiv.org/pdf/2510.18996v1) | Vadakkekuruppath, Amundsen, O'Kane | — | 2025-10-21 |
 | [Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](https://arxiv.org/pdf/2510.18678v1) | Sanchez-Delgado, Soares, Tawil | — | 2025-10-21 |
-| [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/pdf/2510.18931v1) | Andrews, Kanubala, Aruleba | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
