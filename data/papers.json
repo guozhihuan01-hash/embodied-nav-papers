@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2602.23937v1",
+    "title": "Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos",
+    "authors": [
+      "Xu",
+      "Li",
+      "Chen"
+    ],
+    "summary": "Vision-Language Navigation (VLN) agents often struggle with long-horizon reasoning in unseen environments, particularly when facing ambiguous, coarse-grained instructions. While recent advances use knowledge graph to enhance reasoning, the potential of multimodal event knowledge inspired by human episodic memory remains underexplored. In this work, we propose an event-centric knowledge enhancement strategy for automated process knowledge mining and feature fusion to solve coarse-grained instruction and long-horizon reasoning in VLN task. First, we construct YE-KG, the first large-scale multimodal spatiotemporal knowledge graph, with over 86k nodes and 83k edges, derived from real-world indoor videos. By leveraging multimodal large language models (i.e., LLaVa, GPT4), we extract unstructured video streams into structured semantic-action-effect events to serve as explicit episodic memory. Second, we introduce STE-VLN, which integrates the above graph into VLN models via a Coarse-to-Fine Hierarchical Retrieval mechanism. This allows agents to retrieve causal event sequences and dynamically fuse them with egocentric visual observations. Experiments on REVERIE, R2R, and R2R-CE benchmarks demonstrate the efficiency of our event-centric strategy, outperforming state-of-the-art approaches across diverse action spaces. Our data and code are available on the project website https://sites.google.com/view/y-event-kg/.",
+    "pdf_url": "https://arxiv.org/pdf/2602.23937v1",
+    "github_url": null,
+    "published": "2026-02-27T11:38:06+00:00",
+    "updated": "2026-02-27T11:38:06+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.14401v1",
     "title": "pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI",
     "authors": [

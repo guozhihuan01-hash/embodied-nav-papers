@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1723** | Last updated: **2026-03-01 05:18 UTC**
+> **Total papers: 1724** | Last updated: **2026-03-02 05:16 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos](https://arxiv.org/pdf/2602.23937v1) | Xu, Li, Chen | — | 2026-02-27 |
 | [pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI](https://arxiv.org/pdf/2602.14401v1) | Yang, Wang, Zhang | — | 2026-02-16 |
 | [3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/pdf/2602.12159v1) | Zheng, Chen, Lu | — | 2026-02-12 |
 | [Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning](https://arxiv.org/pdf/2602.09972v1) | Wang, Fang, Wang | — | 2026-02-10 |
@@ -804,7 +805,6 @@
 | [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101v1) | Jiang, Liu, Qian | — | 2025-10-21 |
 | [Motion Planning and Control of an Overactuated 4-Wheel Drive with Constrained Independent Steering](https://arxiv.org/pdf/2510.19054v1) | Liu, Hadzic, Gupta | — | 2025-10-21 |
 | [SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar](https://arxiv.org/pdf/2510.18996v1) | Vadakkekuruppath, Amundsen, O'Kane | — | 2025-10-21 |
-| [Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](https://arxiv.org/pdf/2510.18678v1) | Sanchez-Delgado, Soares, Tawil | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
