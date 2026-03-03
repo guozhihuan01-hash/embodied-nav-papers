@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.01813v1",
+    "title": "SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph",
+    "authors": [
+      "Niu",
+      "Zhang",
+      "Ji"
+    ],
+    "summary": "Navigating to out-of-sight targets from human instructions in unfamiliar environments is a core capability for service robots. Despite substantial progress, most approaches underutilize reusable, persistent memory, constraining performance in lifelong settings. Many are additionally limited to single-modality inputs and employ myopic greedy policies, which often induce inefficient back-and-forth maneuvers (BFMs). To address such limitations, we introduce SSMG-Nav, a framework for object navigation built on a \\textit{Semantic Skeleton Memory Graph} (SSMG) that consolidates past observations into a spatially aligned, persistent memory anchored by topological keypoints (e.g., junctions, room centers). SSMG clusters nearby entities into subgraphs, unifying entity- and space-level semantics to yield a compact set of candidate destinations. To support multimodal targets (images, objects, and text), we integrate a vision-language model (VLM). For each subgraph, a multimodal prompt synthesized from memory guides the VLM to infer a target belief over destinations. A long-horizon planner then trades off this belief against traversability costs to produce a visit sequence that minimizes expected path length, thereby reducing backtracking. Extensive experiments on challenging lifelong benchmarks and standard ObjectNav benchmarks demonstrate that, compared to strong baselines, our method achieves higher success rates and greater path efficiency, validating the effectiveness of SSMG-Nav.",
+    "pdf_url": "https://arxiv.org/pdf/2603.01813v1",
+    "github_url": null,
+    "published": "2026-03-02T12:48:00+00:00",
+    "updated": "2026-03-02T12:48:00+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2602.23937v1",
     "title": "Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos",
     "authors": [
