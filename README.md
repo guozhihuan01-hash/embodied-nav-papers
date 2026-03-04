@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1725** | Last updated: **2026-03-03 05:15 UTC**
+> **Total papers: 1727** | Last updated: **2026-03-04 05:10 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v1) | Liu, Zhang, Li | — | 2026-03-03 |
 | [SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/pdf/2603.01813v1) | Niu, Zhang, Ji | — | 2026-03-02 |
 | [Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos](https://arxiv.org/pdf/2602.23937v1) | Xu, Li, Chen | — | 2026-02-27 |
 | [pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI](https://arxiv.org/pdf/2602.14401v1) | Yang, Wang, Zhang | — | 2026-02-16 |
@@ -804,7 +805,6 @@
 | [Controllable Machine Unlearning via Gradient Pivoting](https://arxiv.org/pdf/2510.19226v1) | Hwang, Lim | — | 2025-10-22 |
 | [Steering Autoregressive Music Generation with Recursive Feature Machines](https://arxiv.org/pdf/2510.19127v1) | Zhao, Beaglehole, Berg-Kirkpatrick | — | 2025-10-21 |
 | [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101v1) | Jiang, Liu, Qian | — | 2025-10-21 |
-| [Motion Planning and Control of an Overactuated 4-Wheel Drive with Constrained Independent Steering](https://arxiv.org/pdf/2510.19054v1) | Liu, Hadzic, Gupta | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

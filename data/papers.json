@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.02972v1",
+    "title": "TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation",
+    "authors": [
+      "Liu",
+      "Zhang",
+      "Li"
+    ],
+    "summary": "Vision-Language Navigation (VLN) presents a unique challenge for Large Vision-Language Models (VLMs) due to their inherent architectural mismatch: VLMs are primarily pretrained on static, disembodied vision-language tasks, which fundamentally clash with the dynamic, embodied, and spatially-structured nature of navigation. Existing large-model-based methods often resort to converting rich visual and spatial information into text, forcing models to implicitly infer complex visual-topological relationships or limiting their global action capabilities. To bridge this gap, we propose TagaVLM (Topology-Aware Global Action reasoning), an end-to-end framework that explicitly injects topological structures into the VLM backbone. To introduce topological edge information, Spatial Topology Aware Residual Attention (STAR-Att) directly integrates it into the VLM's self-attention mechanism, enabling intrinsic spatial reasoning while preserving pretrained knowledge. To enhance topological node information, an Interleaved Navigation Prompt strengthens node-level visual-text alignment. Finally, with the embedded topological graph, the model is capable of global action reasoning, allowing for robust path correction. On the R2R benchmark, TagaVLM achieves state-of-the-art performance among large-model-based methods, with a Success Rate (SR) of 51.09% and SPL of 47.18 in unseen environments, outperforming prior work by 3.39% in SR and 9.08 in SPL. This demonstrates that, for embodied spatial reasoning, targeted enhancements on smaller open-source VLMs can be more effective than brute-force model scaling. The code will be released upon publication.Project page: https://apex-bjut.github.io/Taga-VLM",
+    "pdf_url": "https://arxiv.org/pdf/2603.02972v1",
+    "github_url": null,
+    "published": "2026-03-03T13:28:07+00:00",
+    "updated": "2026-03-03T13:28:07+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.01813v1",
     "title": "SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph",
     "authors": [
@@ -17606,6 +17620,20 @@
     "github_url": null,
     "published": "2025-07-17T03:14:37+00:00",
     "updated": "2025-07-17T03:14:37+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2507.12753v2",
+    "title": "osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning",
+    "authors": [
+      "Xie",
+      "Schwertfeger",
+      "Blum"
+    ],
+    "summary": "Recent open-vocabulary robot mapping methods enrich dense geometric maps with pre-trained visual-language features, achieving a high level of detail and guiding robots to find objects specified by open-vocabulary language queries. While the issue of scalability for such approaches has received some attention, another fundamental problem is that high-detail object mapping quickly becomes outdated, as objects get moved around a lot. In this work, we develop a mapping and navigation system for object-goal navigation that, from the ground up, considers the possibilities that a queried object can have moved, or may not be mapped at all. Instead of striving for high-fidelity mapping detail, we consider that the main purpose of a map is to provide environment grounding and context, which we combine with the semantic priors of LLMs to reason about object locations and deploy an active, online approach to navigate to the objects. Through simulated and real-world experiments we find that our approach tends to have higher retrieval success at shorter path lengths for static objects and by far outperforms prior approaches in cases of dynamic or unmapped object queries. We provide our code and dataset at: https://github.com/xiexiexiaoxiexie/osmAG-LLM.",
+    "pdf_url": "https://arxiv.org/pdf/2507.12753v2",
+    "github_url": "https://github.com/xiexiexiaoxiexie/osmAG-LLM",
+    "published": "2025-07-17T03:14:37+00:00",
+    "updated": "2026-03-03T02:32:51+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2507.11464v1",
