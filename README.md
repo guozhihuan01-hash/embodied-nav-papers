@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1727** | Last updated: **2026-03-04 05:10 UTC**
+> **Total papers: 1728** | Last updated: **2026-03-05 05:13 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/pdf/2603.03739v1) | Fan, Lyu, Song | — | 2026-03-04 |
 | [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v1) | Liu, Zhang, Li | — | 2026-03-03 |
 | [SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/pdf/2603.01813v1) | Niu, Zhang, Ji | — | 2026-03-02 |
 | [Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos](https://arxiv.org/pdf/2602.23937v1) | Xu, Li, Chen | — | 2026-02-27 |
@@ -804,7 +805,6 @@
 | [TheMCPCompany: Creating General-purpose Agents with Task-specific Tools](https://arxiv.org/pdf/2510.19286v2) | Esfandiarpoor, Suryanarayanan, Bach | — | 2025-10-22 |
 | [Controllable Machine Unlearning via Gradient Pivoting](https://arxiv.org/pdf/2510.19226v1) | Hwang, Lim | — | 2025-10-22 |
 | [Steering Autoregressive Music Generation with Recursive Feature Machines](https://arxiv.org/pdf/2510.19127v1) | Zhao, Beaglehole, Berg-Kirkpatrick | — | 2025-10-21 |
-| [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101v1) | Jiang, Liu, Qian | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
