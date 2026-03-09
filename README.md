@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1728** | Last updated: **2026-03-08 05:11 UTC**
+> **Total papers: 1729** | Last updated: **2026-03-09 05:20 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation](https://arxiv.org/pdf/2603.06480v1) | Wang, Liang, Li | — | 2026-03-06 |
 | [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/pdf/2603.03739v1) | Fan, Lyu, Song | — | 2026-03-04 |
 | [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v1) | Liu, Zhang, Li | — | 2026-03-03 |
 | [SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/pdf/2603.01813v1) | Niu, Zhang, Ji | — | 2026-03-02 |
@@ -804,7 +805,6 @@
 | [ConvXformer: Differentially Private Hybrid ConvNeXt-Transformer for Inertial Navigation](https://arxiv.org/pdf/2510.19352v1) | Tariq, Bilal, Hassan | — | 2025-10-22 |
 | [TheMCPCompany: Creating General-purpose Agents with Task-specific Tools](https://arxiv.org/pdf/2510.19286v2) | Esfandiarpoor, Suryanarayanan, Bach | — | 2025-10-22 |
 | [Controllable Machine Unlearning via Gradient Pivoting](https://arxiv.org/pdf/2510.19226v1) | Hwang, Lim | — | 2025-10-22 |
-| [Steering Autoregressive Music Generation with Recursive Feature Machines](https://arxiv.org/pdf/2510.19127v1) | Zhao, Beaglehole, Berg-Kirkpatrick | — | 2025-10-21 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
