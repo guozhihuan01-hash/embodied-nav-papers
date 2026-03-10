@@ -1,10 +1,13 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1729** | Last updated: **2026-03-09 05:20 UTC**
+> **Total papers: 1732** | Last updated: **2026-03-10 05:11 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [R2F: Repurposing Ray Frontiers for LLM-free Object Navigation](https://arxiv.org/pdf/2603.08475v1) | Argenziano, Marcelo, Brienza | — | 2026-03-09 |
+| [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://arxiv.org/pdf/2603.08007v1) | Tong, Dong, Ma | — | 2026-03-09 |
+| [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/pdf/2603.06914v1) | Zhu, Li, Liu | — | 2026-03-06 |
 | [History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation](https://arxiv.org/pdf/2603.06480v1) | Wang, Liang, Li | — | 2026-03-06 |
 | [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/pdf/2603.03739v1) | Fan, Lyu, Song | — | 2026-03-04 |
 | [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v1) | Liu, Zhang, Li | — | 2026-03-03 |
@@ -802,9 +805,6 @@
 | [LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1) | Ding, Xu, Fang | — | 2025-10-22 |
 | [Risk Assessment of an Autonomous Underwater Snake Robot in Confined Operations](https://arxiv.org/pdf/2510.19415v1) | Sayed | — | 2025-10-22 |
 | [ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling](https://arxiv.org/pdf/2510.19364v1) | Raja, Agishev, Prágr | — | 2025-10-22 |
-| [ConvXformer: Differentially Private Hybrid ConvNeXt-Transformer for Inertial Navigation](https://arxiv.org/pdf/2510.19352v1) | Tariq, Bilal, Hassan | — | 2025-10-22 |
-| [TheMCPCompany: Creating General-purpose Agents with Task-specific Tools](https://arxiv.org/pdf/2510.19286v2) | Esfandiarpoor, Suryanarayanan, Bach | — | 2025-10-22 |
-| [Controllable Machine Unlearning via Gradient Pivoting](https://arxiv.org/pdf/2510.19226v1) | Hwang, Lim | — | 2025-10-22 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
