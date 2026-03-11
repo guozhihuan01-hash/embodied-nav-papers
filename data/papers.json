@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.09740v1",
+    "title": "Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments",
+    "authors": [
+      "Li",
+      "Liu",
+      "Fan"
+    ],
+    "summary": "Vision-Language Navigation in Continuous Environments (VLN-CE) requires agents to learn complex reasoning from long-horizon human interactions. While Multi-modal Large Language Models (MLLMs) have driven recent progress, current training paradigms struggle to balance generalization capability, error recovery and training stability. Specifically, (i) policies derived from SFT suffer from compounding errors, struggling to recover from out-of-distribution states, and (ii) Reinforcement Fine-Tuning (RFT) methods e.g. GRPO are bottlenecked by sparse outcome rewards. Their binary feedback fails to assign credit to individual steps, leading to gradient signal collapse in failure dominant batches. To address these challenges, we introduce Step-Aware Contrastive Alignment (SACA), a framework designed to extract dense supervision from imperfect trajectories. At its core, the Perception-Grounded Step-Aware auditor evaluates progress step-by-step, disentangling failed trajectories into valid prefixes and exact divergence points. Leveraging these signals, Scenario-Conditioned Group Construction mechanism dynamically routes batches to specialized resampling and optimization strategies. Extensive experiments on VLN-CE benchmarks demonstrate that SACA achieves state-of-the-art performance.",
+    "pdf_url": "https://arxiv.org/pdf/2603.09740v1",
+    "github_url": null,
+    "published": "2026-03-10T14:45:50+00:00",
+    "updated": "2026-03-10T14:45:50+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.09163v1",
+    "title": "SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation",
+    "authors": [
+      "Liu",
+      "Xu",
+      "Chen"
+    ],
+    "summary": "Recent embodied navigation approaches leveraging Vision-Language Models (VLMs) demonstrate strong generalization in versatile Vision-Language Navigation (VLN). However, reliable path planning in complex environments remains challenging due to insufficient spatial awareness. In this work, we introduce SPAN-Nav, an end-to-end foundation model designed to infuse embodied navigation with universal 3D spatial awareness using RGB video streams. SPAN-Nav extracts spatial priors across diverse scenes through an occupancy prediction task on extensive indoor and outdoor environments. To mitigate the computational burden, we introduce a compact representation for spatial priors, finding that a single token is sufficient to encapsulate the coarse-grained cues essential for navigation tasks. Furthermore, inspired by the Chain-of-Thought (CoT) mechanism, SPAN-Nav utilizes this single spatial token to explicitly inject spatial cues into action reasoning through an end-to end framework. Leveraging multi-task co-training, SPAN-Nav captures task-adaptive cues from generalized spatial priors, enabling robust spatial awareness to generalize even to the task lacking explicit spatial supervision. To support comprehensive spatial learning, we present a massive dataset of 4.2 million occupancy annotations that covers both indoor and outdoor scenes across multi-type navigation tasks. SPAN-Nav achieves state-of-the-art performance across three benchmarks spanning diverse scenarios and varied navigation tasks. Finally, real-world experiments validate the robust generalization and practical reliability of our approach across complex physical scenarios.",
+    "pdf_url": "https://arxiv.org/pdf/2603.09163v1",
+    "github_url": null,
+    "published": "2026-03-10T03:59:34+00:00",
+    "updated": "2026-03-10T03:59:34+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.08475v1",
     "title": "R2F: Repurposing Ray Frontiers for LLM-free Object Navigation",
     "authors": [

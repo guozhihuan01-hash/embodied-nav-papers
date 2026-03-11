@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1732** | Last updated: **2026-03-10 05:11 UTC**
+> **Total papers: 1734** | Last updated: **2026-03-11 05:13 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2603.09740v1) | Li, Liu, Fan | — | 2026-03-10 |
+| [SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation](https://arxiv.org/pdf/2603.09163v1) | Liu, Xu, Chen | — | 2026-03-10 |
 | [R2F: Repurposing Ray Frontiers for LLM-free Object Navigation](https://arxiv.org/pdf/2603.08475v1) | Argenziano, Marcelo, Brienza | — | 2026-03-09 |
 | [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://arxiv.org/pdf/2603.08007v1) | Tong, Dong, Ma | — | 2026-03-09 |
 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/pdf/2603.06914v1) | Zhu, Li, Liu | — | 2026-03-06 |
@@ -803,8 +805,6 @@
 | [From Answers to Guidance: A Proactive Dialogue System for Legal Documents](https://arxiv.org/pdf/2510.19723v1) | Chouhan, Gertz | — | 2025-10-22 |
 | [Are Large Language Models Sensitive to the Motives Behind Communication?](https://arxiv.org/pdf/2510.19687v1) | Wu, Liu, Oktar | — | 2025-10-22 |
 | [LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1) | Ding, Xu, Fang | — | 2025-10-22 |
-| [Risk Assessment of an Autonomous Underwater Snake Robot in Confined Operations](https://arxiv.org/pdf/2510.19415v1) | Sayed | — | 2025-10-22 |
-| [ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling](https://arxiv.org/pdf/2510.19364v1) | Raja, Agishev, Prágr | — | 2025-10-22 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
