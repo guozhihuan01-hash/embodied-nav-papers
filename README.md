@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1734** | Last updated: **2026-03-11 05:13 UTC**
+> **Total papers: 1735** | Last updated: **2026-03-12 05:17 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/pdf/2603.10682v1) | Zheng, Ban, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Robotics-STAR-Lab/OnFly) | 2026-03-11 |
 | [Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2603.09740v1) | Li, Liu, Fan | — | 2026-03-10 |
 | [SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation](https://arxiv.org/pdf/2603.09163v1) | Liu, Xu, Chen | — | 2026-03-10 |
 | [R2F: Repurposing Ray Frontiers for LLM-free Object Navigation](https://arxiv.org/pdf/2603.08475v1) | Argenziano, Marcelo, Brienza | — | 2026-03-09 |
@@ -804,7 +805,6 @@
 | [Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](https://arxiv.org/pdf/2510.19732v2) | Gupta, Yadav, Kira | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gunshi/memo) | 2025-10-22 |
 | [From Answers to Guidance: A Proactive Dialogue System for Legal Documents](https://arxiv.org/pdf/2510.19723v1) | Chouhan, Gertz | — | 2025-10-22 |
 | [Are Large Language Models Sensitive to the Motives Behind Communication?](https://arxiv.org/pdf/2510.19687v1) | Wu, Liu, Oktar | — | 2025-10-22 |
-| [LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1) | Ding, Xu, Fang | — | 2025-10-22 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

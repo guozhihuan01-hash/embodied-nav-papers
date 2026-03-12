@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.10682v1",
+    "title": "OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency",
+    "authors": [
+      "Zheng",
+      "Ban",
+      "Zhang"
+    ],
+    "summary": "Aerial vision-language navigation (AVLN) enables UAVs to follow natural-language instructions in complex 3D environments. However, existing zero-shot AVLN methods often suffer from unstable single-stream Vision-Language Model decision-making, unreliable long-horizon progress monitoring, and a trade-off between safety and efficiency. We propose OnFly, a fully onboard, real-time framework for zero-shot AVLN. OnFly adopts a shared-perception dual-agent architecture that decouples high-frequency target generation from low-frequency progress monitoring, thereby stabilizing decision-making. It further employs a hybrid keyframe-recent-frame memory to preserve global trajectory context while maintaining KV-cache prefix stability, enabling reliable long-horizon monitoring with termination and recovery signals. In addition, a semantic-geometric verifier refines VLM-predicted targets for instruction consistency and geometric safety using VLM features and depth cues, while a receding-horizon planner generates optimized collision-free trajectories under geometric safety constraints, improving both safety and efficiency. In simulation, OnFly improves task success from 26.4% to 67.8%, compared with the strongest state-of-the-art baseline, while fully onboard real-world flights validate its feasibility for real-time deployment. The code will be released at https://github.com/Robotics-STAR-Lab/OnFly",
+    "pdf_url": "https://arxiv.org/pdf/2603.10682v1",
+    "github_url": "https://github.com/Robotics-STAR-Lab/OnFly",
+    "published": "2026-03-11T11:48:22+00:00",
+    "updated": "2026-03-11T11:48:22+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.09740v1",
     "title": "Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments",
     "authors": [
