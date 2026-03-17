@@ -1,11 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1737** | Last updated: **2026-03-16 05:50 UTC**
+> **Total papers: 1739** | Last updated: **2026-03-17 05:22 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
 | [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v1) | James, Habel, Fedoseev | — | 2026-03-13 |
+| [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v2) | James, Habel, Fedoseev | — | 2026-03-13 |
 | [HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/pdf/2603.12696v1) | Li, Yu, Zhang | — | 2026-03-13 |
 | [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/pdf/2603.10682v1) | Zheng, Ban, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Robotics-STAR-Lab/OnFly) | 2026-03-11 |
 | [Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2603.09740v1) | Li, Liu, Fan | — | 2026-03-10 |
@@ -35,6 +36,7 @@
 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v1) | An, Liu, Xu | — | 2026-01-29 |
 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/pdf/2601.21409v2) | An, Liu, Xu | — | 2026-01-29 |
 | [\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation](https://arxiv.org/pdf/2601.18188v1) | Zhu, Zhang, Wang | — | 2026-01-26 |
+| [\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation](https://arxiv.org/pdf/2601.18188v2) | Zhu, Zhang, Wang | — | 2026-01-26 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v1) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v2) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation](https://arxiv.org/pdf/2601.12742v1) | Chen, Liu, Ma | — | 2026-01-19 |
@@ -803,8 +805,6 @@
 | [Empowering Targeted Neighborhood Search via Hyper Tour for Large-Scale TSP](https://arxiv.org/pdf/2510.20169v2) | Lu, Ma, Tao | — | 2025-10-23 |
 | [Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses](https://arxiv.org/pdf/2510.20027v1) | Bowness, Poullis | — | 2025-10-22 |
 | [Simultaneous learning of state-to-state minimum-time planning and control](https://arxiv.org/pdf/2510.20008v1) | Dantu, Pěnička, Saska | — | 2025-10-22 |
-| [SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models](https://arxiv.org/pdf/2510.21850v1) | Lim, Koo, Madisetti | — | 2025-10-22 |
-| [Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](https://arxiv.org/pdf/2510.19732v2) | Gupta, Yadav, Kira | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/gunshi/memo) | 2025-10-22 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

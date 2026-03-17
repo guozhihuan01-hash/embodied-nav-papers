@@ -14,6 +14,20 @@
     "updated": "2026-03-13T11:23:53+00:00"
   },
   {
+    "id": "http://arxiv.org/abs/2603.12908v2",
+    "title": "GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation",
+    "authors": [
+      "James",
+      "Habel",
+      "Fedoseev"
+    ],
+    "summary": "Cooperative visual semantic navigation is a foundational capability for aerial robot teams operating in unknown environments. However, achieving robust open-vocabulary object-goal navigation remains challenging due to the computational constraints of deploying heavy perception models onboard and the complexity of decentralized multi-agent coordination. We present GoalSwarm, a fully decentralized multi-UAV framework for zero-shot semantic object-goal navigation. Each UAV collaboratively constructs a shared, lightweight 2D top-down semantic occupancy map by projecting depth observations from aerial vantage points, eliminating the computational burden of full 3D representations while preserving essential geometric and semantic structure. The core contributions of GoalSwarm are threefold: (1) integration of zero-shot foundation model -- SAM3 for open vocabulary detection and pixel-level segmentation, enabling open-vocabulary target identification without task-specific training; (2) a Bayesian Value Map that fuses multi-viewpoint detection confidences into a per-pixel goal-relevance distribution, enabling informed frontier scoring via Upper Confidence Bound (UCB) exploration; and (3) a decentralized coordination strategy combining semantic frontier extraction, cost-utility bidding with geodesic path costs, and spatial separation penalties to minimize redundant exploration across the swarm.",
+    "pdf_url": "https://arxiv.org/pdf/2603.12908v2",
+    "github_url": null,
+    "published": "2026-03-13T11:23:53+00:00",
+    "updated": "2026-03-16T17:50:49+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.12696v1",
     "title": "HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation",
     "authors": [
@@ -418,6 +432,20 @@
     "github_url": null,
     "published": "2026-01-26T06:16:17+00:00",
     "updated": "2026-01-26T06:16:17+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2601.18188v2",
+    "title": "\\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation",
+    "authors": [
+      "Zhu",
+      "Zhang",
+      "Wang"
+    ],
+    "summary": "Vision-and-Language Navigation (VLN) requires agents to interpret natural language instructions and act coherently in visually rich environments. However, most existing methods rely on reactive state-action mappings without explicitly action-grounded visual dynamics modeling. Lacking awareness of how actions transform subsequent visual observations, agents cannot plan actions rationally, leading to unstable behaviors, weak generalization, and cumulative error along trajectory. To address these issues, we introduce \\textsc{NaVIDA} (\\textbf{Nav}igation with \\textbf{I}nverse \\textbf{D}ynamics \\textbf{A}ugmentation), a lightweight VLN framework that incorporates inverse dynamics supervision (IDS) as an explicit objective to embed action-grounded visual dynamics into policy learning. By jointly optimizing this visual dynamics with instruction-conditioned action prediction in a shared representation and action space, \\textsc{NaVIDA} provides additional structured supervision that regularizes learning and leads to more stable and consistent navigation. To structure this supervision and extend the effective planning range, \\textsc{NaVIDA} employs hierarchical probabilistic action chunking (HPAC), which organizes trajectories into multi-step chunks and provides discriminative, longer-range visual-change cues. Extensive experiments show that \\textsc{NaVIDA} achieves superior navigation performance compared to state-of-the-art methods with fewer parameters (3B vs. 8B). Real-world robot evaluations further validate the practical feasibility and effectiveness of our approach.",
+    "pdf_url": "https://arxiv.org/pdf/2601.18188v2",
+    "github_url": null,
+    "published": "2026-01-26T06:16:17+00:00",
+    "updated": "2026-03-16T06:57:36+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2601.13976v1",
