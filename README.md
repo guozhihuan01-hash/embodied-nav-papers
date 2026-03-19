@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1739** | Last updated: **2026-03-18 05:26 UTC**
+> **Total papers: 1741** | Last updated: **2026-03-19 05:23 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.17712v1) | Huang, Huang, Yang | — | 2026-03-18 |
+| [FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation](https://arxiv.org/pdf/2603.17437v1) | Chen, Huang, An | — | 2026-03-18 |
 | [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v1) | James, Habel, Fedoseev | — | 2026-03-13 |
 | [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v2) | James, Habel, Fedoseev | — | 2026-03-13 |
 | [HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/pdf/2603.12696v1) | Li, Yu, Zhang | — | 2026-03-13 |
@@ -803,8 +805,6 @@
 | [Kinaema: a recurrent sequence model for memory and pose in motion](https://arxiv.org/pdf/2510.20261v1) | Sariyildiz, Weinzaepfel, Bono | — | 2025-10-23 |
 | [A Contact-Driven Framework for Manipulating in the Blind](https://arxiv.org/pdf/2510.20177v1) | Saleem, Yuan, Likhachev | — | 2025-10-23 |
 | [Empowering Targeted Neighborhood Search via Hyper Tour for Large-Scale TSP](https://arxiv.org/pdf/2510.20169v2) | Lu, Ma, Tao | — | 2025-10-23 |
-| [Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses](https://arxiv.org/pdf/2510.20027v1) | Bowness, Poullis | — | 2025-10-22 |
-| [Simultaneous learning of state-to-state minimum-time planning and control](https://arxiv.org/pdf/2510.20008v1) | Dantu, Pěnička, Saska | — | 2025-10-22 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.17712v1",
+    "title": "AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation",
+    "authors": [
+      "Huang",
+      "Huang",
+      "Yang"
+    ],
+    "summary": "Zero-Shot Object Navigation (ZSON) in unknown multi-floor environments presents a significant challenge. Recent methods, mostly based on semantic value greedy waypoint selection, spatial topology-enhanced memory, and Multimodal Large Language Model (MLLM) as a decision-making framework, have led to improvements. However, these architectures struggle to balance exploration and exploitation for ZSON when encountering unseen environments, especially in multi-floor settings, such as robots getting stuck at narrow intersections, endlessly wandering, or failing to find stair entrances. To overcome these challenges, we propose AERR-Nav, a Zero-Shot Object Navigation framework that dynamically adjusts its state based on the robot's environment. Specifically, AERR-Nav has the following two key advantages: (1) An Adaptive Exploration-Recovery-Reminiscing Strategy, enables robots to dynamically transition between three states, facilitating specialized responses to diverse navigation scenarios. (2) An Adaptive Exploration State featuring Fast and Slow-Thinking modes helps robots better balance exploration, exploitation, and higher-level reasoning based on evolving environmental information. Extensive experiments on the HM3D and MP3D benchmarks demonstrate that our AERR-Nav achieves state-of-the-art performance among zero-shot methods. Comprehensive ablation studies further validate the efficacy of our proposed strategy and modules.",
+    "pdf_url": "https://arxiv.org/pdf/2603.17712v1",
+    "github_url": null,
+    "published": "2026-03-18T13:31:44+00:00",
+    "updated": "2026-03-18T13:31:44+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.17437v1",
+    "title": "FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation",
+    "authors": [
+      "Chen",
+      "Huang",
+      "An"
+    ],
+    "summary": "Existing Vision-Language Navigation (VLN) task requires agents to follow verbose instructions, ignoring some potentially useful global spatial priors, limiting their capability to reason about spatial structures. Although human-readable spatial schematics (e.g., floor plans) are ubiquitous in real-world buildings, current agents lack the cognitive ability to comprehend and utilize them. To bridge this gap, we introduce \\textbf{FloorPlan-VLN}, a new paradigm that leverages structured semantic floor plans as global spatial priors to enable navigation with only concise instructions. We first construct the FloorPlan-VLN dataset, which comprises over 10k episodes across 72 scenes. It pairs more than 100 semantically annotated floor plans with Matterport3D-based navigation trajectories and concise instructions that omit step-by-step guidance. Then, we propose a simple yet effective method \\textbf{FP-Nav} that uses a dual-view, spatio-temporally aligned video sequence, and auxiliary reasoning tasks to align observations, floor plans, and instructions. When evaluated under this new benchmark, our method significantly outperforms adapted state-of-the-art VLN baselines, achieving more than a 60\\% relative improvement in navigation success rate. Furthermore, comprehensive noise modeling and real-world deployments demonstrate the feasibility and robustness of FP-Nav to actuation drift and floor plan distortions. These results validate the effectiveness of floor plan guided navigation and highlight FloorPlan-VLN as a promising step toward more spatially intelligent navigation.",
+    "pdf_url": "https://arxiv.org/pdf/2603.17437v1",
+    "github_url": null,
+    "published": "2026-03-18T07:22:48+00:00",
+    "updated": "2026-03-18T07:22:48+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.12908v1",
     "title": "GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation",
     "authors": [
