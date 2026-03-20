@@ -1,15 +1,17 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1741** | Last updated: **2026-03-19 05:23 UTC**
+> **Total papers: 1743** | Last updated: **2026-03-20 05:16 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/pdf/2603.19166v1) | Padhan, Jain, Shah | — | 2026-03-19 |
 | [AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.17712v1) | Huang, Huang, Yang | — | 2026-03-18 |
 | [FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation](https://arxiv.org/pdf/2603.17437v1) | Chen, Huang, An | — | 2026-03-18 |
 | [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v1) | James, Habel, Fedoseev | — | 2026-03-13 |
 | [GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation](https://arxiv.org/pdf/2603.12908v2) | James, Habel, Fedoseev | — | 2026-03-13 |
 | [HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/pdf/2603.12696v1) | Li, Yu, Zhang | — | 2026-03-13 |
+| [HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/pdf/2603.12696v2) | Yu, Li, Zhang | — | 2026-03-13 |
 | [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/pdf/2603.10682v1) | Zheng, Ban, Zhang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Robotics-STAR-Lab/OnFly) | 2026-03-11 |
 | [Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2603.09740v1) | Li, Liu, Fan | — | 2026-03-10 |
 | [SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation](https://arxiv.org/pdf/2603.09163v1) | Liu, Xu, Chen | — | 2026-03-10 |
@@ -803,8 +805,6 @@
 | [Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence](https://arxiv.org/pdf/2510.21860v1) | Sharrock, Petersson, Petersson | — | 2025-10-23 |
 | [A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization](https://arxiv.org/pdf/2510.20291v1) | Li, Zhao, Yang | — | 2025-10-23 |
 | [Kinaema: a recurrent sequence model for memory and pose in motion](https://arxiv.org/pdf/2510.20261v1) | Sariyildiz, Weinzaepfel, Bono | — | 2025-10-23 |
-| [A Contact-Driven Framework for Manipulating in the Blind](https://arxiv.org/pdf/2510.20177v1) | Saleem, Yuan, Likhachev | — | 2025-10-23 |
-| [Empowering Targeted Neighborhood Search via Hyper Tour for Large-Scale TSP](https://arxiv.org/pdf/2510.20169v2) | Lu, Ma, Tao | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
