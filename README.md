@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1743** | Last updated: **2026-03-22 05:20 UTC**
+> **Total papers: 1744** | Last updated: **2026-03-23 05:41 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -45,6 +45,7 @@
 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2601.13976v2) | Zuo, Mu, Jiang | — | 2026-01-20 |
 | [AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation](https://arxiv.org/pdf/2601.12742v1) | Chen, Liu, Ma | — | 2026-01-19 |
 | [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/pdf/2601.09111v1) | Li, Wu, Zhang | — | 2026-01-14 |
+| [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/pdf/2601.09111v2) | Li, Wu, Zhang | — | 2026-01-14 |
 | [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/pdf/2512.21201v1) | He, Huang, Liu | — | 2025-12-24 |
 | [ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2512.20940v1) | Ye, Mao, Cui | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Cepillar/ETP-R1) | 2025-12-24 |
 | [VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation](https://arxiv.org/pdf/2512.19021v1) | Lin, Li, Zhao | — | 2025-12-22 |
@@ -804,7 +805,6 @@
 | [Privacy Protection of Automotive Location Data Based on Format-Preserving Encryption of Geographical Coordinates](https://arxiv.org/pdf/2510.20300v1) | Ji, Jin, Li | — | 2025-10-23 |
 | [Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence](https://arxiv.org/pdf/2510.21860v1) | Sharrock, Petersson, Petersson | — | 2025-10-23 |
 | [A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization](https://arxiv.org/pdf/2510.20291v1) | Li, Zhao, Yang | — | 2025-10-23 |
-| [Kinaema: a recurrent sequence model for memory and pose in motion](https://arxiv.org/pdf/2510.20261v1) | Sariyildiz, Weinzaepfel, Bono | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
