@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1744** | Last updated: **2026-03-23 05:41 UTC**
+> **Total papers: 1746** | Last updated: **2026-03-24 05:24 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/pdf/2603.21269v1) | Liu, Zheng, Jeong | — | 2026-03-22 |
+| [Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation](https://arxiv.org/pdf/2603.20804v1) | Jin, Song, Wu | — | 2026-03-21 |
 | [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/pdf/2603.19166v1) | Padhan, Jain, Shah | — | 2026-03-19 |
 | [AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.17712v1) | Huang, Huang, Yang | — | 2026-03-18 |
 | [FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation](https://arxiv.org/pdf/2603.17437v1) | Chen, Huang, An | — | 2026-03-18 |
@@ -803,8 +805,6 @@
 | [Synthetic Data for Robust Runway Detection](https://arxiv.org/pdf/2510.20349v1) | Chigot, Wilson, Ghrib | — | 2025-10-23 |
 | [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://arxiv.org/pdf/2510.20333v2) | Chen, Song, Chai | — | 2025-10-23 |
 | [Privacy Protection of Automotive Location Data Based on Format-Preserving Encryption of Geographical Coordinates](https://arxiv.org/pdf/2510.20300v1) | Ji, Jin, Li | — | 2025-10-23 |
-| [Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence](https://arxiv.org/pdf/2510.21860v1) | Sharrock, Petersson, Petersson | — | 2025-10-23 |
-| [A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization](https://arxiv.org/pdf/2510.20291v1) | Li, Zhao, Yang | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

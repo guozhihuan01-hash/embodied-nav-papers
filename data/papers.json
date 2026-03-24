@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.21269v1",
+    "title": "DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation",
+    "authors": [
+      "Liu",
+      "Zheng",
+      "Jeong"
+    ],
+    "summary": "Vision-language Navigation (VLN) requires an agent to understand visual observations and language instructions to navigate in unseen environments. Most existing approaches rely on static scene assumptions and struggle to generalize in dynamic, real-world scenarios. To address this challenge, we propose DyGeoVLN, a dynamic geometry-aware VLN framework. Our method infuses a dynamic geometry foundation model into the VLN framework through cross-branch feature fusion to enable explicit 3D spatial representation and visual-semantic reasoning. To efficiently compress historical token information in long-horizon, dynamic navigation, we further introduce a novel pose-free and adaptive-resolution token-pruning strategy. This strategy can remove spatio-temporal redundant tokens to reduce inference cost. Extensive experiments demonstrate that our approach achieves state-of-the-art performance on multiple benchmarks and exhibits strong robustness in real-world environments.",
+    "pdf_url": "https://arxiv.org/pdf/2603.21269v1",
+    "github_url": null,
+    "published": "2026-03-22T14:56:59+00:00",
+    "updated": "2026-03-22T14:56:59+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.20804v1",
+    "title": "Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation",
+    "authors": [
+      "Jin",
+      "Song",
+      "Wu"
+    ],
+    "summary": "Vision-Language Navigation (VLN) systems are fundamentally constrained by partial observability, as an agent can only accumulate knowledge from locations it has personally visited. As multiple robots increasingly coexist in shared environments, a natural question arises: can agents navigating the same space benefit from each other's observations? In this work, we introduce Co-VLN, a minimalist, model-agnostic framework for systematically investigating whether and how peer observations from concurrently navigating agents can benefit VLN. When independently navigating agents identify common traversed locations, they exchange structured perceptual memory, effectively expanding each agent's receptive field at no additional exploration cost. We validate our framework on the R2R benchmark under two representative paradigms (the learning-based DUET and the zero-shot MapGPT), and conduct extensive analytical experiments to systematically reveal the underlying dynamics of peer observation sharing in VLN. Results demonstrate that vision-sharing enabled model yields substantial performance improvements across both paradigms, establishing a strong foundation for future research in collaborative embodied navigation.",
+    "pdf_url": "https://arxiv.org/pdf/2603.20804v1",
+    "github_url": null,
+    "published": "2026-03-21T12:59:31+00:00",
+    "updated": "2026-03-21T12:59:31+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.19166v1",
     "title": "Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation",
     "authors": [
