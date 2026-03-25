@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1746** | Last updated: **2026-03-24 05:24 UTC**
+> **Total papers: 1747** | Last updated: **2026-03-25 05:24 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -49,6 +49,7 @@
 | [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/pdf/2601.09111v1) | Li, Wu, Zhang | — | 2026-01-14 |
 | [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/pdf/2601.09111v2) | Li, Wu, Zhang | — | 2026-01-14 |
 | [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/pdf/2512.21201v1) | He, Huang, Liu | — | 2025-12-24 |
+| [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/pdf/2512.21201v2) | He, Huang, Liu | — | 2025-12-24 |
 | [ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2512.20940v1) | Ye, Mao, Cui | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/Cepillar/ETP-R1) | 2025-12-24 |
 | [VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation](https://arxiv.org/pdf/2512.19021v1) | Lin, Li, Zhao | — | 2025-12-22 |
 | [Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation](https://arxiv.org/pdf/2512.18028v1) | Sohn, Dillitzer, Corso | — | 2025-12-19 |
@@ -804,7 +805,6 @@
 | [Prefetching Cache Optimization Using Graph Neural Networks: A Modular Framework and Conceptual Analysis](https://arxiv.org/pdf/2510.21865v1) | Qowy | — | 2025-10-23 |
 | [Synthetic Data for Robust Runway Detection](https://arxiv.org/pdf/2510.20349v1) | Chigot, Wilson, Ghrib | — | 2025-10-23 |
 | [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://arxiv.org/pdf/2510.20333v2) | Chen, Song, Chai | — | 2025-10-23 |
-| [Privacy Protection of Automotive Location Data Based on Format-Preserving Encryption of Geographical Coordinates](https://arxiv.org/pdf/2510.20300v1) | Ji, Jin, Li | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

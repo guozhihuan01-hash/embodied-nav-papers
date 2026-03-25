@@ -616,6 +616,20 @@
     "updated": "2025-12-24T14:28:17+00:00"
   },
   {
+    "id": "http://arxiv.org/abs/2512.21201v2",
+    "title": "Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
+    "authors": [
+      "He",
+      "Huang",
+      "Liu"
+    ],
+    "summary": "Zero-shot object navigation (ZSON) requires robots to locate target objects in unseen environments without task-specific fine-tuning or pre-built maps, a capability crucial for service and household robotics. Existing methods perform well in simulation but struggle in realistic, cluttered environments where heavy occlusions and latent hazards make large portions of the scene unobserved. These approaches typically act on a single inferred scene, making them prone to overcommitment and unsafe behavior under uncertainty. To address these challenges, we propose Schrödinger's Navigator, a belief-aware framework that explicitly reasons over multiple trajectory-conditioned imagined 3D futures at inference time. A trajectory-conditioned 3D world model generates hypothetical observations along candidate paths, maintaining a superposition of plausible scene realizations. An adaptive, occluder-aware trajectory sampling strategy focuses imagination on uncertain regions, while a Future-Aware Value Map (FAVM) aggregates imagined futures to guide robust, proactive action selection. Evaluations in simulation and on a physical Go2 quadruped robot demonstrate that Schrödinger's Navigator outperforms strong ZSON baselines, achieving more robust self-localization, object localization, and safe navigation under severe occlusions and latent hazards. These results highlight the effectiveness of reasoning over imagined 3D futures as a scalable and generalizable strategy for zero-shot navigation in uncertain real-world environments.",
+    "pdf_url": "https://arxiv.org/pdf/2512.21201v2",
+    "github_url": null,
+    "published": "2025-12-24T14:28:17+00:00",
+    "updated": "2026-03-24T11:27:59+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2512.20940v1",
     "title": "ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments",
     "authors": [
