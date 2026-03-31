@@ -1,5 +1,33 @@
 [
   {
+    "id": "http://arxiv.org/abs/2603.27577v1",
+    "title": "Structured Observation Language for Efficient and Generalizable Vision-Language Navigation",
+    "authors": [
+      "Peng",
+      "Ma",
+      "Ma"
+    ],
+    "summary": "Vision-Language Navigation (VLN) requires an embodied agent to navigate complex environments by following natural language instructions, which typically demands tight fusion of visual and language modalities. Existing VLN methods often convert raw images into visual tokens or implicit features, requiring large-scale visual pre-training and suffering from poor generalization under environmental variations (e.g., lighting, texture). To address these issues, we propose SOL-Nav (Structured Observation Language for Navigation), a novel framework that translates egocentric visual observations into compact structured language descriptions for efficient and generalizable navigation. Specifically, we divide RGB-D images into a N*N grid, extract representative semantic, color, and depth information for each grid cell to form structured text, and concatenate this with the language instruction as pure language input to a pre-trained language model (PLM). Experimental results on standard VLN benchmarks (R2R, RxR) and real-world deployments demonstrate that SOL-Nav significantly reduces the model size and training data dependency, fully leverages the reasoning and representation capabilities of PLMs, and achieves strong generalization to unseen environments.",
+    "pdf_url": "https://arxiv.org/pdf/2603.27577v1",
+    "github_url": null,
+    "published": "2026-03-29T08:34:05+00:00",
+    "updated": "2026-03-29T08:34:05+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.26788v1",
+    "title": "ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation",
+    "authors": [
+      "Wu",
+      "Zuo",
+      "Yang"
+    ],
+    "summary": "Zero-shot object navigation requires agents to locate unseen target objects in unfamiliar environments without prior maps or task-specific training which remains a significant challenge. Although recent advancements in vision-language models(VLMs) provide promising commonsense reasoning capabilities for this task, these models still suffer from spatial hallucinations, local exploration deadlocks, and a disconnect between high-level semantic intent and low-level control. In this regard, we propose a novel hierarchical navigation framework named ReMemNav, which seamlessly integrates panoramic semantic priors and episodic memory with VLMs. We introduce the Recognize Anything Model to anchor the spatial reasoning process of the VLM. We also design an adaptive dual-modal rethinking mechanism based on an episodic semantic buffer queue. The proposed mechanism actively verifies target visibility and corrects decisions using historical memory to prevent deadlocks. For low-level action execution, ReMemNav extracts a sequence of feasible actions using depth masks, allowing the VLM to select the optimal action for mapping into actual spatial movement. Extensive evaluations on HM3D and MP3D demonstrate that ReMemNav outperforms existing training-free zero-shot baselines in both success rate and exploration efficiency. Specifically, we achieve significant absolute performance improvements, with SR and SPL increasing by 1.7% and 7.0% on HM3D v0.1, 18.2% and 11.1% on HM3D v0.2, and 8.7% and 7.9% on MP3D.",
+    "pdf_url": "https://arxiv.org/pdf/2603.26788v1",
+    "github_url": null,
+    "published": "2026-03-25T09:07:32+00:00",
+    "updated": "2026-03-25T09:07:32+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.21269v1",
     "title": "DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation",
     "authors": [
@@ -11893,6 +11921,20 @@
     "github_url": null,
     "published": "2025-10-18T14:22:32+00:00",
     "updated": "2025-10-18T14:22:32+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.16518v2",
+    "title": "DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation",
+    "authors": [
+      "Ortega-Peimbert",
+      "Busch",
+      "Homberger"
+    ],
+    "summary": "Advances in open-vocabulary semantic mapping and object navigation have enabled robots to perform an informed search of their environment for an arbitrary object. However, such zero-shot object navigation is typically designed for simple queries with an object name like \"television\" or \"blue rug\". Here, we consider more complex free-text queries with spatial relationships, such as \"find the remote on the table\" while still leveraging robustness of a semantic map. We present DIV-Nav, a real-time navigation system that efficiently addresses this problem through a series of relaxations: i) Decomposing natural language instructions with complex spatial constraints into simpler object-level queries on a semantic map, ii) computing the Intersection of individual semantic belief maps to identify regions where all objects co-exist, and iii) Validating the discovered objects against the original, complex spatial constrains via a LVLM. We further investigate how to adapt the frontier exploration objectives of online semantic mapping to such spatial search queries to more effectively guide the search process. We validate our system through extensive experiments on the MultiON benchmark and real-world deployment on a Boston Dynamics Spot robot using a Jetson Orin AGX. More details and videos are available at https://anonsub42.github.io/reponame/",
+    "pdf_url": "https://arxiv.org/pdf/2510.16518v2",
+    "github_url": null,
+    "published": "2025-10-18T14:22:32+00:00",
+    "updated": "2026-03-30T10:11:54+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2510.16457v1",

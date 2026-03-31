@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1747** | Last updated: **2026-03-30 06:00 UTC**
+> **Total papers: 1750** | Last updated: **2026-03-31 05:45 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Structured Observation Language for Efficient and Generalizable Vision-Language Navigation](https://arxiv.org/pdf/2603.27577v1) | Peng, Ma, Ma | — | 2026-03-29 |
+| [ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.26788v1) | Wu, Zuo, Yang | — | 2026-03-25 |
 | [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/pdf/2603.21269v1) | Liu, Zheng, Jeong | — | 2026-03-22 |
 | [Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation](https://arxiv.org/pdf/2603.20804v1) | Jin, Song, Wu | — | 2026-03-21 |
 | [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/pdf/2603.19166v1) | Padhan, Jain, Shah | — | 2026-03-19 |
@@ -803,8 +805,6 @@
 | [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](https://arxiv.org/pdf/2510.20549v1) | Bamdad, Hutter, Darvishy | — | 2025-10-23 |
 | [Degradation-Aware Cooperative Multi-Modal GNSS-Denied Localization Leveraging LiDAR-Based Robot Detections](https://arxiv.org/pdf/2510.20480v1) | Pritzl, Yu, Westerlund | — | 2025-10-23 |
 | [Prefetching Cache Optimization Using Graph Neural Networks: A Modular Framework and Conceptual Analysis](https://arxiv.org/pdf/2510.21865v1) | Qowy | — | 2025-10-23 |
-| [Synthetic Data for Robust Runway Detection](https://arxiv.org/pdf/2510.20349v1) | Chigot, Wilson, Ghrib | — | 2025-10-23 |
-| [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://arxiv.org/pdf/2510.20333v2) | Chen, Song, Chai | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
