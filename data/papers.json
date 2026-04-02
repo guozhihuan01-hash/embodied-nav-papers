@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2604.00265v1",
+    "title": "Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation",
+    "authors": [
+      "Zorzi",
+      "Taioli",
+      "Wang"
+    ],
+    "summary": "We propose Question-Asking Navigation (QAsk-Nav), the first reproducible benchmark for Collaborative Instance Object Navigation (CoIN) that enables an explicit, separate assessment of embodied navigation and collaborative question asking. CoIN tasks an embodied agent with reaching a target specified in free-form natural language under partial observability, using only egocentric visual observations and interactive natural-language dialogue with a human, where the dialogue can help to resolve ambiguity among visually similar object instances. Existing CoIN benchmarks are primarily focused on navigation success and offer no support for consistent evaluation of collaborative interaction. To address this limitation, QAsk-Nav provides (i) a lightweight question-asking protocol scored independently of navigation, (ii) an enhanced navigation protocol with realistic, diverse, high-quality target descriptions, and (iii) an open-source dataset, that includes 28,000 quality-checked reasoning and question-asking traces for training and analysis of interactive capabilities of CoIN models. Using the proposed QAsk-Nav benchmark, we develop Light-CoNav, a lightweight unified model for collaborative navigation that is 3x smaller and 70x faster than existing modular methods, while outperforming state-of-the-art CoIN approaches in generalization to unseen objects and environments. Project page at https://benchmarking-interaction.github.io/",
+    "pdf_url": "https://arxiv.org/pdf/2604.00265v1",
+    "github_url": null,
+    "published": "2026-03-31T21:45:00+00:00",
+    "updated": "2026-03-31T21:45:00+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.27577v1",
     "title": "Structured Observation Language for Efficient and Generalizable Vision-Language Navigation",
     "authors": [
@@ -10967,6 +10981,20 @@
     "github_url": null,
     "published": "2025-10-23T15:57:43+00:00",
     "updated": "2025-10-30T08:58:18+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.20685v3",
+    "title": "C-NAV: Towards Self-Evolving Continual Object Navigation in Open World",
+    "authors": [
+      "Yu",
+      "Zhu",
+      "Liu"
+    ],
+    "summary": "Embodied agents are expected to perform object navigation in dynamic, open-world environments. However, existing approaches typically rely on static trajectories and a fixed set of object categories during training, overlooking the real-world requirement for continual adaptation to evolving scenarios. To facilitate related studies, we introduce the continual object navigation benchmark, which requires agents to acquire navigation skills for new object categories while avoiding catastrophic forgetting of previously learned knowledge. To tackle this challenge, we propose C-Nav, a continual visual navigation framework that integrates two key innovations: (1) A dual-path anti-forgetting mechanism, which comprises feature distillation that aligns multi-modal inputs into a consistent representation space to ensure representation consistency, and feature replay that retains temporal features within the action decoder to ensure policy consistency. (2) An adaptive sampling strategy that selects diverse and informative experiences, thereby reducing redundancy and minimizing memory overhead. Extensive experiments across multiple model architectures demonstrate that C-Nav consistently outperforms existing approaches, achieving superior performance even compared to baselines with full trajectory retention, while significantly lowering memory requirements. The code will be publicly available at https://bigtree765.github.io/C-Nav-project.",
+    "pdf_url": "https://arxiv.org/pdf/2510.20685v3",
+    "github_url": null,
+    "published": "2025-10-23T15:57:43+00:00",
+    "updated": "2026-04-01T05:23:51+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2510.20666v1",

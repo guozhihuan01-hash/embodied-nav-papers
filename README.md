@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1750** | Last updated: **2026-04-01 05:57 UTC**
+> **Total papers: 1752** | Last updated: **2026-04-02 05:43 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation](https://arxiv.org/pdf/2604.00265v1) | Zorzi, Taioli, Wang | — | 2026-03-31 |
 | [Structured Observation Language for Efficient and Generalizable Vision-Language Navigation](https://arxiv.org/pdf/2603.27577v1) | Peng, Ma, Ma | — | 2026-03-29 |
 | [ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.26788v1) | Wu, Zuo, Yang | — | 2026-03-25 |
 | [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/pdf/2603.21269v1) | Liu, Zheng, Jeong | — | 2026-03-22 |
@@ -800,11 +801,10 @@
 | [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/pdf/2510.20808v1) | Aljalbout, Xing, Romero | — | 2025-10-23 |
 | [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/pdf/2510.20708v1) | Soutullo, Yermo, Vilariño | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
+| [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v3) | Yu, Zhu, Liu | — | 2025-10-23 |
 | [Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts](https://arxiv.org/pdf/2510.20666v1) | Jaramillo-Civill, González-Gudiño, Imbiriba | — | 2025-10-23 |
 | [A Gateway to Quantum Computing for Industrial Engineering](https://arxiv.org/pdf/2510.20620v1) | Tucker, Mohammadisiahroudi | — | 2025-10-23 |
 | [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](https://arxiv.org/pdf/2510.20549v1) | Bamdad, Hutter, Darvishy | — | 2025-10-23 |
-| [Degradation-Aware Cooperative Multi-Modal GNSS-Denied Localization Leveraging LiDAR-Based Robot Detections](https://arxiv.org/pdf/2510.20480v1) | Pritzl, Yu, Westerlund | — | 2025-10-23 |
-| [Prefetching Cache Optimization Using Graph Neural Networks: A Modular Framework and Conceptual Analysis](https://arxiv.org/pdf/2510.21865v1) | Qowy | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
