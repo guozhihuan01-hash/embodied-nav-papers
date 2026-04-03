@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2604.02318v1",
+    "title": "Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning",
+    "authors": [
+      "Li",
+      "Lyu",
+      "Wu"
+    ],
+    "summary": "Training-free Vision-Language Navigation (VLN) agents powered by foundation models can follow instructions and explore 3D environments. However, existing approaches rely on greedy frontier selection and passive spatial memory, leading to inefficient behaviors such as local oscillation and redundant revisiting. We argue that this stems from a lack of metacognitive capabilities: the agent cannot monitor its exploration progress, diagnose strategy failures, or adapt accordingly. To address this, we propose MetaNav, a metacognitive navigation agent integrating spatial memory, history-aware planning, and reflective correction. Spatial memory builds a persistent 3D semantic map. History-aware planning penalizes revisiting to improve efficiency. Reflective correction detects stagnation and uses an LLM to generate corrective rules that guide future frontier selection. Experiments on GOAT-Bench, HM3D-OVON, and A-EQA show that MetaNav achieves state-of-the-art performance while reducing VLM queries by 20.7%, demonstrating that metacognitive reasoning significantly improves robustness and efficiency.",
+    "pdf_url": "https://arxiv.org/pdf/2604.02318v1",
+    "github_url": null,
+    "published": "2026-04-02T17:58:08+00:00",
+    "updated": "2026-04-02T17:58:08+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2604.00265v1",
     "title": "Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation",
     "authors": [
