@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1753** | Last updated: **2026-04-06 06:01 UTC**
+> **Total papers: 1754** | Last updated: **2026-04-07 05:48 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -803,8 +803,8 @@
 | [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/pdf/2510.20708v1) | Soutullo, Yermo, Vilariño | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v3) | Yu, Zhu, Liu | — | 2025-10-23 |
+| [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v4) | Yu, Zhu, Liu | — | 2025-10-23 |
 | [Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts](https://arxiv.org/pdf/2510.20666v1) | Jaramillo-Civill, González-Gudiño, Imbiriba | — | 2025-10-23 |
-| [A Gateway to Quantum Computing for Industrial Engineering](https://arxiv.org/pdf/2510.20620v1) | Tucker, Mohammadisiahroudi | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
