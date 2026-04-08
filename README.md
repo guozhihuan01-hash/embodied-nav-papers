@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1754** | Last updated: **2026-04-07 05:48 UTC**
+> **Total papers: 1755** | Last updated: **2026-04-08 05:48 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -9,6 +9,7 @@
 | [Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation](https://arxiv.org/pdf/2604.00265v1) | Zorzi, Taioli, Wang | — | 2026-03-31 |
 | [Structured Observation Language for Efficient and Generalizable Vision-Language Navigation](https://arxiv.org/pdf/2603.27577v1) | Peng, Ma, Ma | — | 2026-03-29 |
 | [ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.26788v1) | Wu, Zuo, Yang | — | 2026-03-25 |
+| [ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/pdf/2603.26788v2) | Wu, Zuo, Yang | — | 2026-03-25 |
 | [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/pdf/2603.21269v1) | Liu, Zheng, Jeong | — | 2026-03-22 |
 | [Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation](https://arxiv.org/pdf/2603.20804v1) | Jin, Song, Wu | — | 2026-03-21 |
 | [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/pdf/2603.19166v1) | Padhan, Jain, Shah | — | 2026-03-19 |
@@ -804,7 +805,6 @@
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v3) | Yu, Zhu, Liu | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v4) | Yu, Zhu, Liu | — | 2025-10-23 |
-| [Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts](https://arxiv.org/pdf/2510.20666v1) | Jaramillo-Civill, González-Gudiño, Imbiriba | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

@@ -56,6 +56,20 @@
     "updated": "2026-03-25T09:07:32+00:00"
   },
   {
+    "id": "http://arxiv.org/abs/2603.26788v2",
+    "title": "ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation",
+    "authors": [
+      "Wu",
+      "Zuo",
+      "Yang"
+    ],
+    "summary": "Zero-shot object navigation requires agents to locate unseen target objects in unfamiliar environments without prior maps or task-specific training which remains a significant challenge. Although recent advancements in vision-language models(VLMs) provide promising commonsense reasoning capabilities for this task, these models still suffer from spatial hallucinations, local exploration deadlocks, and a disconnect between high-level semantic intent and low-level control. In this regard, we propose a novel hierarchical navigation framework named ReMemNav, which seamlessly integrates panoramic semantic priors and episodic memory with VLMs. We introduce the Recognize Anything Model to anchor the spatial reasoning process of the VLM. We also design an adaptive dual-modal rethinking mechanism based on an episodic semantic buffer queue. The proposed mechanism actively verifies target visibility and corrects decisions using historical memory to prevent deadlocks. For low-level action execution, ReMemNav extracts a sequence of feasible actions using depth masks, allowing the VLM to select the optimal action for mapping into actual spatial movement. Extensive evaluations on HM3D and MP3D demonstrate that ReMemNav outperforms existing training-free zero-shot baselines in both success rate and exploration efficiency. Specifically, we achieve significant absolute performance improvements, with SR and SPL increasing by 1.7% and 7.0% on HM3D v0.1, 18.2% and 11.1% on HM3D v0.2, and 8.7% and 7.9% on MP3D.",
+    "pdf_url": "https://arxiv.org/pdf/2603.26788v2",
+    "github_url": null,
+    "published": "2026-03-25T09:07:32+00:00",
+    "updated": "2026-04-07T12:54:16+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2603.21269v1",
     "title": "DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation",
     "authors": [
