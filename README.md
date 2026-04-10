@@ -1,10 +1,12 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1755** | Last updated: **2026-04-09 05:50 UTC**
+> **Total papers: 1757** | Last updated: **2026-04-10 05:59 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models](https://arxiv.org/pdf/2604.07957v1) | Chen, Jiang, Su | — | 2026-04-09 |
+| [Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models](https://arxiv.org/pdf/2604.07705v1) | Xia, Zhou, Tang | — | 2026-04-09 |
 | [Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning](https://arxiv.org/pdf/2604.02318v1) | Li, Lyu, Wu | — | 2026-04-02 |
 | [Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation](https://arxiv.org/pdf/2604.00265v1) | Zorzi, Taioli, Wang | — | 2026-03-31 |
 | [Structured Observation Language for Efficient and Generalizable Vision-Language Navigation](https://arxiv.org/pdf/2603.27577v1) | Peng, Ma, Ma | — | 2026-03-29 |
@@ -803,8 +805,6 @@
 | [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/pdf/2510.20808v1) | Aljalbout, Xing, Romero | — | 2025-10-23 |
 | [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/pdf/2510.20708v1) | Soutullo, Yermo, Vilariño | — | 2025-10-23 |
 | [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
-| [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v3) | Yu, Zhu, Liu | — | 2025-10-23 |
-| [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v4) | Yu, Zhu, Liu | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
