@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1757** | Last updated: **2026-04-14 06:02 UTC**
+> **Total papers: 1759** | Last updated: **2026-04-15 06:02 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation](https://arxiv.org/pdf/2604.12486v1) | Zhou, Wu, Wang | — | 2026-04-14 |
 | [WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models](https://arxiv.org/pdf/2604.07957v1) | Chen, Jiang, Su | — | 2026-04-09 |
 | [Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models](https://arxiv.org/pdf/2604.07705v1) | Xia, Zhou, Tang | — | 2026-04-09 |
 | [Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning](https://arxiv.org/pdf/2604.02318v1) | Li, Lyu, Wu | — | 2026-04-02 |
@@ -403,6 +404,7 @@
 | [Distributed Switching Model Predictive Control Meets Koopman Operator for Dynamic Obstacle Avoidance](https://arxiv.org/pdf/2511.17186v2) | Azarbahram, Huanca, Incremona | — | 2025-11-21 |
 | [Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition](https://arxiv.org/pdf/2511.17183v1) | Mishra, Agarwal, Lone | — | 2025-11-21 |
 | [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2511.17097v1) | Wang, Wang, Lian | — | 2025-11-21 |
+| [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2511.17097v2) | Wang, Wang, Lian | — | 2025-11-21 |
 | [Distributed Cubature Kalman Filter based on MEEF with Adaptive Cauchy Kernel for State Estimation](https://arxiv.org/pdf/2511.17066v1) | Nguyen, Zhao, Hu | — | 2025-11-21 |
 | [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/pdf/2511.17052v1) | Chen, Cai, Wang | — | 2025-11-21 |
 | [MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/pdf/2511.17013v1) | Ying, Ye, Luo | — | 2025-11-21 |
@@ -803,8 +805,6 @@
 | [An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing](https://arxiv.org/pdf/2510.20932v1) | Ahmari, Mohammadi, Hemmati | — | 2025-10-23 |
 | [VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](https://arxiv.org/pdf/2510.20818v1) | Castro, Rajagopal, Gorbatov | — | 2025-10-23 |
 | [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/pdf/2510.20808v1) | Aljalbout, Xing, Romero | — | 2025-10-23 |
-| [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/pdf/2510.20708v1) | Soutullo, Yermo, Vilariño | — | 2025-10-23 |
-| [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](https://arxiv.org/pdf/2510.20685v2) | Yu, Zhu, Liu | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

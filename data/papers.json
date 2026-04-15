@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2604.12486v1",
+    "title": "DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation",
+    "authors": [
+      "Zhou",
+      "Wu",
+      "Wang"
+    ],
+    "summary": "Long-horizon collaborative vision-language navigation (VLN) is critical for multi-robot systems to accomplish complex tasks beyond the capability of a single agent. CoNavBench takes a first step by introducing the first collaborative long-horizon VLN benchmark with relay-style multi-robot tasks, a collaboration taxonomy, along with graph-grounded generation and evaluation to model handoffs and rendezvous in shared environments. However, existing benchmarks and evaluations often do not enforce strictly synchronized dual-robot rollout on a shared world timeline, and they typically rely on static coordination policies that cannot adapt when new cross-agent evidence emerges. We present Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation (DeCoNav), a decentralized framework that couples event-triggered dialogue with dynamic task allocation and replanning for real-time, adaptive coordination. In DeCoNav, robots exchange compact semantic states via dialogue without a central controller. When informative events such as new evidence, uncertainty, or conflicts arise, dialogue is triggered to dynamically reassign subgoals and replan under synchronized execution. Implemented in DeCoNavBench with 1,213 tasks across 176 HM3D scenes, DeCoNav improves the both-success rate (BSR) by 69.2%, demonstrating the effectiveness of dialogue-driven, dynamically reallocated planning for multi-robot collaboration.",
+    "pdf_url": "https://arxiv.org/pdf/2604.12486v1",
+    "github_url": null,
+    "published": "2026-04-14T09:11:55+00:00",
+    "updated": "2026-04-14T09:11:55+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2604.07957v1",
     "title": "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models",
     "authors": [
@@ -5481,6 +5495,20 @@
     "github_url": null,
     "published": "2025-11-21T09:52:07+00:00",
     "updated": "2025-11-21T09:52:07+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.17097v2",
+    "title": "Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation",
+    "authors": [
+      "Wang",
+      "Wang",
+      "Lian"
+    ],
+    "summary": "Vision-Language Navigation requires agents to act coherently over long horizons by understanding not only local visual context but also how far they have advanced within a multi-step instruction. However, recent Vision-Language-Action models focus on direct action prediction and earlier progress methods predict numeric achievements; both overlook the monotonic co-progression property of the observation and instruction sequences. Building on this insight, Progress-Think introduces semantic progress reasoning, predicting instruction-style progress from visual observations to enable more accurate navigation. To achieve this without expensive annotations, we propose a three-stage framework. In the initial stage, Self-Aligned Progress Pretraining bootstraps a reasoning module via a novel differentiable alignment between visual history and instruction prefixes. Then, Progress-Guided Policy Pretraining injects learned progress states into the navigation context, guiding the policy toward consistent actions. Finally, Progress-Policy Co-Finetuning jointly optimizes both modules with tailored progress-aware reinforcement objectives. Experiments on R2R-CE and RxR-CE show state-of-the-art success and efficiency, demonstrating that semantic progress yields a more consistent representation of navigation advancement.",
+    "pdf_url": "https://arxiv.org/pdf/2511.17097v2",
+    "github_url": null,
+    "published": "2025-11-21T09:52:07+00:00",
+    "updated": "2026-04-14T15:21:17+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2511.17066v1",
