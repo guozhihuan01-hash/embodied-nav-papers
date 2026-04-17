@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1759** | Last updated: **2026-04-16 06:06 UTC**
+> **Total papers: 1760** | Last updated: **2026-04-17 06:05 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
@@ -167,6 +167,7 @@
 | [Non Normalized Shared-Constraint Dynamic Games for Human-Robot Collaboration with Asymmetric Responsibility](https://arxiv.org/pdf/2512.08688v1) | Pustilnik, Borrelli | — | 2025-12-09 |
 | [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v1) | Xu, Liu, Luomei | — | 2025-12-09 |
 | [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v2) | Xu, Liu, Luomei | — | 2025-12-09 |
+| [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/pdf/2512.08639v3) | Xu, Liu, Luomei | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/return-sleep/AeroAct) | 2025-12-09 |
 | [Inferring Causal Relationships to Improve Caching for Clients with Correlated Requests: Applications to VR](https://arxiv.org/pdf/2512.08626v1) | Bari, Veciana, Zhou | — | 2025-12-09 |
 | [NLoS Localization with Single Base Station Based on Radio Map](https://arxiv.org/pdf/2512.08608v1) | Xu, Guo, Wang | — | 2025-12-09 |
 | [RVC-NMPC: Nonlinear Model Predictive Control with Reciprocal Velocity Constraints for Mutual Collision Avoidance in Agile UAV Flight](https://arxiv.org/pdf/2512.08574v1) | Kratky, Penicka, Gupta | — | 2025-12-09 |
@@ -804,7 +805,6 @@
 | [L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/pdf/2510.20976v1) | Cui, Wu, Zhao | — | 2025-10-23 |
 | [An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing](https://arxiv.org/pdf/2510.20932v1) | Ahmari, Mohammadi, Hemmati | — | 2025-10-23 |
 | [VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](https://arxiv.org/pdf/2510.20818v1) | Castro, Rajagopal, Gorbatov | — | 2025-10-23 |
-| [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/pdf/2510.20808v1) | Aljalbout, Xing, Romero | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
