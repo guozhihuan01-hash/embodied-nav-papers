@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2604.17473v1",
+    "title": "Dual-Anchoring: Addressing State Drift in Vision-Language Navigation",
+    "authors": [
+      "Wu",
+      "Li",
+      "Lyu"
+    ],
+    "summary": "Vision-Language Navigation(VLN) requires an agent to navigate through 3D environments by following natural language instructions. While recent Video Large Language Models(Video-LLMs) have largely advanced VLN, they remain highly susceptible to State Drift in long scenarios. In these cases, the agent's internal state drifts away from the true task execution state, leading to aimless wandering and failure to execute essential maneuvers in the instruction. We attribute this failure to two distinct cognitive deficits: Progress Drift, where the agent fails to distinguish completed sub-goals from remaining ones, and Memory Drift, where the agent's history representations degrade, making it lose track of visited landmarks. In this paper, we propose a Dual-Anchoring Framework that explicitly anchors the instruction progress and history representations. First, to address progress drift, we introduce Instruction Progress Anchoring, which supervises the agent to generate structured text tokens that delineate completed versus remaining sub-goals. Second, to mitigate memory drift, we propose Memory Landmark Anchoring, which utilizes a Landmark-Centric World Model to retrospectively predict object-centric embeddings extracted by the Segment Anything Model, compelling the agent to explicitly verify past observations and preserve distinct representations of visited landmarks. Facilitating this framework, we curate two extensive datasets: 3.6 million samples with explicit progress descriptions, and 937k grounded landmark data for retrospective verification. Extensive experiments in both simulation and real-world environments demonstrate the superiority of our method, achieving a 15.2% improvement in Success Rate and a remarkable 24.7% gain on long-horizon trajectories. To facilitate further research, we will release our code, data generation pipelines, and the collected datasets.",
+    "pdf_url": "https://arxiv.org/pdf/2604.17473v1",
+    "github_url": null,
+    "published": "2026-04-19T15:03:38+00:00",
+    "updated": "2026-04-19T15:03:38+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2604.12486v1",
     "title": "DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation",
     "authors": [
@@ -362,6 +376,20 @@
     "github_url": null,
     "published": "2026-03-03T13:28:07+00:00",
     "updated": "2026-03-03T13:28:07+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.02972v2",
+    "title": "TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation",
+    "authors": [
+      "Liu",
+      "Zhang",
+      "Li"
+    ],
+    "summary": "Vision-Language Navigation (VLN) presents a unique challenge for Large Vision-Language Models (VLMs) due to their inherent architectural mismatch: VLMs are primarily pretrained on static, disembodied vision-language tasks, which fundamentally clash with the dynamic, embodied, and spatially-structured nature of navigation. Existing large-model-based methods often resort to converting rich visual and spatial information into text, forcing models to implicitly infer complex visual-topological relationships or limiting their global action capabilities. To bridge this gap, we propose TagaVLM (Topology-Aware Global Action reasoning), an end-to-end framework that explicitly injects topological structures into the VLM backbone. To introduce topological edge information, Spatial Topology Aware Residual Attention (STAR-Att) directly integrates it into the VLM's self-attention mechanism, enabling intrinsic spatial reasoning while preserving pretrained knowledge. To enhance topological node information, an Interleaved Navigation Prompt strengthens node-level visual-text alignment. Finally, with the embedded topological graph, the model is capable of global action reasoning, allowing for robust path correction. On the R2R benchmark, TagaVLM achieves state-of-the-art performance among large-model-based methods, with a Success Rate (SR) of 51.09% and SPL of 47.18 in unseen environments, outperforming prior work by 3.39% in SR and 9.08 in SPL. This demonstrates that, for embodied spatial reasoning, targeted enhancements on smaller open-source VLMs can be more effective than brute-force model scaling. The code can be found on our project page: https://apex-bjut.github.io/Taga-VLM",
+    "pdf_url": "https://arxiv.org/pdf/2603.02972v2",
+    "github_url": null,
+    "published": "2026-03-03T13:28:07+00:00",
+    "updated": "2026-04-19T15:40:04+00:00"
   },
   {
     "id": "http://arxiv.org/abs/2603.01813v1",

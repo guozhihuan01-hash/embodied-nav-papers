@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1760** | Last updated: **2026-04-20 06:17 UTC**
+> **Total papers: 1762** | Last updated: **2026-04-21 06:04 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://arxiv.org/pdf/2604.17473v1) | Wu, Li, Lyu | — | 2026-04-19 |
 | [DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation](https://arxiv.org/pdf/2604.12486v1) | Zhou, Wu, Wang | — | 2026-04-14 |
 | [WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models](https://arxiv.org/pdf/2604.07957v1) | Chen, Jiang, Su | — | 2026-04-09 |
 | [Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models](https://arxiv.org/pdf/2604.07705v1) | Xia, Zhou, Tang | — | 2026-04-09 |
@@ -31,6 +32,7 @@
 | [History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation](https://arxiv.org/pdf/2603.06480v1) | Wang, Liang, Li | — | 2026-03-06 |
 | [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](https://arxiv.org/pdf/2603.03739v1) | Fan, Lyu, Song | — | 2026-03-04 |
 | [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v1) | Liu, Zhang, Li | — | 2026-03-03 |
+| [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2603.02972v2) | Liu, Zhang, Li | — | 2026-03-03 |
 | [SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/pdf/2603.01813v1) | Niu, Zhang, Ji | — | 2026-03-02 |
 | [Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos](https://arxiv.org/pdf/2602.23937v1) | Xu, Li, Chen | — | 2026-02-27 |
 | [pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI](https://arxiv.org/pdf/2602.14401v1) | Yang, Wang, Zhang | — | 2026-02-16 |
@@ -803,8 +805,6 @@
 | [Soppia: A Structured Prompting Framework for the Proportional Assessment of Non-Pecuniary Damages in Personal Injury Cases](https://arxiv.org/pdf/2510.21082v1) | Araujo | — | 2025-10-24 |
 | [Revisiting Replanning from Scratch: Real-Time Incremental Planning with Fast Almost-Surely Asymptotically Optimal Planners](https://arxiv.org/pdf/2510.21074v1) | Sabbadini, Liu, Ruan | — | 2025-10-24 |
 | [L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/pdf/2510.20976v1) | Cui, Wu, Zhao | — | 2025-10-23 |
-| [An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing](https://arxiv.org/pdf/2510.20932v1) | Ahmari, Mohammadi, Hemmati | — | 2025-10-23 |
-| [VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](https://arxiv.org/pdf/2510.20818v1) | Castro, Rajagopal, Gorbatov | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
