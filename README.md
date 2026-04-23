@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1762** | Last updated: **2026-04-22 06:02 UTC**
+> **Total papers: 1763** | Last updated: **2026-04-23 06:07 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation](https://arxiv.org/pdf/2604.19536v1) | Wang, Zhu, Wang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/NIneeeeeem/LiveVLN) | 2026-04-21 |
 | [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://arxiv.org/pdf/2604.17473v1) | Wu, Li, Lyu | — | 2026-04-19 |
 | [DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation](https://arxiv.org/pdf/2604.12486v1) | Zhou, Wu, Wang | — | 2026-04-14 |
 | [WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models](https://arxiv.org/pdf/2604.07957v1) | Chen, Jiang, Su | — | 2026-04-09 |
@@ -804,7 +805,6 @@
 | [Navigating Through Turbulence: Blueprint for the Next Generation of Weather-Climate Scientists](https://arxiv.org/pdf/2510.21123v1) | Zhang, Wang, Reed | — | 2025-10-24 |
 | [Soppia: A Structured Prompting Framework for the Proportional Assessment of Non-Pecuniary Damages in Personal Injury Cases](https://arxiv.org/pdf/2510.21082v1) | Araujo | — | 2025-10-24 |
 | [Revisiting Replanning from Scratch: Real-Time Incremental Planning with Fast Almost-Surely Asymptotically Optimal Planners](https://arxiv.org/pdf/2510.21074v1) | Sabbadini, Liu, Ruan | — | 2025-10-24 |
-| [L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/pdf/2510.20976v1) | Cui, Wu, Zhao | — | 2025-10-23 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
