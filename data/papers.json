@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2604.21363v1",
+    "title": "A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration",
+    "authors": [
+      "Xu",
+      "Liu",
+      "Yang"
+    ],
+    "summary": "Bridging the gap between embodied intelligence and embedded deployment remains a key challenge in intelligent robotic systems, where perception, reasoning, and planning must operate under strict constraints on computation, memory, energy, and real-time execution. In vision-language navigation (VLN), existing approaches often face a fundamental trade-off between strong reasoning capabilities and efficient deployment on real-world platforms. In this paper, we present a deployable embodied VLN system that achieves both high efficiency and robust high-level reasoning on real-world robotic platforms. To achieve this, we decouple the system into three asynchronous modules: a real-time perception module for continuous environment sensing, a memory integration module for spatial-semantic aggregation, and a reasoning module for high-level decision making. We incrementally construct a cognitive memory graph to encode scene information, which is further decomposed into subgraphs to enable reasoning with a vision-language model (VLM). To further improve navigation efficiency and accuracy, we also leverage the cognitive memory graph to formulate the exploration problem as a context-aware Weighted Traveling Repairman Problem (WTRP), which minimizes the weighted waiting time of viewpoints. Extensive experiments in both simulation and real-world robotic platforms demonstrate improved navigation success and efficiency over existing VLN approaches, while maintaining real-time performance on resource-constrained hardware.",
+    "pdf_url": "https://arxiv.org/pdf/2604.21363v1",
+    "github_url": null,
+    "published": "2026-04-23T07:27:00+00:00",
+    "updated": "2026-04-23T07:27:00+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2604.19536v1",
     "title": "LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation",
     "authors": [
