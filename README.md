@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1764** | Last updated: **2026-04-30 06:30 UTC**
+> **Total papers: 1765** | Last updated: **2026-05-01 06:39 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation](https://arxiv.org/pdf/2604.27620v1) | Li, Wu, Xu | — | 2026-04-30 |
 | [A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/pdf/2604.21363v1) | Xu, Liu, Yang | — | 2026-04-23 |
 | [LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation](https://arxiv.org/pdf/2604.19536v1) | Wang, Zhu, Wang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/NIneeeeeem/LiveVLN) | 2026-04-21 |
 | [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://arxiv.org/pdf/2604.17473v1) | Wu, Li, Lyu | — | 2026-04-19 |
@@ -804,7 +805,6 @@
 | [Towards Physically Executable 3D Gaussian for Embodied Navigation](https://arxiv.org/pdf/2510.21307v2) | Miao, Wei, Ge | — | 2025-10-24 |
 | [World Models Should Prioritize the Unification of Physical and Social Dynamics](https://arxiv.org/pdf/2510.21219v1) | Zhang, Ma, Huang | — | 2025-10-24 |
 | [Navigating Through Turbulence: Blueprint for the Next Generation of Weather-Climate Scientists](https://arxiv.org/pdf/2510.21123v1) | Zhang, Wang, Reed | — | 2025-10-24 |
-| [Soppia: A Structured Prompting Framework for the Proportional Assessment of Non-Pecuniary Damages in Personal Injury Cases](https://arxiv.org/pdf/2510.21082v1) | Araujo | — | 2025-10-24 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
