@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2605.01700v1",
+    "title": "TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation",
+    "authors": [
+      "Wang",
+      "Zhang",
+      "Zhang"
+    ],
+    "summary": "Existing zero-shot Object Goal Navigation (ObjectNav) methods often exploit commonsense knowledge from large language or vision-language models to guide navigation. However, such knowledge arises from internet-scale text rather than embodied 3D experience, and episodic observations collected during navigation are typically discarded, preventing the accumulation of lifelong experience. To this end, we propose Trajectory RAG (TrajRAG), a retrieval-augmented generation framework that enhances large-model reasoning by retrieving geometric-semantic experiences. TrajRAG incrementally accumulates episodic observations from past navigation episodes. To structure these observations, we propose a topological-polar (topo-polar) trajectory representation that compactly encodes spatial layouts and semantic contexts, effectively removing redundancies in raw episodic observations. A hierarchical chunking structure further organizes similar topo-polar trajectories into unified summaries, enabling coarse-to-fine retrieval. During navigation, candidate frontiers generate multiple trajectory hypotheses that query TrajRAG for similar past trajectories, guiding large-model reasoning for waypoint selection. New experiences are continually consolidated into TrajRAG, enabling the accumulation of lifelong navigation experience. Experiments on MP3D, HM3D-v1, and HM3D-v2 show that TrajRAG effectively retrieves relevant geometric-semantic experiences and improves zero-shot ObjectNav performance.",
+    "pdf_url": "https://arxiv.org/pdf/2605.01700v1",
+    "github_url": null,
+    "published": "2026-05-03T03:51:24+00:00",
+    "updated": "2026-05-03T03:51:24+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2604.27620v1",
     "title": "SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation",
     "authors": [
