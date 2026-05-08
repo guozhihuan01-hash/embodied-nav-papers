@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1766** | Last updated: **2026-05-07 06:38 UTC**
+> **Total papers: 1767** | Last updated: **2026-05-08 05:59 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [NavOne: One-Step Global Planning for Vision-Language Navigation on Top-Down Maps](https://arxiv.org/pdf/2605.06317v1) | Zhan, Li, Zheng | — | 2026-05-07 |
 | [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](https://arxiv.org/pdf/2605.01700v1) | Wang, Zhang, Zhang | — | 2026-05-03 |
 | [SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation](https://arxiv.org/pdf/2604.27620v1) | Li, Wu, Xu | — | 2026-04-30 |
 | [A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/pdf/2604.21363v1) | Xu, Liu, Yang | — | 2026-04-23 |
@@ -804,7 +805,6 @@
 | [PREVENT: Proactive Risk Evaluation and Vigilant Execution of Tasks for Mobile Robotic Chemists using Multi-Modal Behavior Trees](https://arxiv.org/pdf/2510.21438v1) | Veeramani, Zhou, Munguia-Galeano | — | 2025-10-24 |
 | [Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain](https://arxiv.org/pdf/2510.21369v1) | Medeiros, Dessy, Boaventura | — | 2025-10-24 |
 | [Towards Physically Executable 3D Gaussian for Embodied Navigation](https://arxiv.org/pdf/2510.21307v2) | Miao, Wei, Ge | — | 2025-10-24 |
-| [World Models Should Prioritize the Unification of Physical and Social Dynamics](https://arxiv.org/pdf/2510.21219v1) | Zhang, Ma, Huang | — | 2025-10-24 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 

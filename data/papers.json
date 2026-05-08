@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2605.06317v1",
+    "title": "NavOne: One-Step Global Planning for Vision-Language Navigation on Top-Down Maps",
+    "authors": [
+      "Zhan",
+      "Li",
+      "Zheng"
+    ],
+    "summary": "Existing Vision-Language Navigation (VLN) methods typically adopt an egocentric, step-by-step paradigm, which struggles with error accumulation and limits efficiency. While recent approaches attempt to leverage pre-built environment maps, they often rely on incrementally updating memory graphs or scoring discrete path proposals, which restricts continuous spatial reasoning and creates discrete bottlenecks. We propose Top-Down VLN (TD-VLN), reformulating navigation as a one-step global path planning problem on pre-built top-down maps, supported by our newly constructed R2R-TopDown dataset. To solve this, we introduce NavOne, a unified framework that directly predicts dense path probabilities over multi-modal maps in a single end-to-end forward pass. NavOne features a Top-Down Map Fuser for joint multi-modal map representation, and extends Attention Residuals for spatial-aware depth mixing. Extensive experiments on R2R-TopDown show that NavOne achieves state-of-the-art performance among map-based VLN methods, with a planning-stage speedup of 8x over existing map-based baselines and 80x over egocentric methods, enabling highly efficient global navigation.",
+    "pdf_url": "https://arxiv.org/pdf/2605.06317v1",
+    "github_url": null,
+    "published": "2026-05-07T14:16:58+00:00",
+    "updated": "2026-05-07T14:16:58+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2605.01700v1",
     "title": "TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation",
     "authors": [
