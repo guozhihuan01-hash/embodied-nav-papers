@@ -1,5 +1,47 @@
 [
   {
+    "id": "http://arxiv.org/abs/2605.10376v1",
+    "title": "SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation",
+    "authors": [
+      "Rawal",
+      "Ravva",
+      "Abir"
+    ],
+    "summary": "Vision-Language Models (VLMs) have advanced rapidly in multimodal perception and language understanding, yet it remains unclear whether they can reliably ground language into spatially coherent, plausibly executable actions in 3D digital environments. We introduce SleepWalk, a benchmark for evaluating instruction-grounded trajectory prediction in single-scene 3D worlds generated from textual scene descriptions and filtered for navigability. Unlike prior navigation benchmarks centered on long-range exploration across rooms, SleepWalk targets localized, interaction-centric embodied reasoning: given rendered visual observations and a natural-language instruction, a model must predict a trajectory that respects scene geometry, avoids collisions, and terminates at an action-compatible location. The benchmark covers diverse indoor and outdoor environments and organizes tasks into three tiers of spatial and temporal difficulty, enabling fine-grained analysis of grounding under increasing compositional complexity. Using a standardized pointwise judge-based evaluation protocol, we evaluate three frontier VLMs on 2,472 curated 3D environments with nine instructions per scene. Results reveal systematic failures in grounded spatial reasoning, especially under occlusion, interaction constraints, and multi-step instructions: performance drops as the difficulty level of the tasks increase. In general, current VLMs can somewhat produce trajectories that are simultaneously spatially coherent, plausibly executable, and aligned with intended actions. By exposing failures in a controlled yet scalable setting, SleepWalk provides a critical benchmark for advancing grounded multimodal reasoning, embodied planning, vision-language navigation, and action-capable agents in 3D environments.",
+    "pdf_url": "https://arxiv.org/pdf/2605.10376v1",
+    "github_url": null,
+    "published": "2026-05-11T11:20:14+00:00",
+    "updated": "2026-05-11T11:20:14+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2605.09869v1",
+    "title": "ConsistNav: Closing the Action Consistency Gap in Zero-Shot Object Navigation with Semantic Executive Control",
+    "authors": [
+      "Wang",
+      "Li",
+      "Zhang"
+    ],
+    "summary": "Zero-shot object navigation has advanced rapidly with open-vocabulary detectors, image--text models, and language-guided exploration. However, even after current methods detect a plausible target hypothesis, the agent may still oscillate between exploration and pursuit, or abandon the object near success. We identify this failure mode as an action consistency gap: semantic evidence is repeatedly reinterpreted at each step without persistent commitment across the episode. We introduce ConsistNav, a training-free zero-shot ObjectNav framework built around a semantic executive composed of three coordinated modules: Finite-State Executive Controller stages target pursuit through guarded semantic phases; Persistent Candidate Memory accumulates cross-frame target evidence into stable object hypotheses; and Stability-Aware Action Control suppresses rotational stagnation, ineffective pursuit, and unverified stopping. This design changes neither the detector nor the low-level planner; instead, it controls when semantic evidence should influence navigation and when it should be suppressed or revisited. We conduct extensive experiments on HM3D and MP3D, where ConsistNav achieves state-of-the-art results among compared zero-shot ObjectNav methods and improves SR by 11.4% and SPL by 7.9% over the controlled baseline on MP3D. Ablation studies and real-world deployment experiments further demonstrate the effectiveness and robustness of the proposed executive mechanism.",
+    "pdf_url": "https://arxiv.org/pdf/2605.09869v1",
+    "github_url": null,
+    "published": "2026-05-11T01:51:45+00:00",
+    "updated": "2026-05-11T01:51:45+00:00"
+  },
+  {
+    "id": "http://arxiv.org/abs/2605.09053v1",
+    "title": "LCGNav: Local Candidate-Aware Geometric Enhancement for General Topological Planning in Vision-Language Navigation",
+    "authors": [
+      "Peng",
+      "Guo",
+      "Yang"
+    ],
+    "summary": "Online topological planning has become an effective paradigm for Vision-Language Navigation in Continuous Environments (VLN-CE), but existing methods still suffer from two limitations: redundant local depth information and weakened focus on current frontier candidates as the topological graph grows. To address this, we propose LCGNav, a modular local geometric enhancement framework for topological VLN. LCGNav explicitly converts candidate depth views into 3D point clouds and applies physical truncation based on the agent's reachable range, enabling more compact local geometric modeling. It further introduces a dimension-preserving local fusion strategy with transient state degradation, so that geometric enhancement is applied only to the currently relevant ghost nodes without changing the original planner interface. Experiments on R2R-CE and RxR-CE show that LCGNav serves as an effective cross-architecture enhancement module, consistently improving multiple key metrics of representative online topological baselines with low additional training cost. When integrated with ETP-R1, LCGNav achieves the best performance among the compared online topological methods on the val-unseen splits of the R2R-CE and RxR-CE benchmarks. The code is available at https://github.com/shannanshouyin/LCGNav.",
+    "pdf_url": "https://arxiv.org/pdf/2605.09053v1",
+    "github_url": "https://github.com/shannanshouyin/LCGNav",
+    "published": "2026-05-09T16:56:38+00:00",
+    "updated": "2026-05-09T16:56:38+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2605.06317v1",
     "title": "NavOne: One-Step Global Planning for Vision-Language Navigation on Top-Down Maps",
     "authors": [
