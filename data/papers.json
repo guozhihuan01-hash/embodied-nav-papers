@@ -1,5 +1,19 @@
 [
   {
+    "id": "http://arxiv.org/abs/2605.13321v1",
+    "title": "HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation",
+    "authors": [
+      "Xu",
+      "Li",
+      "Chen"
+    ],
+    "summary": "VLN has achieved remarkable progress by scaling data and model capacity. However, the assumption of a static environment breaks down in real-world indoor scenarios, where robots inevitably encounter dynamic pedestrians. Existing human-aware approaches typically treat humans merely as moving obstacles based on implicit visual cues, lacking the explicit reasoning required to interpret human intentions or maintain social norms. To address this, we propose HCSG, the first human-centric framework for VLN. This framework provides a robust foundation for safe, socially intelligent navigation in dynamic human-robot environments that shifts the paradigm from passive collision avoidance to active human behavior understanding. Specifically, HCSG introduces a unified Human Understanding Module that synergizes two key capabilities: (i) geometric forecasting, which predicts human pose and trajectory to anticipate future motion dynamics; and (ii) semantic interpretation, which leverages a Vision-Language Model (VLM) to generate natural language descriptions of human actions and intentions. These semantic-geometric representations are fused into the agent's topological map for instruction-conditioned planning. Furthermore, a social distance loss is introduced to enforce socially compliant interaction distances. Extensive experiments on the HA-VLNCE benchmark demonstrate that HCSG significantly outperforms state-of-the-art methods, achieving a 14% improvement in Success Rate and a 34% reduction in Collision Rate. Our project can be seen at https://haoxuanxu1024.github.io/HCSG/.",
+    "pdf_url": "https://arxiv.org/pdf/2605.13321v1",
+    "github_url": null,
+    "published": "2026-05-13T10:34:47+00:00",
+    "updated": "2026-05-13T10:34:47+00:00"
+  },
+  {
     "id": "http://arxiv.org/abs/2605.10376v1",
     "title": "SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation",
     "authors": [

@@ -1,10 +1,11 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1771** | Last updated: **2026-05-13 06:50 UTC**
+> **Total papers: 1772** | Last updated: **2026-05-14 06:49 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
+| [HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](https://arxiv.org/pdf/2605.13321v1) | Xu, Li, Chen | — | 2026-05-13 |
 | [SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation](https://arxiv.org/pdf/2605.10376v1) | Rawal, Ravva, Abir | — | 2026-05-11 |
 | [ConsistNav: Closing the Action Consistency Gap in Zero-Shot Object Navigation with Semantic Executive Control](https://arxiv.org/pdf/2605.09869v1) | Wang, Li, Zhang | — | 2026-05-11 |
 | [LCGNav: Local Candidate-Aware Geometric Enhancement for General Topological Planning in Vision-Language Navigation](https://arxiv.org/pdf/2605.09053v1) | Peng, Guo, Yang | [![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github)](https://github.com/shannanshouyin/LCGNav) | 2026-05-09 |
@@ -804,7 +805,6 @@
 | [Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning](https://arxiv.org/pdf/2510.21648v1) | Ravikumar, Sundhar, Vijayakumar | — | 2025-10-24 |
 | [Swimming patterns of a multi-mode bacterial swimmer in fluid shear flow](https://arxiv.org/pdf/2510.21548v1) | Muraveva, Datta, Park | — | 2025-10-24 |
 | [AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation](https://arxiv.org/pdf/2510.21536v1) | Vijayakumar, M | — | 2025-10-24 |
-| [Recommended Practices for NPOV Research on Wikipedia](https://arxiv.org/pdf/2510.21526v1) | Johnson, Liou, Rogers | — | 2025-10-24 |
 
 > 💡 Showing top 800 recent papers. Full dataset: [`data/papers.json`](data/papers.json)
 
