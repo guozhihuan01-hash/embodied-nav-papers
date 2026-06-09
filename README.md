@@ -1,7 +1,7 @@
 # 🤖 Embodied Navigation Papers (2024–Now)
 
 > Auto-updated daily via GitHub Actions.  
-> **Total papers: 1772** | Last updated: **2026-06-08 08:56 UTC**
+> **Total papers: 1772** | Last updated: **2026-06-09 07:52 UTC**
 
 | Title | Authors | Code | Date |
 |-------|---------|------|------|
